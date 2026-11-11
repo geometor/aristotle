@@ -1,0 +1,207 @@
+{
+  "corpus": "Aristotelis Loci Geometrici et Noetici",
+  "repository": "geometor-aristotle",
+  "greek_standard": "Immanuel Bekker, Aristotelis Opera, Prussian Academy (Berlin, 1831; Oxford repr. 1837) & W. D. Ross Metaphysics (Oxford, 1924)",
+  "english_standard": "The Works of Aristotle Translated into English (Oxford: Clarendon Press, 1908–1931, ed. J. A. Smith & W. D. Ross)",
+  "total_sources": 18,
+  "sources": [
+    {
+      "id": "categoriae-el",
+      "work": "Categoriae (Κατηγορίαι)",
+      "language": "el",
+      "file": "resources/aristotle/sources/el/tlg0086.tlg006.bekker1837.xml",
+      "edition": "Immanuel Bekker (ed.), Aristotelis Opera, Vol. 1 (Berlin: Prussian Academy, 1831; repr. Oxford University Press, 1837)",
+      "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg006/tlg0086.tlg006.1st1K-grc1.xml",
+      "rights": "Public Domain (1831/1837 print; OpenGreekAndLatin First1KGreek)",
+      "bytes": 135209,
+      "sha256": "21d9e74b33be6955a759b1ebc736c709942e53f2796445ed5dd61cd9825a1527"
+    },
+    {
+      "id": "analytica-el",
+      "work": "Analytica Priora et Posteriora (Ἀναλυτικὰ Πρότερα καὶ Ὕστερα)",
+      "language": "el",
+      "file": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml",
+      "edition": "Immanuel Bekker (ed.), Aristotelis Opera, Vol. 1 (Berlin: Prussian Academy, 1831; repr. Oxford University Press, 1837)",
+      "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg001/tlg0086.tlg001.1st1K-grc1.xml",
+      "rights": "Public Domain (1831/1837 print; OpenGreekAndLatin First1KGreek)",
+      "bytes": 720811,
+      "sha256": "f0ab3906d784ff8a2834cd5b1408339f69931003c0b387ac8654f10beccb52b4"
+    },
+    {
+      "id": "topica-el",
+      "work": "Topica (Τοπικά)",
+      "language": "el",
+      "file": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml",
+      "edition": "Immanuel Bekker (ed.), Aristotelis Opera, Vol. 1 (Berlin: Prussian Academy, 1831; repr. Oxford University Press, 1837)",
+      "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg044/tlg0086.tlg044.1st1K-grc1.xml",
+      "rights": "Public Domain (1831/1837 print; OpenGreekAndLatin First1KGreek)",
+      "bytes": 568875,
+      "sha256": "6ceab0bb7999fdcfb0152a1d7a88b1786b67ce57306ddb0d73865952c06583c2"
+    },
+    {
+      "id": "de-anima-el",
+      "work": "De Anima (Περὶ ψυχῆς)",
+      "language": "el",
+      "file": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml",
+      "edition": "Immanuel Bekker (ed.), Aristotelis Opera, Vol. 3 (Berlin: Prussian Academy, 1831; repr. Oxford University Press, 1837)",
+      "source_url": "https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg002/tlg0086.tlg002.1st1K-grc1.xml",
+      "rights": "Public Domain (1831/1837 print; OpenGreekAndLatin First1KGreek)",
+      "bytes": 259983,
+      "sha256": "f53348904300da7598b364c620575b5b4edb89f2aa203d7c4ad6e5e29ec78578"
+    },
+    {
+      "id": "metaphysica-el",
+      "work": "Metaphysica (Τὰ μετὰ τὰ φυσικά)",
+      "language": "el",
+      "file": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml",
+      "edition": "W. D. Ross (ed.), Aristotle's Metaphysics, Vols. 1–2, with Bekker (1831) pagination (Oxford: Clarendon Press, 1924)",
+      "source_url": "https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg025/tlg0086.tlg025.perseus-grc2.xml",
+      "rights": "Public Domain (1924 print; Perseus Digital Library canonical-greekLit)",
+      "bytes": 981807,
+      "sha256": "5440c4370570a8af515d25acbe63b9992b6cbc3bbafe2e36a7af77d82663fc1d"
+    },
+    {
+      "id": "physica-b2-el",
+      "work": "Physica (Φυσικὴ ἀκρόασις), Book II",
+      "language": "el",
+      "file": "resources/aristotle/sources/el/physica_book2_bekker1831.txt",
+      "edition": "Immanuel Bekker (ed.), Aristotelis Opera, Vol. 1 (Berlin: Prussian Academy / Georg Reimer, 1831), transcribed on Greek Wikisource (Βικιθήκη)",
+      "source_url": "https://el.wikisource.org/wiki/%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE%CF%82_%CE%91%CE%BA%CF%81%CE%BF%CE%AC%CF%83%CE%B5%CF%89%CF%82/2",
+      "rights": "Public Domain (1831 print; Wikisource CC BY-SA 4.0 markup stripped to plain text)",
+      "bytes": 62892,
+      "sha256": "16c7d8177eb581d22a5f5c01ea0bf0301d10568cb72d868813a3a30dc3a56840"
+    },
+    {
+      "id": "physica-b3-el",
+      "work": "Physica (Φυσικὴ ἀκρόασις), Book III",
+      "language": "el",
+      "file": "resources/aristotle/sources/el/physica_book3_bekker1831.txt",
+      "edition": "Immanuel Bekker (ed.), Aristotelis Opera, Vol. 1 (Berlin: Prussian Academy / Georg Reimer, 1831), transcribed on Greek Wikisource (Βικιθήκη)",
+      "source_url": "https://el.wikisource.org/wiki/%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE%CF%82_%CE%91%CE%BA%CF%81%CE%BF%CE%AC%CF%83%CE%B5%CF%89%CF%82/3",
+      "rights": "Public Domain (1831 print; Wikisource CC BY-SA 4.0 markup stripped to plain text)",
+      "bytes": 59381,
+      "sha256": "62f05b605f4ba9a2d97b623dc259e38be003a2cc9c0ac806f9a1c0263363b360"
+    },
+    {
+      "id": "physica-b4-el",
+      "work": "Physica (Φυσικὴ ἀκρόασις), Book IV",
+      "language": "el",
+      "file": "resources/aristotle/sources/el/physica_book4_bekker1831.txt",
+      "edition": "Immanuel Bekker (ed.), Aristotelis Opera, Vol. 1 (Berlin: Prussian Academy / Georg Reimer, 1831), transcribed on Greek Wikisource (Βικιθήκη)",
+      "source_url": "https://el.wikisource.org/wiki/%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE%CF%82_%CE%91%CE%BA%CF%81%CE%BF%CE%AC%CF%83%CE%B5%CF%89%CF%82/4",
+      "rights": "Public Domain (1831 print; Wikisource CC BY-SA 4.0 markup stripped to plain text)",
+      "bytes": 117487,
+      "sha256": "594fa3c2e27ae8fde22788cda9fc11717ecd56ad00d01032e93a4e639c33e6c5"
+    },
+    {
+      "id": "physica-b6-el",
+      "work": "Physica (Φυσικὴ ἀκρόασις), Book VI",
+      "language": "el",
+      "file": "resources/aristotle/sources/el/physica_book6_bekker1831.txt",
+      "edition": "Immanuel Bekker (ed.), Aristotelis Opera, Vol. 1 (Berlin: Prussian Academy / Georg Reimer, 1831), transcribed on Greek Wikisource (Βικιθήκη)",
+      "source_url": "https://el.wikisource.org/wiki/%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE%CF%82_%CE%91%CE%BA%CF%81%CE%BF%CE%AC%CF%83%CE%B5%CF%89%CF%82/6",
+      "rights": "Public Domain (1831 print; Wikisource CC BY-SA 4.0 markup stripped to plain text)",
+      "bytes": 79038,
+      "sha256": "8648a33cdddd6aec12190465da9487c64d9327488fe6f96dcce3e694fe1d33a2"
+    },
+    {
+      "id": "de-caelo-b1-el",
+      "work": "De Caelo (Περὶ οὐρανοῦ), Book I",
+      "language": "el",
+      "file": "resources/aristotle/sources/el/de_caelo_book1_bekker1831.txt",
+      "edition": "Immanuel Bekker (ed.), Aristotelis Opera, Vol. 1 (Berlin: Prussian Academy / Georg Reimer, 1831), transcribed on Greek Wikisource (Βικιθήκη)",
+      "source_url": "https://el.wikisource.org/wiki/%CE%A0%CE%B5%CF%81%CE%AF_%CE%9F%CF%85%CF%81%CE%B1%CE%BD%CE%BF%CF%8D/1",
+      "rights": "Public Domain (1831 print; Wikisource CC BY-SA 4.0 markup stripped to plain text)",
+      "bytes": 114805,
+      "sha256": "c30d1bcfdd0807f1a76d609c9a393a1612de07880943ba8e63725302d06f1da4"
+    },
+    {
+      "id": "anal-post-en",
+      "work": "Posterior Analytics",
+      "language": "en",
+      "file": "resources/aristotle/sources/en/posterior_analytics_mure.txt",
+      "edition": "G. R. G. Mure (trans.), The Works of Aristotle Translated into English, ed. W. D. Ross, Vol. I (Oxford: Clarendon Press, 1926/1928)",
+      "source_url": "http://classics.mit.edu/Aristotle/posterior.mb.txt",
+      "rights": "Public Domain (Oxford Translation of Aristotle, Clarendon Press, 1908–1931)",
+      "bytes": 193150,
+      "sha256": "9cda765169b04c8b45996134d2d2d4634952276e76553dc3367d0d6e2fc807c4"
+    },
+    {
+      "id": "categoriae-en",
+      "work": "Categories",
+      "language": "en",
+      "file": "resources/aristotle/sources/en/categories_edghill.txt",
+      "edition": "E. M. Edghill (trans.), The Works of Aristotle Translated into English, ed. W. D. Ross, Vol. I (Oxford: Clarendon Press, 1928)",
+      "source_url": "http://classics.mit.edu/Aristotle/categories.mb.txt",
+      "rights": "Public Domain (Oxford Translation of Aristotle, Clarendon Press, 1908–1931)",
+      "bytes": 82302,
+      "sha256": "3336f34d3fe28079d4028f6a8db7b85177613af43c4aeac7fb5167db4c8d06d5"
+    },
+    {
+      "id": "anal-prior-en",
+      "work": "Prior Analytics",
+      "language": "en",
+      "file": "resources/aristotle/sources/en/prior_analytics_jenkinson.txt",
+      "edition": "A. J. Jenkinson (trans.), The Works of Aristotle Translated into English, ed. W. D. Ross, Vol. I (Oxford: Clarendon Press, 1928)",
+      "source_url": "http://classics.mit.edu/Aristotle/prior.mb.txt",
+      "rights": "Public Domain (Oxford Translation of Aristotle, Clarendon Press, 1908–1931)",
+      "bytes": 260865,
+      "sha256": "a426d08d43d71efad0c84a9286a1c91797c15a330bb61199cd0644a7abcbc779"
+    },
+    {
+      "id": "topica-en",
+      "work": "Topics",
+      "language": "en",
+      "file": "resources/aristotle/sources/en/topics_pickard_cambridge.txt",
+      "edition": "W. A. Pickard-Cambridge (trans.), The Works of Aristotle Translated into English, ed. W. D. Ross, Vol. I (Oxford: Clarendon Press, 1928)",
+      "source_url": "http://classics.mit.edu/Aristotle/topics.mb.txt",
+      "rights": "Public Domain (Oxford Translation of Aristotle, Clarendon Press, 1908–1931)",
+      "bytes": 392824,
+      "sha256": "d532ed5dbb3a6062060c96f9c1189bf4044b393488fa584873fead1c7df4a111"
+    },
+    {
+      "id": "physica-en",
+      "work": "Physics",
+      "language": "en",
+      "file": "resources/aristotle/sources/en/physics_hardie_gaye.txt",
+      "edition": "R. P. Hardie and R. K. Gaye (trans.), The Works of Aristotle Translated into English, ed. W. D. Ross, Vol. II (Oxford: Clarendon Press, 1930)",
+      "source_url": "http://classics.mit.edu/Aristotle/physics.mb.txt",
+      "rights": "Public Domain (Oxford Translation of Aristotle, Clarendon Press, 1908–1931)",
+      "bytes": 465919,
+      "sha256": "27860dc2b8f21688aaffbd8710e240ed9faf362e3534e759716530a0e31cfb33"
+    },
+    {
+      "id": "de-caelo-en",
+      "work": "On the Heavens (De Caelo)",
+      "language": "en",
+      "file": "resources/aristotle/sources/en/on_the_heavens_stocks.txt",
+      "edition": "J. L. Stocks (trans.), The Works of Aristotle Translated into English, ed. W. D. Ross, Vol. II (Oxford: Clarendon Press, 1922/1930)",
+      "source_url": "http://classics.mit.edu/Aristotle/heavens.mb.txt",
+      "rights": "Public Domain (Oxford Translation of Aristotle, Clarendon Press, 1908–1931)",
+      "bytes": 226129,
+      "sha256": "bc51324d451f01de997e8667c5bf1e9e31aacaa2d7de133c0be93ab08db3dc1b"
+    },
+    {
+      "id": "de-anima-en",
+      "work": "On the Soul (De Anima)",
+      "language": "en",
+      "file": "resources/aristotle/sources/en/on_the_soul_smith.txt",
+      "edition": "J. A. Smith (trans.), The Works of Aristotle Translated into English, ed. W. D. Ross, Vol. III (Oxford: Clarendon Press, 1931)",
+      "source_url": "http://classics.mit.edu/Aristotle/soul.mb.txt",
+      "rights": "Public Domain (Oxford Translation of Aristotle, Clarendon Press, 1908–1931)",
+      "bytes": 179981,
+      "sha256": "d7ad4fada469986cd69af9f8f798363851c5118653ee647b6f465d6fdb8a9469"
+    },
+    {
+      "id": "metaphysica-en",
+      "work": "Metaphysics",
+      "language": "en",
+      "file": "resources/aristotle/sources/en/metaphysics_ross.txt",
+      "edition": "W. D. Ross (trans.), The Works of Aristotle Translated into English, Vol. VIII (Oxford: Clarendon Press, 1908; 2nd ed. 1928)",
+      "source_url": "http://classics.mit.edu/Aristotle/metaphysics.mb.txt",
+      "rights": "Public Domain (Oxford Translation of Aristotle, Clarendon Press, 1908–1931)",
+      "bytes": 618394,
+      "sha256": "a1d368578860f2e2b0621a7a28cde1c8b411d0b2c79f790b330564d044e9eb4a"
+    }
+  ]
+}

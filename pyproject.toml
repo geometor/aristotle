@@ -1,0 +1,52 @@
+[project]
+name = "geometor-aristotle"
+dynamic = ["version"]
+authors = [
+  { name = "phi ARCHITECT", email = "phi@geometor.com" },
+]
+description = "Aristotle's Foundational Texts on Geometry, Demonstrative Science (Episteme), Abstraction, and the Continuum (Loci Geometrici et Noetici) — Synchronized Bekker Greek & Oxford English Book Codex."
+readme = "README.md"
+requires-python = ">=3.13"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "ruff",
+]
+
+[project.scripts]
+geometor-aristotle = "geometor.aristotle.cli:main"
+
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["geometor"]
+namespaces = true
+
+[tool.setuptools.dynamic]
+version = {attr = "geometor.aristotle.__version__"}
+
+[project.urls]
+"Website" = "https://geometor.github.io/aristotle"
+"Repository" = "https://github.com/geometor/aristotle"
+"Issues" = "https://github.com/geometor/aristotle/issues"
+
+[tool.ruff]
+lint.select = ["E", "F", "I", "ANN", "D"]
+lint.ignore = ["E501"]
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

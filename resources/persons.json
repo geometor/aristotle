@@ -1,0 +1,254 @@
+{
+  "aristotle": {
+    "name": "Aristotle of Stagira",
+    "dates": "384 – 322 BC",
+    "role": "Founder of the Peripatetic School & Architect of Demonstrative Science",
+    "bio": "Student of Plato at the Academy (367–347 BC) and founder of the Lyceum. Formulated the logic of demonstrative science (apodeixis), the classification of axioms, postulates, and definitions, the theory of the continuum and potential infinite, and the noetics of mathematical abstraction in intelligible matter."
+  },
+  "plato": {
+    "name": "Plato of Athens",
+    "dates": "c. 428 – 347 BC",
+    "role": "Founder of the Academy & Philosopher of Mathematical Intermediates",
+    "bio": "Established geometry at the heart of philosophical education (Meno, Republic VI–VII, Timaeus). Posited eternal, motionless mathematical intermediates (ta mathēmatika) between sensible particulars and transcendent Forms—the primary target of Aristotle's ontological critique in Metaphysics B and M."
+  },
+  "pythagoras": {
+    "name": "Pythagoras & the Pythagoreans",
+    "dates": "6th – 4th c. BC",
+    "role": "Italic School of Number, Harmonics & Cosmic Geometry",
+    "bio": "Discovered harmonic ratios, the application of areas, and the incommensurability of the diagonal; cited by Aristotle in De Caelo I.1 on the triad of spatial dimensions and critiqued in Metaphysics A, M, and N for treating numbers as the material substance of sensible bodies."
+  },
+  "zeno": {
+    "name": "Zeno of Elea",
+    "dates": "c. 495 – c. 430 BC",
+    "role": "Eleatic Dialectician of Continuum & Motion Paradoxes",
+    "bio": "Formulated the aporia of place (Physics IV.1, 209a23) and the four celebrated paradoxes of motion—Dichotomy, Achilles, Flying Arrow, and Stadium—analyzed and resolved by Aristotle in Physics VI.2 and VI.9 via the distinction between infinity by division and infinity of extent."
+  },
+  "democritus": {
+    "name": "Democritus of Abdera",
+    "dates": "c. 460 – c. 370 BC",
+    "role": "Atomist Natural Philosopher & Geometer of Cone Sections",
+    "bio": "Posited indivisible corporeal atoms and void; opposed by Aristotle throughout Physics IV and VI, which prove that continuous magnitudes cannot be composed of indivisibles."
+  },
+  "protagoras": {
+    "name": "Protagoras of Abdera",
+    "dates": "c. 490 – c. 420 BC",
+    "role": "Sophist Critic of Geometrical Idealization",
+    "bio": "Cited in Metaphysics B.2 (998a2–4) as attempting to refute geometers by arguing that a physical circle touches a straight ruler not at a single indivisible point, but along an extended stretch."
+  },
+  "hippocrates-chios": {
+    "name": "Hippocrates of Chios",
+    "dates": "fl. c. 440 BC",
+    "role": "Author of the Earliest Elements & Quadrature of Lunes",
+    "bio": "Pioneered geometric reduction (apagōgē) and squared specific curvilinear lunes (meniskoi), though Aristotle critiques a fallacious general quadrature by lunes (Soph. El. 11; Phys. I.2, 185a16; Anal. Prior. II.25, 69a32)."
+  },
+  "antiphon": {
+    "name": "Antiphon the Sophist",
+    "dates": "5th c. BC",
+    "role": "Inscriber of Polygons for Circle Quadrature",
+    "bio": "Attempted to square the circle by endlessly doubling the sides of an inscribed polygon until its perimeter supposedly coincided with the circumference—violating the infinite divisibility of continuous magnitude (Phys. I.2, 185a17)."
+  },
+  "bryson": {
+    "name": "Bryson of Heraclea",
+    "dates": "fl. late 5th / early 4th c. BC",
+    "role": "Sophistical Geometer of Circle Quadrature",
+    "bio": "Critiqued in Posterior Analytics I.9 (75b40–76a3) for attempting to square the circle via an over-general non-geometrical principle regarding intermediates between circumscribed and inscribed polygons, violating genus-specificity."
+  },
+  "archytas": {
+    "name": "Archytas of Tarentum",
+    "dates": "c. 428 – 347 BC",
+    "role": "Pythagorean Geometer, Harmonic Theorist & Statesman",
+    "bio": "Solved the duplication of the cube by three-dimensional intersection of cylinder, torus, and cone, and advanced mathematical harmonics and mechanics."
+  },
+  "theaetetus": {
+    "name": "Theaetetus of Athens",
+    "dates": "c. 417 – c. 369 BC",
+    "role": "Academic Geometer of Irrationals & the Five Regular Solids",
+    "bio": "Classified quadratic irrational magnitudes through anthyphairesis (Topics VIII.3, 158b29–35; Elements Book X) and completed the construction of the five cosmic polyhedra (Elements Book XIII)."
+  },
+  "eudoxus": {
+    "name": "Eudoxus of Cnidus",
+    "dates": "c. 408 – c. 355 BC",
+    "role": "Architect of the General Theory of Proportions & Method of Exhaustion",
+    "bio": "Contemporary of Plato and Aristotle's senior colleague at the Academy. Created the universal theory of proportions (Elements Book V), enabling theorems such as alternating proportion (Anal. Post. I.5, 74a17–25) to be proved at once for numbers, lines, solids, and times."
+  },
+  "menaechmus": {
+    "name": "Menaechmus",
+    "dates": "fl. c. 350 BC",
+    "role": "Discoverer of Conic Sections & Theorist of Mathematical Principles",
+    "bio": "Pupil of Eudoxus who debated the classification of mathematical principles, propositions, and constructions within the fourth-century Academy contemporaneous with Aristotle's Analytics."
+  },
+  "euclid": {
+    "name": "Euclid of Alexandria",
+    "dates": "fl. c. 300 BC",
+    "role": "Author of the Elements (Στοιχεῖα)",
+    "bio": "Compiled the canonical thirteen books of the Elements a generation after Aristotle's death, systematizing Definitions, Postulates, and Common Notions in close structural dialogue with Posterior Analytics I.2 and I.10."
+  },
+  "archimedes": {
+    "name": "Archimedes of Syracuse",
+    "dates": "c. 287 – 212 BC",
+    "role": "Master of Exhaustion, Quadrature & Mathematical Physics",
+    "bio": "Perfected the Eudoxian method of exhaustion and explicit continuity postulates ('Archimedes' Axiom', prefigured in Aristotle Physics III.6–7 and VI.2)."
+  },
+  "pappus": {
+    "name": "Pappus of Alexandria",
+    "dates": "fl. c. 320 AD",
+    "role": "Late Antique Geometer & Author of the Mathematical Collection",
+    "bio": "Preserved the Greek treasury of geometric analysis and synthesis (Synagoge Book VII), illuminating the distinction between problematic construction and theorematic demonstration."
+  },
+  "alexander": {
+    "name": "Alexander of Aphrodisias",
+    "dates": "fl. c. 200 AD",
+    "role": "The Exegete of Aristotle",
+    "bio": "Authoritative Peripatetic commentator on Prior Analytics, Topics, and Metaphysics A–Δ; preserved key reconstructions of Aristotle's pre-Euclidean geometric proofs and Bryson's quadrature."
+  },
+  "themistius": {
+    "name": "Themistius",
+    "dates": "c. 317 – c. 388 AD",
+    "role": "Paraphrast of Posterior Analytics, Physics & De Anima",
+    "bio": "Composed lucid Greek paraphrases of Aristotle's Posterior Analytics, Physics, and De Anima, frequently cited in Scholastic noetics and in Heath's mathematical reconstructions."
+  },
+  "proclus": {
+    "name": "Proclus Diadochus",
+    "dates": "412 – 485 AD",
+    "role": "Neoplatonic Commentator on Euclid's Elements Book I",
+    "bio": "Synthesized Aristotelian demonstrative science (Anal. Post. I.10) with Neoplatonic philosophy of imagination as a 'screen' onto which understanding projects geometric figures."
+  },
+  "philoponus": {
+    "name": "John Philoponus",
+    "dates": "c. 490 – c. 570 AD",
+    "role": "Alexandrian Commentator on Analytics, Physics & De Anima",
+    "bio": "Provided detailed reconstructions of Aristotle's mixed-angle proof of isosceles base angles (Anal. Prior. I.24, 41b13–22) and investigated three-dimensional spatial extension."
+  },
+  "simplicius": {
+    "name": "Simplicius of Cilicia",
+    "dates": "c. 490 – c. 560 AD",
+    "role": "Commentator on Physics & De Caelo",
+    "bio": "Preserved Eudemus of Rhodes's History of Geometry (including Hippocrates's quadrature of lunes and Antiphon's polygon inscription) in his monumental commentary on Aristotle's Physics."
+  },
+  "boethius": {
+    "name": "Anicius Manlius Severinus Boethius",
+    "dates": "c. 480 – 524 AD",
+    "role": "Transmitter of the Organon & Coiner of the Quadrivium",
+    "bio": "Translated Aristotle's Categories and Analytics into Latin and rendered axiōmata as communes animi conceptiones, shaping medieval Scholastic mathematics."
+  },
+  "averroes": {
+    "name": "Averroes (Ibn Rushd)",
+    "dates": "1126 – 1198",
+    "role": "The Commentator on Aristotle",
+    "bio": "Author of the Long Commentaries on Posterior Analytics, Physics, De Caelo, De Anima, and Metaphysics; cited by Luca Pacioli (Metaph. II, comm. 16) for placing mathematics in primo gradu certitudinis."
+  },
+  "albertus-magnus": {
+    "name": "Albertus Magnus, St., O.P.",
+    "dates": "c. 1200 – 1280",
+    "role": "Doctor Universalis & Scholastic Commentator on Aristotle & Euclid",
+    "bio": "Expounded the entire Aristotelian corpus alongside Euclidean geometry, emphasizing imaginative construction in intelligible matter."
+  },
+  "thomas-aquinas": {
+    "name": "Thomas Aquinas, St., O.P.",
+    "dates": "1225 – 1274",
+    "role": "Doctor Angelicus & Systematic Expositor of Aristotelian Noetics",
+    "bio": "Authored classic commentaries on Posterior Analytics, Physics, De Caelo, De Anima, and Metaphysics, plus Super Boethium De Trinitate (q. 5–6), articulating formal mathematical abstraction in materia intelligibilis and judgment terminating in the imagination."
+  },
+  "pacioli": {
+    "name": "Fra Luca Pacioli, O.F.M.",
+    "dates": "c. 1447 – 1517",
+    "role": "Renaissance Mathematician & Author of De Divina Proportione (1509)",
+    "bio": "Grounded Renaissance proportion theory, perspective, and the Platonic solids in Aristotelian-Averroist epistemological certainty, subalternation of sciences, and De Caelo cosmology."
+  },
+  "bekker": {
+    "name": "Immanuel Bekker",
+    "dates": "1785 – 1871",
+    "role": "Editor of the Prussian Academy Aristotelis Opera (1831)",
+    "bio": "German classical philologist whose two-volume quarto Greek text of Aristotle (Berlin, 1831; pages 1a–1462b) established the universal scholarly standard of page, column, and line citation."
+  },
+  "waitz": {
+    "name": "Theodor Waitz",
+    "dates": "1821 – 1864",
+    "role": "Critical Editor & Commentator on Aristotle's Organon (1844–1846)",
+    "bio": "Edited the two-volume Aristotelis Organon Graece (Leipzig, 1844–1846), extensively engaged by both Heath and Hoenen on geometric syllogisms and diagrams."
+  },
+  "bonitz": {
+    "name": "Hermann Bonitz",
+    "dates": "1814 – 1888",
+    "role": "Commentator on the Metaphysics & Compiler of the Index Aristotelicus (1870)",
+    "bio": "Produced the foundational commentary on Aristotle's Metaphysics (1848–1849) and Volume V of the Prussian Academy edition, the monumental Index Aristotelicus (1870)."
+  },
+  "ross": {
+    "name": "Sir William David Ross",
+    "dates": "1877 – 1971",
+    "role": "General Editor of the Oxford Translation & Critical Editor of Metaphysics, Physics & Analytics",
+    "bio": "Co-directed the twelve-volume Oxford Translation of Aristotle (1908–1931) and edited the landmark Clarendon critical texts and commentaries on Metaphysics (1924), Physics (1936), Analytics (1949), and De Anima (1961)."
+  },
+  "heath": {
+    "name": "Sir Thomas Little Heath",
+    "dates": "1861 – 1940",
+    "role": "Historian of Greek Mathematics, Translator of Euclid & Author of Mathematics in Aristotle",
+    "bio": "Demonstrated across The Thirteen Books of Euclid's Elements (2nd ed. 1926) and his posthumous Mathematics in Aristotle (1949) how Aristotle's logical and physical treatises preserve the living workshop of pre-Euclidean fourth-century geometry."
+  },
+  "mure": {
+    "name": "Geoffrey Reginald Gilchrist Mure",
+    "dates": "1893 – 1979",
+    "role": "Oxford Translator of Aristotle's Posterior Analytics & Warden of Merton College",
+    "bio": "Translated the Posterior Analytics for Volume I of the Oxford Works of Aristotle (1926/1928), rendering Aristotle's technical vocabulary of apodeictic science into classic English."
+  },
+  "hoenen": {
+    "name": "Petrus Hubertus Jacobus Hoenen, S.J.",
+    "dates": "1880 – 1961",
+    "role": "Professor at the Pontifical Gregorian University & Author of De Noetica Geometriae (1952)",
+    "bio": "Dutch Jesuit mathematician-philosopher who recovered the Aristotelian-Thomistic doctrine of intellectual vision in the phantasm (77b30, 431b2, 1036a9, 1051a21) to resolve the modern crisis between sensory empiricism and axiomatic formalism."
+  },
+  "hilbert": {
+    "name": "David Hilbert",
+    "dates": "1862 – 1943",
+    "role": "Founder of Modern Formal Axiomatics (Grundlagen der Geometrie, 1899)",
+    "bio": "Reconstructed Euclidean geometry via implicit axiomatic definitions stripped of intuitive spatial content—engaged critically by Hoenen as a brilliant deductive technique that nonetheless presupposes prior noetic intuition for consistency and meaning."
+  },
+  "poincare": {
+    "name": "Henri Poincaré",
+    "dates": "1854 – 1912",
+    "role": "Mathematician & Philosopher of Geometric Conventionalism and Intuition",
+    "bio": "Defended synthetic mathematical intuition against pure logicism while treating metric axioms as conventions; contrasted in GEOMETOR with Aristotelian abstraction from continuous extension."
+  },
+  "smith-ja": {
+    "name": "John Alexander Smith",
+    "dates": "1863 – 1939",
+    "role": "Waynflete Professor of Moral and Metaphysical Philosophy, Oxford & Co-Editor of the Oxford Aristotle",
+    "bio": "Co-edited The Works of Aristotle Translated into English with W. D. Ross and authored the classic 1931 Oxford translation of De Anima staged in Liber IV of this Codex."
+  },
+  "edghill": {
+    "name": "Ella Mary Edghill",
+    "dates": "1881 – 1912",
+    "role": "Classical Scholar & Oxford Translator of the Categories and De Interpretatione",
+    "bio": "Translated Aristotle's Categories (1928 Clarendon Press edition) staged in Liber II.A of this Codex."
+  },
+  "jenkinson": {
+    "name": "Alfred James Jenkinson",
+    "dates": "1877 – 1915",
+    "role": "Fellow of Brasenose College, Oxford & Translator of the Prior Analytics",
+    "bio": "Translated Aristotle's Prior Analytics for the Oxford Translation (Vol. I, 1928), staged in Liber II.A of this Codex."
+  },
+  "pickard-cambridge": {
+    "name": "William Adair Pickard-Cambridge",
+    "dates": "1879 – 1957",
+    "role": "Fellow of Worcester College, Oxford & Translator of the Topics",
+    "bio": "Translated Aristotle's Topics and Sophistici Elenchi for the Oxford Translation (Vol. I, 1928), staged in Liber II.B of this Codex."
+  },
+  "hardie": {
+    "name": "Robert Purves Hardie",
+    "dates": "1864 – 1942",
+    "role": "Reader in Ancient Philosophy, University of Edinburgh & Co-Translator of the Physics",
+    "bio": "Co-authored with R. K. Gaye the Clarendon Press Oxford translation of Aristotle's Physics (Vol. II, 1930), staged in Liber III.A and Liber III.B of this Codex."
+  },
+  "gaye": {
+    "name": "Russell Kerr Gaye",
+    "dates": "1877 – 1909",
+    "role": "Fellow of Trinity College, Cambridge & Co-Translator of the Physics",
+    "bio": "Translated Books V–VIII of Aristotle's Physics (including Book VI on the continuum and Zeno's paradoxes) for the 1930 Oxford edition staged in Liber III.B."
+  },
+  "stocks": {
+    "name": "John Leofric Stocks",
+    "dates": "1882 – 1937",
+    "role": "Fellow of St John's College, Oxford & Translator of De Caelo",
+    "bio": "Authored the Clarendon Press Oxford translation of Aristotle's De Caelo (1922/1930), staged in Liber III.B of this Codex."
+  }
+}
