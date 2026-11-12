@@ -1,0 +1,75 @@
+geometor.aristotle.apparatus
+============================
+
+.. py:module:: geometor.aristotle.apparatus
+
+.. autoapi-nested-parse::
+
+   Scholarly apparatus registries (Glossary, Persons, Bibliography) and RST generators.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.aristotle.apparatus.GLOSSARY_DATA
+   geometor.aristotle.apparatus.PERSONS_DATA
+   geometor.aristotle.apparatus.CITATIONS_DATA
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.aristotle.apparatus.apparatus_slug
+   geometor.aristotle.apparatus.write_apparatus_jsons
+   geometor.aristotle.apparatus.render_glossary_rst
+   geometor.aristotle.apparatus.render_persons_rst
+   geometor.aristotle.apparatus.render_bibliography_rst
+
+
+Module Contents
+---------------
+
+.. py:function:: apparatus_slug(key: str) -> str
+
+   Return deterministic anchor slug matching ``photon_platform.publish.roles.geometry``.
+
+
+.. py:data:: GLOSSARY_DATA
+   :type:  dict[str, dict[str, str]]
+
+.. py:data:: PERSONS_DATA
+   :type:  dict[str, dict[str, str]]
+
+.. py:data:: CITATIONS_DATA
+   :type:  dict[str, dict[str, str]]
+
+.. py:function:: write_apparatus_jsons(repo_root: pathlib.Path) -> None
+
+   Write ``glossary.json``, ``persons.json``, and ``citations.json`` to ``resources/``.
+
+   Writes to both ``resources/loci_geometrici/`` and ``resources/`` so Sphinx hover
+   tooltips resolve from any document subtree.
+
+   :param repo_root: Root directory of ``geometor/aristotle``.
+
+
+.. py:function:: render_glossary_rst() -> str
+
+   Render ``docsrc/loci_geometrici/glossary.rst`` with ``.. _term-<slug>:`` anchors.
+
+
+.. py:function:: render_persons_rst() -> str
+
+   Render ``docsrc/loci_geometrici/persons.rst`` with ``.. _person-<slug>:`` anchors.
+
+
+.. py:function:: render_bibliography_rst() -> str
+
+   Render ``docsrc/loci_geometrici/bibliography.rst`` with ``.. _cite-<slug>:`` anchors.
+
+

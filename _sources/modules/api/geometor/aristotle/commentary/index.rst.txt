@@ -1,0 +1,67 @@
+geometor.aristotle.commentary
+=============================
+
+.. py:module:: geometor.aristotle.commentary
+
+.. autoapi-nested-parse::
+
+   Scholarly summaries and dual-tradition critical commentary (Heath & Hoenen) for Libri I–V.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.aristotle.commentary.UNIT_COMMENTARIES
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.aristotle.commentary.UnitCommentary
+
+
+Module Contents
+---------------
+
+.. py:class:: UnitCommentary
+
+   Editorial synopsis and analytical commentary for one Book Codex unit.
+
+   :ivar thesis: Concise architectural thesis of the unit.
+   :ivar argument_steps: Ordered structural breakdown of the chapters in the unit.
+   :ivar heath_analysis: Historical-mathematical commentary engaging Sir Thomas Heath
+                         and Euclid's *Elements*.
+   :ivar hoenen_analysis: Epistemological-noetic commentary engaging Fr. Peter Hoenen S.J.,
+                          St. Thomas Aquinas, and Fra Luca Pacioli.
+   :ivar crux_notes: Detailed locus-by-locus philological and mathematical notes.
+
+
+
+   .. py:attribute:: thesis
+      :type:  str
+
+
+   .. py:attribute:: argument_steps
+      :type:  tuple[tuple[str, str], ...]
+
+
+   .. py:attribute:: heath_analysis
+      :type:  tuple[str, ...]
+
+
+   .. py:attribute:: hoenen_analysis
+      :type:  tuple[str, ...]
+
+
+   .. py:attribute:: crux_notes
+      :type:  tuple[tuple[str, str], ...]
+
+
+.. py:data:: UNIT_COMMENTARIES
+   :type:  dict[str, UnitCommentary]
+

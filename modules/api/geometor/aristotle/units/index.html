@@ -1,0 +1,359 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../../../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>geometor.aristotle.units &mdash; GEOMETOR • aristotle</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=66998e95" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/custom.css?v=106f455a" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../../../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../../../../_static/favicon.ico" />
+</head>
+
+<body class="book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../../../../../index.html">
+        <img src="../../../../../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">GEOMETOR</span>
+        •
+        <span class="repo">aristotle</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../../../../mission/index.html"  >Mission</a>
+        </li>
+        <li>
+          <a href="../../../../../log/index.html"  >log</a>
+        </li>
+        <li>
+          <a href="../../../../index.html" class="is-active" aria-selected="true" >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../../../../../index.html" title="Return to Project Portal">&larr; aristotle</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../../../../../index.html">GEOMETOR • aristotle</a>
+          </div>
+          <div class="book-header-breadcrumbs book-header-badges" role="navigation" aria-label="Breadcrumbs">
+            <a class="book-crumb-link" href="../../../../index.html">modules</a>
+          </div>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../sphinx_ext/index.html" title="geometor.aristotle.sphinx_ext">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../../../../../about/index.html" title="About"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content" role="main">
+        <section class="level-1" id="module-geometor.aristotle.units">
+        <span id="geometor-aristotle-units"></span><h1>geometor.aristotle.units<a class="headerlink" href="#module-geometor.aristotle.units" title="Link to this heading">¶</a></h1>
+        <p>Canonical specification of the 5 Libri and 9 multi-track Book Codex units.</p>
+        <section class="level-2" id="attributes">
+        <h2>Attributes<a class="headerlink" href="#attributes" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aristotle.units.CODEX_UNITS" title="geometor.aristotle.units.CODEX_UNITS"><code class="xref py py-obj docutils literal notranslate"><span class="pre">CODEX_UNITS</span></code></a></p></td>
+        <td><p></p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="classes">
+        <h2>Classes<a class="headerlink" href="#classes" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.aristotle.units.ChapterSpec" title="geometor.aristotle.units.ChapterSpec"><code class="xref py py-obj docutils literal notranslate"><span class="pre">ChapterSpec</span></code></a></p></td>
+        <td><p>Metadata and source selectors for a single Aristotelian chapter in the Codex.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.aristotle.units.UnitSpec" title="geometor.aristotle.units.UnitSpec"><code class="xref py py-obj docutils literal notranslate"><span class="pre">UnitSpec</span></code></a></p></td>
+        <td><p>Specification of one multi-track Book Codex unit (<code class="docutils literal notranslate"><span class="pre">-en</span></code>, <code class="docutils literal notranslate"><span class="pre">-el</span></code>, <code class="docutils literal notranslate"><span class="pre">-summary</span></code>, <code class="docutils literal notranslate"><span class="pre">-notes</span></code>).</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="module-contents">
+        <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.ChapterSpec">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.aristotle.units.</span></span><span class="sig-name descname"><span class="pre">ChapterSpec</span></span><a class="headerlink" href="#geometor.aristotle.units.ChapterSpec" title="Link to this definition">¶</a></dt>
+        <dd><p>Metadata and source selectors for a single Aristotelian chapter in the Codex.</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Variables<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>work_id</strong> – Canonical work identifier (e.g. <code class="docutils literal notranslate"><span class="pre">&quot;anal-post&quot;</span></code>, <code class="docutils literal notranslate"><span class="pre">&quot;physica&quot;</span></code>).</p></li>
+        <li><p><strong>work_title_en</strong> – Standard English title of the treatise.</p></li>
+        <li><p><strong>work_title_el</strong> – Polytonic Greek title of the treatise.</p></li>
+        <li><p><strong>work_title_la</strong> – Traditional Scholastic/Bekker Latin title of the treatise.</p></li>
+        <li><p><strong>book</strong> – Book number (1-indexed), or <code class="docutils literal notranslate"><span class="pre">None</span></code> for single-book treatises (<em>Categories</em>).</p></li>
+        <li><p><strong>book_label</strong> – Roman/Greek book label (e.g. <code class="docutils literal notranslate"><span class="pre">&quot;I&quot;</span></code>, <code class="docutils literal notranslate"><span class="pre">&quot;B</span> <span class="pre">(III)&quot;</span></code>), or empty string.</p></li>
+        <li><p><strong>chapter</strong> – Chapter number (1-indexed).</p></li>
+        <li><p><strong>bekker_range</strong> – Human-readable Bekker span (e.g. <code class="docutils literal notranslate"><span class="pre">&quot;71a1–71b8&quot;</span></code>).</p></li>
+        <li><p><strong>bekker_cols</strong> – Ordered tuple of Bekker half-page columns spanned by this chapter.</p></li>
+        <li><p><strong>theme_en</strong> – Concise thematic subtitle for the chapter heading.</p></li>
+        <li><p><strong>translator</strong> – Public-domain Oxford English translator credit.</p></li>
+        </ul>
+        </dd>
+        </dl>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.ChapterSpec.work_id">
+        <span class="sig-name descname"><span class="pre">work_id</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.ChapterSpec.work_id" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.ChapterSpec.work_title_en">
+        <span class="sig-name descname"><span class="pre">work_title_en</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.ChapterSpec.work_title_en" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.ChapterSpec.work_title_el">
+        <span class="sig-name descname"><span class="pre">work_title_el</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.ChapterSpec.work_title_el" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.ChapterSpec.work_title_la">
+        <span class="sig-name descname"><span class="pre">work_title_la</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.ChapterSpec.work_title_la" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.ChapterSpec.book">
+        <span class="sig-name descname"><span class="pre">book</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">None</span></span><a class="headerlink" href="#geometor.aristotle.units.ChapterSpec.book" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.ChapterSpec.book_label">
+        <span class="sig-name descname"><span class="pre">book_label</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.ChapterSpec.book_label" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.ChapterSpec.chapter">
+        <span class="sig-name descname"><span class="pre">chapter</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></span><a class="headerlink" href="#geometor.aristotle.units.ChapterSpec.chapter" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.ChapterSpec.bekker_range">
+        <span class="sig-name descname"><span class="pre">bekker_range</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.ChapterSpec.bekker_range" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.ChapterSpec.bekker_cols">
+        <span class="sig-name descname"><span class="pre">bekker_cols</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">tuple</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.aristotle.units.ChapterSpec.bekker_cols" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.ChapterSpec.theme_en">
+        <span class="sig-name descname"><span class="pre">theme_en</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.ChapterSpec.theme_en" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.ChapterSpec.translator">
+        <span class="sig-name descname"><span class="pre">translator</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.ChapterSpec.translator" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py class">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec">
+        <span class="property"><span class="k"><span class="pre">class</span></span><span class="w"> </span></span><span class="sig-prename descclassname"><span class="pre">geometor.aristotle.units.</span></span><span class="sig-name descname"><span class="pre">UnitSpec</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec" title="Link to this definition">¶</a></dt>
+        <dd><p>Specification of one multi-track Book Codex unit (<code class="docutils literal notranslate"><span class="pre">-en</span></code>, <code class="docutils literal notranslate"><span class="pre">-el</span></code>, <code class="docutils literal notranslate"><span class="pre">-summary</span></code>, <code class="docutils literal notranslate"><span class="pre">-notes</span></code>).</p>
+        <dl class="field-list simple">
+        <dt class="field-odd">Variables<span class="colon">:</span></dt>
+        <dd class="field-odd"><ul class="simple">
+        <li><p><strong>slug</strong> – Directory and file stem under <code class="docutils literal notranslate"><span class="pre">docsrc/loci_geometrici/</span></code>.</p></li>
+        <li><p><strong>order</strong> – Sequential <code class="docutils literal notranslate"><span class="pre">:order:</span></code> integer for the Book Codex TOC.</p></li>
+        <li><p><strong>liber_num</strong> – Roman numeral of the parent Liber (<code class="docutils literal notranslate"><span class="pre">&quot;I&quot;</span></code> through <code class="docutils literal notranslate"><span class="pre">&quot;V&quot;</span></code>).</p></li>
+        <li><p><strong>liber_title</strong> – Full title of the parent Liber.</p></li>
+        <li><p><strong>short_title</strong> – Concise unit title for navigation bars and TOCs.</p></li>
+        <li><p><strong>title_en</strong> – Full English track page title.</p></li>
+        <li><p><strong>title_el</strong> – Full Greek track page title.</p></li>
+        <li><p><strong>canonical_id</strong> – Short canonical locus badge (e.g. <code class="docutils literal notranslate"><span class="pre">&quot;Anal.</span> <span class="pre">Post.</span> <span class="pre">I.1–13&quot;</span></code>).</p></li>
+        <li><p><strong>bekker_range</strong> – Full Bekker span badge (e.g. <code class="docutils literal notranslate"><span class="pre">&quot;Bekker</span> <span class="pre">71a1–79a16&quot;</span></code>).</p></li>
+        <li><p><strong>epigraph_el</strong> – Verbatim Greek epigraph from the unit’s primary text.</p></li>
+        <li><p><strong>epigraph_en</strong> – Corresponding Oxford English translation of the epigraph.</p></li>
+        <li><p><strong>epigraph_locus</strong> – Bekker coordinate of the epigraph.</p></li>
+        <li><p><strong>chapters</strong> – Ordered tuple of <code class="docutils literal notranslate"><span class="pre">ChapterSpec</span></code> chapters included in this unit.</p></li>
+        </ul>
+        </dd>
+        </dl>
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.slug">
+        <span class="sig-name descname"><span class="pre">slug</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.slug" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.order">
+        <span class="sig-name descname"><span class="pre">order</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">int</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.order" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.liber_num">
+        <span class="sig-name descname"><span class="pre">liber_num</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.liber_num" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.liber_title">
+        <span class="sig-name descname"><span class="pre">liber_title</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.liber_title" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.short_title">
+        <span class="sig-name descname"><span class="pre">short_title</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.short_title" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.title_en">
+        <span class="sig-name descname"><span class="pre">title_en</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.title_en" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.title_el">
+        <span class="sig-name descname"><span class="pre">title_el</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.title_el" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.canonical_id">
+        <span class="sig-name descname"><span class="pre">canonical_id</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.canonical_id" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.bekker_range">
+        <span class="sig-name descname"><span class="pre">bekker_range</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.bekker_range" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.epigraph_el">
+        <span class="sig-name descname"><span class="pre">epigraph_el</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.epigraph_el" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.epigraph_en">
+        <span class="sig-name descname"><span class="pre">epigraph_en</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.epigraph_en" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.epigraph_locus">
+        <span class="sig-name descname"><span class="pre">epigraph_locus</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">str</span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.epigraph_locus" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        <dl class="py attribute">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.UnitSpec.chapters">
+        <span class="sig-name descname"><span class="pre">chapters</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">tuple</span><span class="p"><span class="pre">[</span></span><a class="reference internal" href="#geometor.aristotle.units.ChapterSpec" title="geometor.aristotle.units.ChapterSpec"><span class="pre">ChapterSpec</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.aristotle.units.UnitSpec.chapters" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </dd></dl>
+
+        <dl class="py data">
+        <dt class="sig sig-object py" id="geometor.aristotle.units.CODEX_UNITS">
+        <span class="sig-prename descclassname"><span class="pre">geometor.aristotle.units.</span></span><span class="sig-name descname"><span class="pre">CODEX_UNITS</span></span><span class="property"><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="pre">tuple</span><span class="p"><span class="pre">[</span></span><a class="reference internal" href="#geometor.aristotle.units.UnitSpec" title="geometor.aristotle.units.UnitSpec"><span class="pre">UnitSpec</span></a><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="p"><span class="pre">...</span></span><span class="p"><span class="pre">]</span></span></span><a class="headerlink" href="#geometor.aristotle.units.CODEX_UNITS" title="Link to this definition">¶</a></dt>
+        <dd></dd></dl>
+
+        </section>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../sphinx_ext/index.html" title="geometor.aristotle.sphinx_ext">&larr; <span class="nav-label">geometor.aristotle.sphinx_ext</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../../../../../index.html">GEOMETOR • aristotle</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../../../../../about/index.html" title="About"><span class="nav-label">About</span> &rarr;</a>
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../../../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../../../../../log/26.315-initial-codex.html">Initial Codex — Loci Geometrici et Noetici (Bekker Greek & Oxford English)</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../../../../types/apparatus.html">apparatus</a></li>
+        <li><a href="../../../../../types/el.html">el</a></li>
+        <li><a href="../../../../../types/log.html">log</a></li>
+        <li><a href="../../../../../types/notes.html">notes</a></li>
+        <li><a href="../../../../../types/summary.html">summary</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../../../../about/index.html"  >About</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright 2026, GEOMETOR • Bekker (1831) & Oxford Translation Critical Codex.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../../../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../../../../_static/documentation_options.js?v=01f34227"></script>
+  <script src="../../../../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../../../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../../../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script src="../../../../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

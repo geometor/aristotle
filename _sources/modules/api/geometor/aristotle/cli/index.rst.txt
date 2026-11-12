@@ -1,0 +1,48 @@
+geometor.aristotle.cli
+======================
+
+.. py:module:: geometor.aristotle.cli
+
+.. autoapi-nested-parse::
+
+   Command-line interface for building and verifying the ``geometor-aristotle`` Codex.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.aristotle.cli.verify_manifest
+   geometor.aristotle.cli.build_parser
+   geometor.aristotle.cli.main
+
+
+Module Contents
+---------------
+
+.. py:function:: verify_manifest(repo_root: pathlib.Path) -> tuple[bool, list[str]]
+
+   Verify SHA-256 checksums and byte counts for all staged primary source files.
+
+   :param repo_root: Root directory of ``geometor/aristotle``.
+
+   :returns: Tuple ``(ok, messages)`` indicating whether all 18 source files match
+             ``resources/aristotle/sources_manifest.json``.
+
+
+.. py:function:: build_parser() -> argparse.ArgumentParser
+
+   Construct the ``geometor-aristotle`` CLI argument parser.
+
+
+.. py:function:: main(argv: Sequence[str] | None = None) -> int
+
+   Execute the ``geometor-aristotle`` CLI.
+
+   :param argv: Optional sequence of command-line arguments.
+
+   :returns: Process exit status (`0` on success, `1` on failure).
+
+

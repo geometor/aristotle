@@ -1,0 +1,70 @@
+geometor.aristotle.compile_codex
+================================
+
+.. py:module:: geometor.aristotle.compile_codex
+
+.. autoapi-nested-parse::
+
+   Primary source parser and Multi-Track Book Codex RST compiler for ``geometor-aristotle``.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.aristotle.compile_codex.extract_greek_chapter
+   geometor.aristotle.compile_codex.extract_english_chapter
+   geometor.aristotle.compile_codex.render_concordance_rst
+   geometor.aristotle.compile_codex.render_codex_index_rst
+   geometor.aristotle.compile_codex.compile_codex
+
+
+Module Contents
+---------------
+
+.. py:function:: extract_greek_chapter(repo_root: pathlib.Path, ch: geometor.aristotle.units.ChapterSpec) -> list[str]
+
+   Extract verbatim polytonic Greek paragraphs for ``ch`` from ``resources/aristotle/sources/el``.
+
+   :param repo_root: Root path of ``geometor/aristotle``.
+   :param ch: Target ``ChapterSpec``.
+
+   :returns: Non-empty list of verbatim Greek paragraphs.
+
+   :raises ValueError: If the requested chapter cannot be located or is empty.
+
+
+.. py:function:: extract_english_chapter(repo_root: pathlib.Path, ch: geometor.aristotle.units.ChapterSpec) -> list[str]
+
+   Extract verbatim Oxford English paragraphs for ``ch`` from ``resources/aristotle/sources/en``.
+
+   :param repo_root: Root path of ``geometor/aristotle``.
+   :param ch: Target ``ChapterSpec``.
+
+   :returns: Non-empty list of verbatim English paragraphs.
+
+   :raises ValueError: If the requested chapter cannot be located or is empty.
+
+
+.. py:function:: render_concordance_rst(concordance_payload: dict[str, Any]) -> str
+
+   Render ``docsrc/loci_geometrici/concordance.rst`` from ``concordance.json``.
+
+
+.. py:function:: render_codex_index_rst(concordance_payload: dict[str, Any]) -> str
+
+   Render the Book Codex root ``docsrc/loci_geometrici/index.rst``.
+
+
+.. py:function:: compile_codex(repo_root: pathlib.Path, workspace_root: pathlib.Path | None = None) -> dict[str, Any]
+
+   Build concordance, apparatus JSONs, and all Book Codex RST files under ``docsrc/loci_geometrici``.
+
+   :param repo_root: Root directory of ``geometor/aristotle``.
+   :param workspace_root: Optional parent ``geometor`` workspace directory.
+
+   :returns: Summary dictionary reporting generated unit, chapter, anchor, and concordance counts.
+
+

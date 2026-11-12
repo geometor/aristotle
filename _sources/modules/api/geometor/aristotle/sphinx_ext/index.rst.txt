@@ -1,0 +1,43 @@
+geometor.aristotle.sphinx_ext
+=============================
+
+.. py:module:: geometor.aristotle.sphinx_ext
+
+.. autoapi-nested-parse::
+
+   Sphinx extension registering the Bekker Greek (``-el``) companion track in ``publish``.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.aristotle.sphinx_ext.register_greek_track
+   geometor.aristotle.sphinx_ext.setup
+
+
+Module Contents
+---------------
+
+.. py:function:: register_greek_track(book_mod: types.ModuleType | object | None = None) -> bool
+
+   Register the ``el`` (Greek Bekker) companion track on ``photon_platform.publish.book``.
+
+   :param book_mod: Optional pre-imported ``photon_platform.publish.book`` module (or mock
+                    object in unit tests). When ``None``, imports it dynamically.
+
+   :returns: ``True`` if ``photon_platform.publish.book`` is available and patched, ``False``
+             otherwise.
+
+
+.. py:function:: setup(app: object) -> dict[str, Any]
+
+   Sphinx extension entry point registering Bekker Greek multi-track support.
+
+   :param app: Active Sphinx application instance.
+
+   :returns: Sphinx extension metadata dictionary.
+
+

@@ -1,0 +1,168 @@
+geometor.aristotle.units
+========================
+
+.. py:module:: geometor.aristotle.units
+
+.. autoapi-nested-parse::
+
+   Canonical specification of the 5 Libri and 9 multi-track Book Codex units.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.aristotle.units.CODEX_UNITS
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.aristotle.units.ChapterSpec
+   geometor.aristotle.units.UnitSpec
+
+
+Module Contents
+---------------
+
+.. py:class:: ChapterSpec
+
+   Metadata and source selectors for a single Aristotelian chapter in the Codex.
+
+   :ivar work_id: Canonical work identifier (e.g. ``"anal-post"``, ``"physica"``).
+   :ivar work_title_en: Standard English title of the treatise.
+   :ivar work_title_el: Polytonic Greek title of the treatise.
+   :ivar work_title_la: Traditional Scholastic/Bekker Latin title of the treatise.
+   :ivar book: Book number (1-indexed), or ``None`` for single-book treatises (*Categories*).
+   :ivar book_label: Roman/Greek book label (e.g. ``"I"``, ``"B (III)"``), or empty string.
+   :ivar chapter: Chapter number (1-indexed).
+   :ivar bekker_range: Human-readable Bekker span (e.g. ``"71a1–71b8"``).
+   :ivar bekker_cols: Ordered tuple of Bekker half-page columns spanned by this chapter.
+   :ivar theme_en: Concise thematic subtitle for the chapter heading.
+   :ivar translator: Public-domain Oxford English translator credit.
+
+
+
+   .. py:attribute:: work_id
+      :type:  str
+
+
+   .. py:attribute:: work_title_en
+      :type:  str
+
+
+   .. py:attribute:: work_title_el
+      :type:  str
+
+
+   .. py:attribute:: work_title_la
+      :type:  str
+
+
+   .. py:attribute:: book
+      :type:  int | None
+
+
+   .. py:attribute:: book_label
+      :type:  str
+
+
+   .. py:attribute:: chapter
+      :type:  int
+
+
+   .. py:attribute:: bekker_range
+      :type:  str
+
+
+   .. py:attribute:: bekker_cols
+      :type:  tuple[str, ...]
+
+
+   .. py:attribute:: theme_en
+      :type:  str
+
+
+   .. py:attribute:: translator
+      :type:  str
+
+
+.. py:class:: UnitSpec
+
+   Specification of one multi-track Book Codex unit (``-en``, ``-el``, ``-summary``, ``-notes``).
+
+   :ivar slug: Directory and file stem under ``docsrc/loci_geometrici/``.
+   :ivar order: Sequential ``:order:`` integer for the Book Codex TOC.
+   :ivar liber_num: Roman numeral of the parent Liber (``"I"`` through ``"V"``).
+   :ivar liber_title: Full title of the parent Liber.
+   :ivar short_title: Concise unit title for navigation bars and TOCs.
+   :ivar title_en: Full English track page title.
+   :ivar title_el: Full Greek track page title.
+   :ivar canonical_id: Short canonical locus badge (e.g. ``"Anal. Post. I.1–13"``).
+   :ivar bekker_range: Full Bekker span badge (e.g. ``"Bekker 71a1–79a16"``).
+   :ivar epigraph_el: Verbatim Greek epigraph from the unit's primary text.
+   :ivar epigraph_en: Corresponding Oxford English translation of the epigraph.
+   :ivar epigraph_locus: Bekker coordinate of the epigraph.
+   :ivar chapters: Ordered tuple of ``ChapterSpec`` chapters included in this unit.
+
+
+
+   .. py:attribute:: slug
+      :type:  str
+
+
+   .. py:attribute:: order
+      :type:  int
+
+
+   .. py:attribute:: liber_num
+      :type:  str
+
+
+   .. py:attribute:: liber_title
+      :type:  str
+
+
+   .. py:attribute:: short_title
+      :type:  str
+
+
+   .. py:attribute:: title_en
+      :type:  str
+
+
+   .. py:attribute:: title_el
+      :type:  str
+
+
+   .. py:attribute:: canonical_id
+      :type:  str
+
+
+   .. py:attribute:: bekker_range
+      :type:  str
+
+
+   .. py:attribute:: epigraph_el
+      :type:  str
+
+
+   .. py:attribute:: epigraph_en
+      :type:  str
+
+
+   .. py:attribute:: epigraph_locus
+      :type:  str
+
+
+   .. py:attribute:: chapters
+      :type:  tuple[ChapterSpec, ...]
+
+
+.. py:data:: CODEX_UNITS
+   :type:  tuple[UnitSpec, ...]
+

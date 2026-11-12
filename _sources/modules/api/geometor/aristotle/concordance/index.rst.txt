@@ -1,0 +1,295 @@
+geometor.aristotle.concordance
+==============================
+
+.. py:module:: geometor.aristotle.concordance
+
+.. autoapi-nested-parse::
+
+   Bekker coordinate parser and cross-corpus Aristotle concordance builder.
+
+   Scans ``geometor/euclid``, ``geometor/hoenen``, and ``geometor/pacioli`` (when present
+   in the sibling workspace) to construct a unified Bekker concordance linking every cited
+   Aristotelian passage back to exact sister-project volumes, pages, folios, chapters, and
+   display strings, as well as forward to the corresponding unit and Bekker anchor in
+   *Loci Geometrici et Noetici*.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.aristotle.concordance.ROMAN_TO_INT
+   geometor.aristotle.concordance.WORK_CANONICAL
+   geometor.aristotle.concordance.FALLBACK_CHAPTER_BEKKER
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.aristotle.concordance.BekkerRef
+   geometor.aristotle.concordance.SisterOccurrence
+   geometor.aristotle.concordance.ConcordanceEntry
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.aristotle.concordance.parse_bekker_locus
+   geometor.aristotle.concordance.match_codex_unit
+   geometor.aristotle.concordance.build_concordance
+
+
+Module Contents
+---------------
+
+.. py:data:: ROMAN_TO_INT
+   :type:  dict[str, int]
+
+.. py:data:: WORK_CANONICAL
+   :type:  dict[str, tuple[str, str, str, int, int]]
+
+.. py:data:: FALLBACK_CHAPTER_BEKKER
+   :type:  dict[tuple[str, int | None, int | None], tuple[int, str, str]]
+
+.. py:class:: BekkerRef
+
+   Normalized, sortable Bekker reference coordinate.
+
+   :ivar page: Bekker page number (`1`–`1462` across the Prussian Academy edition).
+   :ivar col: Column designator (``"a"`` or ``"b"``).
+   :ivar line: Starting line number (`1`–`49`), or ``0`` when only column/chapter is cited.
+   :ivar end_col: Ending column when a range spans columns, or empty string.
+   :ivar end_line: Ending line number when a range is specified, or ``0``.
+
+
+
+   .. py:attribute:: page
+      :type:  int
+
+
+   .. py:attribute:: col
+      :type:  str
+
+
+   .. py:attribute:: line
+      :type:  int
+      :value: 0
+
+
+
+   .. py:attribute:: end_col
+      :type:  str
+      :value: ''
+
+
+
+   .. py:attribute:: end_line
+      :type:  int
+      :value: 0
+
+
+
+   .. py:property:: column_id
+      :type: str
+
+
+      Return the Bekker half-page column identifier (e.g. ``"71a"``).
+
+
+   .. py:property:: canonical_id
+      :type: str
+
+
+      Return compact canonical anchor token (e.g. ``"77b30"`` or ``"71a"``).
+
+
+   .. py:property:: display
+      :type: str
+
+
+      Return human-readable Bekker citation string (e.g. ``"72a14–24"``).
+
+
+.. py:class:: SisterOccurrence
+
+   Single citation occurrence in one of the GEOMETOR sister repositories.
+
+   :ivar repo: Sister repository name (``"euclid"``, ``"hoenen"``, or ``"pacioli"``).
+   :ivar cite_key: Original citation key in the sister repository.
+   :ivar volume: Volume or edition identifier.
+   :ivar book: Book/Caput/Part label within the sister work.
+   :ivar section: Section or document path in the sister work.
+   :ivar page: Printed page or recto/verso folio label.
+   :ivar folio: Scan folio number if recorded.
+   :ivar display: Verbatim citation string displayed in the sister text.
+
+
+
+   .. py:attribute:: repo
+      :type:  str
+
+
+   .. py:attribute:: cite_key
+      :type:  str
+
+
+   .. py:attribute:: volume
+      :type:  str
+
+
+   .. py:attribute:: book
+      :type:  str
+
+
+   .. py:attribute:: section
+      :type:  str
+
+
+   .. py:attribute:: page
+      :type:  str
+
+
+   .. py:attribute:: folio
+      :type:  str
+
+
+   .. py:attribute:: display
+      :type:  str
+
+
+.. py:class:: ConcordanceEntry
+
+   Aggregated concordance record for a distinct Aristotelian Bekker locus.
+
+   :ivar locus_id: Unique canonical identifier (e.g. ``"anal-post:77b30"``).
+   :ivar bekker: Normalized ``BekkerRef`` sort/display object.
+   :ivar bekker_display: Human-readable Bekker span (e.g. ``"77b30"``).
+   :ivar work_id: Canonical treatise slug (e.g. ``"anal-post"``).
+   :ivar work_la: Latin treatise title.
+   :ivar work_en: English treatise title.
+   :ivar book: Book number if resolved, else ``None``.
+   :ivar chapter: Chapter number if resolved, else ``None``.
+   :ivar chapter_display: Formatted book.chapter label (e.g. ``"I.12"``).
+   :ivar in_codex: Whether this locus is included in the primary text of *Loci Geometrici*.
+   :ivar codex_unit: Target unit directory/file slug if ``in_codex`` is ``True``.
+   :ivar codex_unit_title: Short title of the Codex unit if ``in_codex`` is ``True``.
+   :ivar codex_anchor: Sphinx anchor label (e.g. ``"bekker-77b30"``) inside ``-en.rst``.
+   :ivar repos: Sorted list of sister repositories citing this locus.
+   :ivar occurrences: Deduplicated list of ``SisterOccurrence`` records.
+
+
+
+   .. py:attribute:: locus_id
+      :type:  str
+
+
+   .. py:attribute:: bekker
+      :type:  BekkerRef
+
+
+   .. py:attribute:: bekker_display
+      :type:  str
+
+
+   .. py:attribute:: work_id
+      :type:  str
+
+
+   .. py:attribute:: work_la
+      :type:  str
+
+
+   .. py:attribute:: work_en
+      :type:  str
+
+
+   .. py:attribute:: book
+      :type:  int | None
+
+
+   .. py:attribute:: chapter
+      :type:  int | None
+
+
+   .. py:attribute:: chapter_display
+      :type:  str
+
+
+   .. py:attribute:: in_codex
+      :type:  bool
+
+
+   .. py:attribute:: codex_unit
+      :type:  str
+
+
+   .. py:attribute:: codex_unit_title
+      :type:  str
+
+
+   .. py:attribute:: codex_anchor
+      :type:  str
+
+
+   .. py:attribute:: repos
+      :type:  list[str]
+      :value: []
+
+
+
+   .. py:attribute:: occurrences
+      :type:  list[SisterOccurrence]
+      :value: []
+
+
+
+   .. py:method:: to_dict() -> dict[str, Any]
+
+      Serialize entry to a JSON-compatible dictionary.
+
+
+
+.. py:function:: parse_bekker_locus(text: str, page_range: tuple[int, int] = (1, 1500)) -> BekkerRef | None
+
+   Extract a canonical ``BekkerRef`` from a raw locus or display string.
+
+   :param text: Raw locus token or citation display string (e.g. ``"I.2.72a14-24"``,
+                ``"i-10-76-b-9"``, ``"Metaph. 1051 a 24"``, ``"1014a35-b5"``).
+   :param page_range: Inclusive ``(min_page, max_page)`` bounds used to disambiguate
+                      treatise page numbers from book/chapter numbers.
+
+   :returns: Parsed ``BekkerRef`` if a valid Bekker coordinate within ``page_range`` is
+             found, otherwise ``None``.
+
+
+.. py:function:: match_codex_unit(work_id: str, book: int | None, chapter: int | None, bekker: BekkerRef) -> tuple[geometor.aristotle.units.UnitSpec, geometor.aristotle.units.ChapterSpec] | None
+
+   Match a resolved Aristotelian citation to its ``(UnitSpec, ChapterSpec)`` in the Codex.
+
+   :param work_id: Canonical work identifier.
+   :param book: Book number or ``None``.
+   :param chapter: Chapter number or ``None``.
+   :param bekker: Normalized ``BekkerRef`` coordinate.
+
+   :returns: Matching ``(UnitSpec, ChapterSpec)`` if the locus is covered by Libri I–V,
+             otherwise ``None``.
+
+
+.. py:function:: build_concordance(repo_root: pathlib.Path, workspace_root: pathlib.Path | None = None) -> dict[str, Any]
+
+   Mine Aristotle citations across GEOMETOR sister repos and write ``concordance.json``.
+
+   :param repo_root: Root directory of ``geometor/aristotle``.
+   :param workspace_root: Optional parent ``geometor`` directory containing ``euclid``,
+                          ``hoenen``, and ``pacioli``. Defaults to ``repo_root.parent``.
+
+   :returns: Complete concordance dictionary written to
+             ``resources/aristotle/concordance.json``.
+
+
