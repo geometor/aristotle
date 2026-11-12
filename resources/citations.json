@@ -1,0 +1,176 @@
+{
+  "bekker:1831": {
+    "author": "Bekker, Immanuel (ed.)",
+    "work": "Aristotelis Opera, edidit Academia Regia Borussica, Vols. I–II (Berlin: Georg Reimer, 1831; Oxford repr. 1837)",
+    "locus": "1a–1462b",
+    "notes": "Canonical Greek critical text defining universal Bekker page, column (a/b), and line coordinates."
+  },
+  "ross:metaphysics:1924": {
+    "author": "Ross, Sir William David (ed.)",
+    "work": "Aristotle's Metaphysics: A Revised Text with Introduction and Commentary, 2 vols. (Oxford: Clarendon Press, 1924)",
+    "locus": "980a–1093b",
+    "notes": "Standard critical Greek edition and commentary for Liber V of this Codex."
+  },
+  "ross:physics:1936": {
+    "author": "Ross, Sir William David (ed.)",
+    "work": "Aristotle's Physics: A Revised Text with Introduction and Commentary (Oxford: Clarendon Press, 1936)",
+    "locus": "184a–267b",
+    "notes": "Standard critical commentary on Aristotle's abstraction, infinite, place, and continuum treatises."
+  },
+  "ross:analytics:1949": {
+    "author": "Ross, Sir William David (ed.)",
+    "work": "Aristotle's Prior and Posterior Analytics: A Revised Text with Introduction and Commentary (Oxford: Clarendon Press, 1949)",
+    "locus": "24a–100b",
+    "notes": "Comprehensive philological and logical commentary on the Analytics."
+  },
+  "waitz:organon:1844": {
+    "author": "Waitz, Theodor (ed.)",
+    "work": "Aristotelis Organon Graece, 2 vols. (Leipzig: Hahn, 1844–1846)",
+    "locus": "Vols. I–II",
+    "notes": "Nineteenth-century critical edition and Latin commentary cited throughout Heath and Hoenen."
+  },
+  "bonitz:index:1870": {
+    "author": "Bonitz, Hermann",
+    "work": "Index Aristotelicus, Aristotelis Opera Vol. V (Berlin: Georg Reimer, 1870)",
+    "locus": "pp. 1–878",
+    "notes": "Exhaustive lexicon of Aristotle's Greek philosophical and mathematical terminology."
+  },
+  "oxford:works:1908": {
+    "author": "Smith, J. A., and W. D. Ross (eds.)",
+    "work": "The Works of Aristotle Translated into English, Vols. I–III, VIII (Oxford: Clarendon Press, 1908–1931)",
+    "locus": "Vols. I, II, III, VIII",
+    "notes": "Public-domain Oxford English translations by Edghill, Jenkinson, Mure, Pickard-Cambridge, Hardie & Gaye, Stocks, Smith, and Ross staged in this Codex."
+  },
+  "heath:euclid:1926": {
+    "author": "Heath, Sir Thomas Little",
+    "work": "The Thirteen Books of Euclid's Elements, 2nd ed., 3 vols. (Cambridge University Press, 1926) [geometor/euclid]",
+    "locus": "Vols. I–III",
+    "notes": "Contains 145 distinct Aristotelian locus citations reconstructing pre-Euclidean definitions, postulates, and proofs."
+  },
+  "heath:math-aristotle:1949": {
+    "author": "Heath, Sir Thomas Little",
+    "work": "Mathematics in Aristotle (Oxford: Clarendon Press, 1949)",
+    "locus": "pp. 1–291",
+    "notes": "Systematic treatise-by-treatise mathematical commentary on every geometrical and arithmetical passage in the Aristotelian corpus."
+  },
+  "hoenen:noetica:1952": {
+    "author": "Hoenen, Petrus Hubertus Jacobus, S.J.",
+    "work": "De Noetica Geometriae: Origine Theoriae Cognitionis, Analecta Gregoriana Vol. 56 (Rome: Pontificia Universitas Gregoriana, 1952) [geometor/hoenen]",
+    "locus": "Cap. I–VII & Appendix",
+    "notes": "Contains 64 Aristotelian locus keys developing the noetics of intellectual intuition in the phantasm and intelligible matter."
+  },
+  "pacioli:divina:1509": {
+    "author": "Pacioli, Fra Luca, O.F.M.",
+    "work": "De Divina Proportione (Venice: Paganino Paganini, 1509) [geometor/pacioli]",
+    "locus": "Compendio Cap. I–V & Architectura",
+    "notes": "Renaissance treatise citing Aristotle on mathematical certitude, subalternation of perspective/music, and the five regular solids."
+  },
+  "euclid:elements": {
+    "author": "Euclid of Alexandria",
+    "work": "Elements (Στοιχεῖα, ed. J. L. Heiberg, Leipzig, 1883–1888)",
+    "locus": "Books I–XIII",
+    "notes": "The canonical Greek synthesis of definitions, postulates, common notions, plane geometry, Eudoxian proportion, irrationals, and stereometry."
+  },
+  "euclid:I.5": {
+    "author": "Euclid of Alexandria",
+    "work": "Elements, Book I, Proposition 5 (Pons Asinorum)",
+    "locus": "I.5",
+    "notes": "Equality of base angles in an isosceles triangle; contrasted with Aristotle's older mixed-angle proof in Prior Analytics I.24 (41b13–22)."
+  },
+  "euclid:I.29": {
+    "author": "Euclid of Alexandria",
+    "work": "Elements, Book I, Postulate 5 & Proposition 29 (Theory of Parallels)",
+    "locus": "Post. 5; I.27–29",
+    "notes": "Euclid's resolution of the circularity in parallel-line proofs diagnosed by Aristotle in Prior Analytics II.16 (65a4–9)."
+  },
+  "euclid:I.32": {
+    "author": "Euclid of Alexandria",
+    "work": "Elements, Book I, Proposition 32 (Interior Angles of a Triangle = 2R)",
+    "locus": "I.32",
+    "notes": "Proved via the parallel through the vertex; cited in Posterior Analytics I.5 (74a25–32), I.31 (87b35), and Metaphysics Θ.9 (1051a24–26)."
+  },
+  "euclid:III.31": {
+    "author": "Euclid of Alexandria",
+    "work": "Elements, Book III, Proposition 31 (Angle in a Semicircle is Right)",
+    "locus": "III.31",
+    "notes": "Proved in Metaphysics Θ.9 (1051a26–29) and Posterior Analytics II.11 (94a28–34) by erecting the radius from the center of the diameter."
+  },
+  "euclid:V.def.5": {
+    "author": "Euclid of Alexandria / Eudoxus of Cnidus",
+    "work": "Elements, Book V, Definition 5 & Proposition 16 (General Proportion & Alternation)",
+    "locus": "V.Def.5; V.16",
+    "notes": "General Eudoxian theory of proportion heralded in Posterior Analytics I.5 (74a17–25) as superseding separate proofs for numbers, lines, solids, and times."
+  },
+  "euclid:X.2": {
+    "author": "Euclid of Alexandria / Theaetetus",
+    "work": "Elements, Book X, Propositions 2–3 (Anthyphairetic Criterion of Incommensurability)",
+    "locus": "X.2–3",
+    "notes": "Geometric preservation of reciprocal subtraction (antanairesis), attested in Topics VIII.3 (158b29–35)."
+  },
+  "plato:meno": {
+    "author": "Plato",
+    "work": "Meno",
+    "locus": "80d–86c",
+    "notes": "Meno's paradox of inquiry and the geometric doubling of the square, explicitly answered in Posterior Analytics I.1 (71a29)."
+  },
+  "plato:republic": {
+    "author": "Plato",
+    "work": "Republic, Books VI–VII (Divided Line & Quadrivium)",
+    "locus": "509d–511e, 525a–534d",
+    "notes": "Distinction between discursive mathematical dianoia from hypotheses and dialectical noēsis."
+  },
+  "plato:timaeus": {
+    "author": "Plato",
+    "work": "Timaeus",
+    "locus": "48e–56c",
+    "notes": "Identification of receptacle space (chōra) with matter and construction of physical bodies out of elementary plane triangles—critiqued in Physics IV.2 and De Caelo III.7–8."
+  },
+  "proclus:in-euclidem": {
+    "author": "Proclus Diadochus",
+    "work": "In Primum Euclidis Elementorum Librum Commentarii (ed. G. Friedlein, Leipzig, 1873)",
+    "locus": "pp. 48–84, 178–207",
+    "notes": "Preserves the Eudemian summary of Greek geometry and compares Aristotelian axioms, postulates, and hypotheses with Euclid's Elements."
+  },
+  "alexander:in-metaph": {
+    "author": "Alexander of Aphrodisias",
+    "work": "In Aristotelis Metaphysica Commentaria (ed. M. Hayduck, CAG I, Berlin, 1891)",
+    "locus": "CAG I",
+    "notes": "Classical Peripatetic commentary on Metaphysics A–Δ (with pseudo-Alexander / Michael of Ephesus on E–N)."
+  },
+  "simplicius:in-physica": {
+    "author": "Simplicius of Cilicia",
+    "work": "In Aristotelis Physicorum Libros Commentaria (ed. H. Diels, CAG IX–X, Berlin, 1882–1895)",
+    "locus": "CAG IX–X",
+    "notes": "Essential source on Antiphon, Bryson, Hippocrates of Chios, and Zeno's continuum arguments."
+  },
+  "philoponus:in-anal-post": {
+    "author": "John Philoponus",
+    "work": "In Aristotelis Analytica Priora et Posteriora Commentaria (ed. M. Wallies, CAG XIII.2–3, Berlin, 1905–1909)",
+    "locus": "CAG XIII.2–3",
+    "notes": "Preserves ancient reconstructions of Aristotle's geometric examples in the Analytics."
+  },
+  "aquinas:in-anal-post": {
+    "author": "Thomas Aquinas, St., O.P.",
+    "work": "Expositio Libri Posteriorum Analyticorum (Leonine ed., Vol. I*2, Rome, 1989)",
+    "locus": "Lib. I–II",
+    "notes": "Scholastic exposition of demonstrative science, axioms vs. postulates, subalternation, and intuitive epagōgē."
+  },
+  "aquinas:in-boeth-trin": {
+    "author": "Thomas Aquinas, St., O.P.",
+    "work": "Super Boethium De Trinitate (Leonine ed., Vol. L, Rome, 1992)",
+    "locus": "qq. 5–6",
+    "notes": "Locus classicus on the three degrees of theoretical distinction/abstraction and the termination of mathematical judgment in the imagination (ad imaginationem)."
+  },
+  "averroes:in-metaph": {
+    "author": "Averroes (Ibn Rushd)",
+    "work": "Aristotelis Metaphysicorum Libri XIIII cum Averrois Cordubensis in eosdem Commentariis (Venice: Junta, 1562)",
+    "locus": "Lib. II, comm. 14–16",
+    "notes": "Classical Peripatetic-Arabic exposition of Metaphysics α.3 (995a14–17) on mathematical exactitude (akribeia) and abstraction from sensible matter."
+  },
+  "hilbert:grundlagen:1899": {
+    "author": "Hilbert, David",
+    "work": "Grundlagen der Geometrie (Leipzig: Teubner, 1899)",
+    "locus": "Chs. I–II",
+    "notes": "Modern formalist axiomatization contrasted with Aristotelian intuitive first principles in the Codex commentary."
+  }
+}

@@ -1,0 +1,77 @@
+/* =========================================================================
+   GEOMETOR • Aristotle — Loci Geometrici et Noetici
+   Polytonic Greek Typography & Bekker Apparatus Styling (Light & Dark Mode)
+   Complements foundation theme's book_layout.html & _book.scss
+   ========================================================================= */
+
+:root {
+  --aristotle-accent: #8b5a2b;
+  --aristotle-accent-soft: rgba(139, 90, 43, 0.10);
+  --aristotle-border: rgba(100, 116, 139, 0.25);
+  --aristotle-folio-fg: #64748b;
+  --aristotle-greek-font: "Gentium Plus", "GFS Porson", "New Athena Unicode",
+    "Palatino Linotype", "Noto Serif", "Times New Roman", Georgia, serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --aristotle-accent: #eab308;
+    --aristotle-accent-soft: rgba(234, 179, 8, 0.12);
+    --aristotle-border: rgba(148, 163, 184, 0.24);
+    --aristotle-folio-fg: #94a3b8;
+  }
+}
+
+html[data-theme="dark"] {
+  --aristotle-accent: #eab308;
+  --aristotle-accent-soft: rgba(234, 179, 8, 0.12);
+  --aristotle-border: rgba(148, 163, 184, 0.24);
+  --aristotle-folio-fg: #94a3b8;
+}
+
+html[data-theme="light"] {
+  --aristotle-accent: #8b5a2b;
+  --aristotle-accent-soft: rgba(139, 90, 43, 0.10);
+  --aristotle-border: rgba(100, 116, 139, 0.25);
+  --aristotle-folio-fg: #64748b;
+}
+
+/* Polytonic Greek readability on synchronized -el track pages and epigraphs */
+.book-content :lang(el),
+.book-track-el .book-body p,
+.book-body blockquote em {
+  font-family: var(--aristotle-greek-font);
+  line-height: 1.82;
+  letter-spacing: 0.005em;
+}
+
+/* Subtle styling for Bekker column folio markers */
+.folio-marker,
+.book-folio {
+  color: var(--aristotle-folio-fg);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.03em;
+}
+
+/* Concordance and apparatus table refinement */
+.book-body table.docutils,
+main table.docutils {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.25rem 0 1.75rem;
+  font-size: 0.94rem;
+}
+
+.book-body table.docutils th,
+main table.docutils th {
+  border-bottom: 2px solid var(--aristotle-border);
+  text-align: left;
+  padding: 0.55rem 0.7rem;
+}
+
+.book-body table.docutils td,
+main table.docutils td {
+  border-bottom: 1px solid var(--aristotle-border);
+  padding: 0.55rem 0.7rem;
+  vertical-align: top;
+}

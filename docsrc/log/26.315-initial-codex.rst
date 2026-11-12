@@ -1,0 +1,16 @@
+:type: log
+:date: 2026-11-11
+:author: phi
+
+=============================================================================
+Initial Codex — *Loci Geometrici et Noetici* (Bekker Greek & Oxford English)
+=============================================================================
+
+Established ``geometor/aristotle`` (``v0.1.0``) as a synchronized four-track **Book Codex** (``:layout: book``) uniting the primary Aristotelian treatises on demonstrative science (*epistēmē*), continuous vs. discrete quantity, potential infinity, imaginative presentation (*phantasma*), and formal abstraction in intelligible matter (*hylē noētē*).
+
+Highlights of the Initial Edition
+---------------------------------
+
+* **Cross-Corpus Bekker Concordance**: Mined ``geometor/euclid`` (145 Aristotle keys), ``geometor/hoenen`` (64 Aristotle keys), and ``geometor/pacioli`` (17 Aristotle keys & folio occurrences) into ``resources/aristotle/concordance.json``, indexing **199 distinct Bekker loci** (246 textual occurrences) and linking **84 core geometric and noetic loci** directly to ``#bekker-<id>`` anchors in the Codex.
+* **18 Verified Public-Domain Primary Sources**: Staged and SHA-256 verified 10 Bekker/Ross polytonic Greek editions and 8 Clarendon Press Oxford English translations spanning 54 complete chapters across *Categories*, *Prior Analytics*, *Posterior Analytics*, *Topics*, *Physics*, *De Caelo*, *De Anima*, and *Metaphysics*.
+* **Four-Track Book Codex Architecture**: Added ``geometor.aristotle.sphinx_ext`` to dynamically register the ``-el`` (**Greek (Bekker)**) track in ``photon-platform/publish`` alongside **English**, **Summary**, and **Critical Notes** synthesizing :person:`Sir Thomas Heath's <heath>` mathematical history with :person:`Fr. Peter Hoenen S.J.'s <hoenen>` and :person:`St. Thomas Aquinas's <thomas-aquinas>` scholastic noetics.
