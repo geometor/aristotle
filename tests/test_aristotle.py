@@ -35,7 +35,7 @@ _ROLE_RE = re.compile(r":(term|person|cite):`([^`]+)`")
 
 def test_package_version_and_unit_inventory() -> None:
     """Verify package version and canonical 5-Liber, 9-unit, 54-chapter structure."""
-    assert __version__ == "0.1.0"
+    assert __version__ == "0.1.1"
     assert len(CODEX_UNITS) == 9
     total_chapters = sum(len(u.chapters) for u in CODEX_UNITS)
     assert total_chapters == 54

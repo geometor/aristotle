@@ -2,6 +2,11 @@
 Changelog
 =========
 
+0.1.1 (2026-11-13)
+------------------
+
+- **added**: Added track-aware primary-source folio map (``resources/aristotle/folio_map.json``) mapping 199 Bekker milestones and liber chapter spans to verified Greek and Oxford English locus lines with GitHub blob line anchors.
+
 0.1.0 (2026-11-11)
 ------------------
 

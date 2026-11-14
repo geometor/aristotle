@@ -21,7 +21,7 @@ from geometor.aristotle.concordance import (
 from geometor.aristotle.sphinx_ext import register_greek_track
 from geometor.aristotle.units import CODEX_UNITS, ChapterSpec, UnitSpec
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 __all__ = [
     "__version__",
