@@ -1,0 +1,627 @@
+{
+  "Bekker 71a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3056",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L13",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3056"
+  },
+  "Bekker 71b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3068",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L25",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3068"
+  },
+  "Bekker 72a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3101",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L86",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3101"
+  },
+  "Bekker 72b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3113",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L141",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3113"
+  },
+  "Bekker 73a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3166",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L197",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3166"
+  },
+  "Bekker 73b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3193",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L278",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3193"
+  },
+  "Bekker 74a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3216",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L312",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3216"
+  },
+  "Bekker 74b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3253",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L392",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3253"
+  },
+  "Bekker 75a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3300",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L465",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3300"
+  },
+  "Bekker 75b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3344",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L530",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3344"
+  },
+  "Bekker 76a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3385",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L604",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3385"
+  },
+  "Bekker 76b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3403",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L635",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3403"
+  },
+  "Bekker 77a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3426",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L670",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3426"
+  },
+  "Bekker 77b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3487",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L774",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3487"
+  },
+  "Bekker 78a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3505",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L822",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3505"
+  },
+  "Bekker 78b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3536",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L855",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3536"
+  },
+  "Bekker 79a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3562",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L892",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3562"
+  },
+  "Bekker 85a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3958",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L1517",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3958"
+  },
+  "Bekker 85b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3980",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L1561",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3980"
+  },
+  "Bekker 86a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4005",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L1614",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4005"
+  },
+  "Bekker 87a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4094",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L1769",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4094"
+  },
+  "Bekker 87b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4129",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L1827",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4129"
+  },
+  "Bekker 88a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4140",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L1850",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4140"
+  },
+  "Bekker 99b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4879",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L3109",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4879"
+  },
+  "Bekker 100a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4883",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L3117",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4883"
+  },
+  "Bekker 100b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4894",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L3162",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L4894"
+  },
+  "Bekker 4b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg006.bekker1837.xml#L305",
+    "en": "resources/aristotle/sources/en/categories_edghill.txt#L353",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg006.bekker1837.xml#L305"
+  },
+  "Bekker 5a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg006.bekker1837.xml#L327",
+    "en": "resources/aristotle/sources/en/categories_edghill.txt#L368",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg006.bekker1837.xml#L327"
+  },
+  "Bekker 5b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg006.bekker1837.xml#L351",
+    "en": "resources/aristotle/sources/en/categories_edghill.txt#L414",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg006.bekker1837.xml#L351"
+  },
+  "Bekker 6a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg006.bekker1837.xml#L380",
+    "en": "resources/aristotle/sources/en/categories_edghill.txt#L477",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg006.bekker1837.xml#L380"
+  },
+  "Bekker 25b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L188",
+    "en": "resources/aristotle/sources/en/prior_analytics_jenkinson.txt#L142",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L188"
+  },
+  "Bekker 26a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L204",
+    "en": "resources/aristotle/sources/en/prior_analytics_jenkinson.txt#L174",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L204"
+  },
+  "Bekker 26b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L224",
+    "en": "resources/aristotle/sources/en/prior_analytics_jenkinson.txt#L205",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L224"
+  },
+  "Bekker 40b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L1135",
+    "en": "resources/aristotle/sources/en/prior_analytics_jenkinson.txt#L1462",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L1135"
+  },
+  "Bekker 41a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L1144",
+    "en": "resources/aristotle/sources/en/prior_analytics_jenkinson.txt#L1468",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L1144"
+  },
+  "Bekker 41b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L1135",
+    "en": "resources/aristotle/sources/en/prior_analytics_jenkinson.txt#L1476",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L1135"
+  },
+  "Bekker 64b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L2664",
+    "en": "resources/aristotle/sources/en/prior_analytics_jenkinson.txt#L3703",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L2664"
+  },
+  "Bekker 65a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L2680",
+    "en": "resources/aristotle/sources/en/prior_analytics_jenkinson.txt#L3740",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L2680"
+  },
+  "Bekker 141a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L2517",
+    "en": "resources/aristotle/sources/en/topics_pickard_cambridge.txt#L4141",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L2517"
+  },
+  "Bekker 141b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L2530",
+    "en": "resources/aristotle/sources/en/topics_pickard_cambridge.txt#L4179",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L2530"
+  },
+  "Bekker 142a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L2528",
+    "en": "resources/aristotle/sources/en/topics_pickard_cambridge.txt#L4232",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L2528"
+  },
+  "Bekker 142b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L2580",
+    "en": "resources/aristotle/sources/en/topics_pickard_cambridge.txt#L4247",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L2580"
+  },
+  "Bekker 158a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L3508",
+    "en": "resources/aristotle/sources/en/topics_pickard_cambridge.txt#L5789",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L3508"
+  },
+  "Bekker 158b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L3518",
+    "en": "resources/aristotle/sources/en/topics_pickard_cambridge.txt#L5817",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L3518"
+  },
+  "Bekker 159a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L3532",
+    "en": "resources/aristotle/sources/en/topics_pickard_cambridge.txt#L5827",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L3532"
+  },
+  "Bekker 193b": {
+    "el": "resources/aristotle/sources/el/physica_book2_bekker1831.txt#L43",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L940",
+    "default": "resources/aristotle/sources/el/physica_book2_bekker1831.txt#L43"
+  },
+  "Bekker 194a": {
+    "el": "resources/aristotle/sources/el/physica_book2_bekker1831.txt#L49",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L953",
+    "default": "resources/aristotle/sources/el/physica_book2_bekker1831.txt#L49"
+  },
+  "Bekker 194b": {
+    "el": "resources/aristotle/sources/el/physica_book2_bekker1831.txt#L55",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L986",
+    "default": "resources/aristotle/sources/el/physica_book2_bekker1831.txt#L55"
+  },
+  "Bekker 202b": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L75",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L1817",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L75"
+  },
+  "Bekker 203a": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L86",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L1857",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L86"
+  },
+  "Bekker 203b": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L96",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L1898",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L96"
+  },
+  "Bekker 204a": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L106",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L1926",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L106"
+  },
+  "Bekker 204b": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L130",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L1979",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L130"
+  },
+  "Bekker 205a": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L140",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2012",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L140"
+  },
+  "Bekker 205b": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L150",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2046",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L150"
+  },
+  "Bekker 206a": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L161",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2091",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L161"
+  },
+  "Bekker 206b": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L181",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2173",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L181"
+  },
+  "Bekker 207a": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L189",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2206",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L189"
+  },
+  "Bekker 207b": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L203",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2298",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L203"
+  },
+  "Bekker 208a": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L209",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2313",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L209"
+  },
+  "Bekker 208b": {
+    "el": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L18",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2415",
+    "default": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L18"
+  },
+  "Bekker 209a": {
+    "el": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L26",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2447",
+    "default": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L26"
+  },
+  "Bekker 209b": {
+    "el": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L46",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2503",
+    "default": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L46"
+  },
+  "Bekker 210a": {
+    "el": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L52",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2527",
+    "default": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L52"
+  },
+  "Bekker 210b": {
+    "el": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L77",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2574",
+    "default": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L77"
+  },
+  "Bekker 211a": {
+    "el": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L113",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2658",
+    "default": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L113"
+  },
+  "Bekker 211b": {
+    "el": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L126",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2706",
+    "default": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L126"
+  },
+  "Bekker 212a": {
+    "el": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L138",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2757",
+    "default": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L138"
+  },
+  "Bekker 212b": {
+    "el": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L161",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2837",
+    "default": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L161"
+  },
+  "Bekker 213a": {
+    "el": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L167",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2854",
+    "default": "resources/aristotle/sources/el/physica_book4_bekker1831.txt#L167"
+  },
+  "Bekker 231a": {
+    "el": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L8",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L4549",
+    "default": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L8"
+  },
+  "Bekker 231b": {
+    "el": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L10",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L4573",
+    "default": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L10"
+  },
+  "Bekker 232a": {
+    "el": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L15",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L4590",
+    "default": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L15"
+  },
+  "Bekker 232b": {
+    "el": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L23",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L4689",
+    "default": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L23"
+  },
+  "Bekker 233a": {
+    "el": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L26",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L4729",
+    "default": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L26"
+  },
+  "Bekker 233b": {
+    "el": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L28",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L4742",
+    "default": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L28"
+  },
+  "Bekker 239b": {
+    "el": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L138",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L5385",
+    "default": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L138"
+  },
+  "Bekker 240a": {
+    "el": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L146",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L5421",
+    "default": "resources/aristotle/sources/el/physica_book6_bekker1831.txt#L146"
+  },
+  "Bekker 268a": {
+    "el": "resources/aristotle/sources/el/de_caelo_book1_bekker1831.txt#L8",
+    "en": "resources/aristotle/sources/en/on_the_heavens_stocks.txt#L13",
+    "default": "resources/aristotle/sources/el/de_caelo_book1_bekker1831.txt#L8"
+  },
+  "Bekker 268b": {
+    "el": "resources/aristotle/sources/el/de_caelo_book1_bekker1831.txt#L12",
+    "en": "resources/aristotle/sources/en/on_the_heavens_stocks.txt#L13",
+    "default": "resources/aristotle/sources/el/de_caelo_book1_bekker1831.txt#L12"
+  },
+  "Bekker 427a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1330",
+    "en": "resources/aristotle/sources/en/on_the_soul_smith.txt#L2277",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1330"
+  },
+  "Bekker 427b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1336",
+    "en": "resources/aristotle/sources/en/on_the_soul_smith.txt#L2299",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1336"
+  },
+  "Bekker 428a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1346",
+    "en": "resources/aristotle/sources/en/on_the_soul_smith.txt#L2346",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1346"
+  },
+  "Bekker 428b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1372",
+    "en": "resources/aristotle/sources/en/on_the_soul_smith.txt#L2376",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1372"
+  },
+  "Bekker 429a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1396",
+    "en": "resources/aristotle/sources/en/on_the_soul_smith.txt#L2408",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1396"
+  },
+  "Bekker 429b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1435",
+    "en": "resources/aristotle/sources/en/on_the_soul_smith.txt#L2450",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1435"
+  },
+  "Bekker 430a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1449",
+    "en": "resources/aristotle/sources/en/on_the_soul_smith.txt#L2482",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1449"
+  },
+  "Bekker 430b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1489",
+    "en": "resources/aristotle/sources/en/on_the_soul_smith.txt#L2581",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1489"
+  },
+  "Bekker 431a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1500",
+    "en": "resources/aristotle/sources/en/on_the_soul_smith.txt#L2590",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1500"
+  },
+  "Bekker 431b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1525",
+    "en": "resources/aristotle/sources/en/on_the_soul_smith.txt#L2634",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1525"
+  },
+  "Bekker 432a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1561",
+    "en": "resources/aristotle/sources/en/on_the_soul_smith.txt#L2691",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1561"
+  },
+  "Bekker 996a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L144",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L1271",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L144"
+  },
+  "Bekker 996b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L147",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L1293",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L147"
+  },
+  "Bekker 997a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L147",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L1349",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L147"
+  },
+  "Bekker 997b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L147",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L1369",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L147"
+  },
+  "Bekker 998a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L147",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L1397",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L147"
+  },
+  "Bekker 1015b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L205",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L2989",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L205"
+  },
+  "Bekker 1016a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L208",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L3033",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L208"
+  },
+  "Bekker 1016b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L208",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L3054",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L208"
+  },
+  "Bekker 1017a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L208",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L3081",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L208"
+  },
+  "Bekker 1020a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L227",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L3416",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L227"
+  },
+  "Bekker 1025b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L286",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L3928",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L286"
+  },
+  "Bekker 1026a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L286",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L3950",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L286"
+  },
+  "Bekker 1034b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L323",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L4769",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L323"
+  },
+  "Bekker 1035a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L326",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L4784",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L326"
+  },
+  "Bekker 1035b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L326",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L4830",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L326"
+  },
+  "Bekker 1036a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L326",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L4883",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L326"
+  },
+  "Bekker 1036b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L329",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L4936",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L329"
+  },
+  "Bekker 1037a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L330",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L4968",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L330"
+  },
+  "Bekker 1051a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L396",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L6284",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L396"
+  },
+  "Bekker 1076a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L503",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L8653",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L503"
+  },
+  "Bekker 1076b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L510",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L8745",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L510"
+  },
+  "Bekker 1077a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L510",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L8772",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L510"
+  },
+  "Bekker 1077b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L510",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L8789",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L510"
+  },
+  "Bekker 1078a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L513",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L8863",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L513"
+  },
+  "Bekker 1078b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L513",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L8872",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L513"
+  },
+  "71a1–79a16": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3056",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L13",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3056"
+  },
+  "85a13–88a17, 99b15–100b17": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3958",
+    "en": "resources/aristotle/sources/en/posterior_analytics_mure.txt#L1517",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg001.bekker1837.xml#L3958"
+  },
+  "4b20–6a35, 25b–26a, 40b–41b, 64b–65a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg006.bekker1837.xml#L305",
+    "en": "resources/aristotle/sources/en/categories_edghill.txt#L353",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg006.bekker1837.xml#L305"
+  },
+  "141a23–142b19, 158a31–159a14": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L2517",
+    "en": "resources/aristotle/sources/en/topics_pickard_cambridge.txt#L4141",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg044.bekker1837.xml#L2517"
+  },
+  "193b22–194b15, 202b30–208a4": {
+    "el": "resources/aristotle/sources/el/physica_book2_bekker1831.txt#L43",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L940",
+    "default": "resources/aristotle/sources/el/physica_book2_bekker1831.txt#L43"
+  },
+  "208a–213a, 231a–233b, 239b–240a, 268a–b": {
+    "el": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L209",
+    "en": "resources/aristotle/sources/en/physics_hardie_gaye.txt#L2313",
+    "default": "resources/aristotle/sources/el/physica_book3_bekker1831.txt#L209"
+  },
+  "427a17–432a14": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1330",
+    "en": "resources/aristotle/sources/en/on_the_soul_smith.txt#L2277",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg002.bekker1837.xml#L1330"
+  },
+  "996a–998a, 1015b–1017a, 1020a, 1025b–1026a": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L144",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L1271",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L144"
+  },
+  "1034b–1037a, 1051a, 1076a–1078b": {
+    "el": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L323",
+    "en": "resources/aristotle/sources/en/metaphysics_ross.txt#L4769",
+    "default": "resources/aristotle/sources/el/tlg0086.tlg025.ross1924.xml#L323"
+  }
+}
