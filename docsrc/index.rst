@@ -51,7 +51,7 @@ Editorial Context & Architecture
 * :doc:`Using This Edition (Reader's Guide) <usage/index>`
 * :doc:`People (Biographical Register) <loci_geometrici/persons>`
 * :doc:`Bibliography <loci_geometrici/bibliography>`
-* :doc:`Mission — Why Aristotle Anchors the GEOMETOR Canon <mission/index>`
+* :doc:`About This Edition, Bekker Provenance & GEOMETOR Mission <about/index>`
 * :doc:`The Bekker Edition (1831) & the Oxford Translation <about/bekker-edition>`
 * :doc:`Aristotle's Four Pillars of Geometric Cognition <about/aristotle-and-geometor>`
 * :doc:`Python Package & CLI Reference <modules/index>`
@@ -63,3 +63,4 @@ Editorial Context & Architecture
 
    loci_geometrici/index
    usage/index
+   about/index
