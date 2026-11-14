@@ -67,7 +67,7 @@
       "chapter_display": "I.4",
       "in_codex": true,
       "codex_unit": "liber-2a-quantitas-et-syllogismus",
-      "codex_unit_title": "Liber II.A: Quantity & Geometric Syllogism (Cat. 6; Anal. Prior. I.4, 23–24; II.16)",
+      "codex_unit_title": "Book II.A: Quantity & Geometric Syllogism (Cat. 6; Anal. Prior. I.4, 23–24; II.16)",
       "codex_anchor": "bekker-25b37",
       "repos": [
         "hoenen"
@@ -151,7 +151,7 @@
       "chapter_display": "I.23",
       "in_codex": true,
       "codex_unit": "liber-2a-quantitas-et-syllogismus",
-      "codex_unit_title": "Liber II.A: Quantity & Geometric Syllogism (Cat. 6; Anal. Prior. I.4, 23–24; II.16)",
+      "codex_unit_title": "Book II.A: Quantity & Geometric Syllogism (Cat. 6; Anal. Prior. I.4, 23–24; II.16)",
       "codex_anchor": "bekker-40b25",
       "repos": [
         "euclid"
@@ -188,7 +188,7 @@
       "chapter_display": "I.23",
       "in_codex": true,
       "codex_unit": "liber-2a-quantitas-et-syllogismus",
-      "codex_unit_title": "Liber II.A: Quantity & Geometric Syllogism (Cat. 6; Anal. Prior. I.4, 23–24; II.16)",
+      "codex_unit_title": "Book II.A: Quantity & Geometric Syllogism (Cat. 6; Anal. Prior. I.4, 23–24; II.16)",
       "codex_anchor": "bekker-41a24",
       "repos": [
         "euclid"
@@ -225,7 +225,7 @@
       "chapter_display": "I.24",
       "in_codex": true,
       "codex_unit": "liber-2a-quantitas-et-syllogismus",
-      "codex_unit_title": "Liber II.A: Quantity & Geometric Syllogism (Cat. 6; Anal. Prior. I.4, 23–24; II.16)",
+      "codex_unit_title": "Book II.A: Quantity & Geometric Syllogism (Cat. 6; Anal. Prior. I.4, 23–24; II.16)",
       "codex_anchor": "bekker-41b13",
       "repos": [
         "euclid"
@@ -319,7 +319,7 @@
       "chapter_display": "II.16",
       "in_codex": true,
       "codex_unit": "liber-2a-quantitas-et-syllogismus",
-      "codex_unit_title": "Liber II.A: Quantity & Geometric Syllogism (Cat. 6; Anal. Prior. I.4, 23–24; II.16)",
+      "codex_unit_title": "Book II.A: Quantity & Geometric Syllogism (Cat. 6; Anal. Prior. I.4, 23–24; II.16)",
       "codex_anchor": "bekker-65a4",
       "repos": [
         "euclid"
@@ -450,7 +450,7 @@
       "chapter_display": "I.1",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-71a-anal-post-i-1",
       "repos": [
         "hoenen"
@@ -497,7 +497,7 @@
       "chapter_display": "I.1",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-71a11",
       "repos": [
         "euclid"
@@ -534,7 +534,7 @@
       "chapter_display": "I.1",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-71a14",
       "repos": [
         "hoenen"
@@ -571,7 +571,7 @@
       "chapter_display": "I.2",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-71b-anal-post-i-2",
       "repos": [
         "hoenen"
@@ -618,7 +618,7 @@
       "chapter_display": "I.2",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-71b9",
       "repos": [
         "euclid"
@@ -655,7 +655,7 @@
       "chapter_display": "I.2",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-72a14",
       "repos": [
         "euclid"
@@ -692,7 +692,7 @@
       "chapter_display": "I.4",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-73b19",
       "repos": [
         "euclid"
@@ -729,7 +729,7 @@
       "chapter_display": "I.5",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-74a17",
       "repos": [
         "euclid"
@@ -766,7 +766,7 @@
       "chapter_display": "I.5",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-74a18",
       "repos": [
         "euclid"
@@ -803,7 +803,7 @@
       "chapter_display": "I.5",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-74a25",
       "repos": [
         "euclid"
@@ -840,7 +840,7 @@
       "chapter_display": "I.6",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-74b5",
       "repos": [
         "euclid"
@@ -877,7 +877,7 @@
       "chapter_display": "I.7",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-75a-anal-post-i-7",
       "repos": [
         "pacioli"
@@ -914,7 +914,7 @@
       "chapter_display": "I.7",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-75a38",
       "repos": [
         "pacioli"
@@ -961,7 +961,7 @@
       "chapter_display": "I.7",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-75b4",
       "repos": [
         "euclid"
@@ -998,7 +998,7 @@
       "chapter_display": "I.10",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-76a-anal-post-i-10",
       "repos": [
         "euclid",
@@ -1046,7 +1046,7 @@
       "chapter_display": "I.10",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-76a31",
       "repos": [
         "euclid"
@@ -1083,7 +1083,7 @@
       "chapter_display": "I.10",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-76b9",
       "repos": [
         "euclid"
@@ -1120,7 +1120,7 @@
       "chapter_display": "I.10",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-76b23",
       "repos": [
         "hoenen"
@@ -1157,7 +1157,7 @@
       "chapter_display": "I.10",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-76b27",
       "repos": [
         "hoenen"
@@ -1194,7 +1194,7 @@
       "chapter_display": "I.10",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-76b28",
       "repos": [
         "hoenen"
@@ -1231,7 +1231,7 @@
       "chapter_display": "I.10",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-76b41",
       "repos": [
         "euclid"
@@ -1268,7 +1268,7 @@
       "chapter_display": "I.11",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-77a30",
       "repos": [
         "euclid"
@@ -1305,7 +1305,7 @@
       "chapter_display": "I.12",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-77b22",
       "repos": [
         "euclid"
@@ -1342,7 +1342,7 @@
       "chapter_display": "I.12",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-77b30",
       "repos": [
         "hoenen"
@@ -1389,7 +1389,7 @@
       "chapter_display": "I.13",
       "in_codex": true,
       "codex_unit": "liber-1a-apodeixis",
-      "codex_unit_title": "Liber I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
+      "codex_unit_title": "Book I.A: Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13)",
       "codex_anchor": "bekker-78b34",
       "repos": [
         "pacioli"
@@ -1436,7 +1436,7 @@
       "chapter_display": "I.24",
       "in_codex": true,
       "codex_unit": "liber-1b-universale-et-nous",
-      "codex_unit_title": "Liber I.B: Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19)",
+      "codex_unit_title": "Book I.B: Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19)",
       "codex_anchor": "bekker-85a16",
       "repos": [
         "euclid"
@@ -1473,7 +1473,7 @@
       "chapter_display": "I.24",
       "in_codex": true,
       "codex_unit": "liber-1b-universale-et-nous",
-      "codex_unit_title": "Liber I.B: Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19)",
+      "codex_unit_title": "Book I.B: Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19)",
       "codex_anchor": "bekker-85b5",
       "repos": [
         "euclid"
@@ -1510,7 +1510,7 @@
       "chapter_display": "I.24",
       "in_codex": true,
       "codex_unit": "liber-1b-universale-et-nous",
-      "codex_unit_title": "Liber I.B: Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19)",
+      "codex_unit_title": "Book I.B: Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19)",
       "codex_anchor": "bekker-85b38",
       "repos": [
         "euclid"
@@ -1584,7 +1584,7 @@
       "chapter_display": "I.31",
       "in_codex": true,
       "codex_unit": "liber-1b-universale-et-nous",
-      "codex_unit_title": "Liber I.B: Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19)",
+      "codex_unit_title": "Book I.B: Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19)",
       "codex_anchor": "bekker-87b-anal-post-i-31",
       "repos": [
         "hoenen"
@@ -1621,7 +1621,7 @@
       "chapter_display": "I.31",
       "in_codex": true,
       "codex_unit": "liber-1b-universale-et-nous",
-      "codex_unit_title": "Liber I.B: Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19)",
+      "codex_unit_title": "Book I.B: Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19)",
       "codex_anchor": "bekker-87b35",
       "repos": [
         "hoenen"
@@ -2028,7 +2028,7 @@
       "chapter_display": "II.19",
       "in_codex": true,
       "codex_unit": "liber-1b-universale-et-nous",
-      "codex_unit_title": "Liber I.B: Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19)",
+      "codex_unit_title": "Book I.B: Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19)",
       "codex_anchor": "bekker-99b-anal-post-ii-19",
       "repos": [
         "hoenen"
@@ -2142,7 +2142,7 @@
       "chapter_display": "VI.4",
       "in_codex": true,
       "codex_unit": "liber-2b-topica-definitiones",
-      "codex_unit_title": "Liber II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
+      "codex_unit_title": "Book II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
       "codex_anchor": "bekker-141a26",
       "repos": [
         "euclid"
@@ -2179,7 +2179,7 @@
       "chapter_display": "VI.4",
       "in_codex": true,
       "codex_unit": "liber-2b-topica-definitiones",
-      "codex_unit_title": "Liber II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
+      "codex_unit_title": "Book II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
       "codex_anchor": "bekker-141b20",
       "repos": [
         "euclid"
@@ -2216,7 +2216,7 @@
       "chapter_display": "VI.4",
       "in_codex": true,
       "codex_unit": "liber-2b-topica-definitiones",
-      "codex_unit_title": "Liber II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
+      "codex_unit_title": "Book II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
       "codex_anchor": "bekker-141b21",
       "repos": [
         "euclid"
@@ -2253,7 +2253,7 @@
       "chapter_display": "VI.4",
       "in_codex": true,
       "codex_unit": "liber-2b-topica-definitiones",
-      "codex_unit_title": "Liber II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
+      "codex_unit_title": "Book II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
       "codex_anchor": "bekker-141b22",
       "repos": [
         "euclid"
@@ -2290,7 +2290,7 @@
       "chapter_display": "VI.4",
       "in_codex": true,
       "codex_unit": "liber-2b-topica-definitiones",
-      "codex_unit_title": "Liber II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
+      "codex_unit_title": "Book II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
       "codex_anchor": "bekker-141b25",
       "repos": [
         "euclid"
@@ -2327,7 +2327,7 @@
       "chapter_display": "VI.4",
       "in_codex": true,
       "codex_unit": "liber-2b-topica-definitiones",
-      "codex_unit_title": "Liber II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
+      "codex_unit_title": "Book II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
       "codex_anchor": "bekker-142a22",
       "repos": [
         "euclid"
@@ -2364,7 +2364,7 @@
       "chapter_display": "VI.4",
       "in_codex": true,
       "codex_unit": "liber-2b-topica-definitiones",
-      "codex_unit_title": "Liber II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
+      "codex_unit_title": "Book II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
       "codex_anchor": "bekker-142b7",
       "repos": [
         "euclid"
@@ -2559,7 +2559,7 @@
       "chapter_display": "VIII.3",
       "in_codex": true,
       "codex_unit": "liber-2b-topica-definitiones",
-      "codex_unit_title": "Liber II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
+      "codex_unit_title": "Book II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
       "codex_anchor": "bekker-158b29",
       "repos": [
         "euclid"
@@ -2596,7 +2596,7 @@
       "chapter_display": "VIII.3",
       "in_codex": true,
       "codex_unit": "liber-2b-topica-definitiones",
-      "codex_unit_title": "Liber II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
+      "codex_unit_title": "Book II.B: Geometric Definitions & Antanairesis (Topics VI.4; VIII.3)",
       "codex_anchor": "bekker-158b35",
       "repos": [
         "euclid"
@@ -2754,7 +2754,7 @@
       "chapter_display": "II.2",
       "in_codex": true,
       "codex_unit": "liber-3a-mathematicus-et-infinitum",
-      "codex_unit_title": "Liber III.A: Mathematical Separation & Potential Infinite (Phys. II.2; III.4–7)",
+      "codex_unit_title": "Book III.A: Mathematical Separation & Potential Infinite (Phys. II.2; III.4–7)",
       "codex_anchor": "bekker-193b34",
       "repos": [
         "euclid"
@@ -2838,7 +2838,7 @@
       "chapter_display": "III.4",
       "in_codex": true,
       "codex_unit": "liber-3a-mathematicus-et-infinitum",
-      "codex_unit_title": "Liber III.A: Mathematical Separation & Potential Infinite (Phys. II.2; III.4–7)",
+      "codex_unit_title": "Book III.A: Mathematical Separation & Potential Infinite (Phys. II.2; III.4–7)",
       "codex_anchor": "bekker-203a10",
       "repos": [
         "euclid"
@@ -2875,7 +2875,7 @@
       "chapter_display": "III.5",
       "in_codex": true,
       "codex_unit": "liber-3a-mathematicus-et-infinitum",
-      "codex_unit_title": "Liber III.A: Mathematical Separation & Potential Infinite (Phys. II.2; III.4–7)",
+      "codex_unit_title": "Book III.A: Mathematical Separation & Potential Infinite (Phys. II.2; III.4–7)",
       "codex_anchor": "bekker-204a34",
       "repos": [
         "euclid"
@@ -2912,7 +2912,7 @@
       "chapter_display": "III.6",
       "in_codex": true,
       "codex_unit": "liber-3a-mathematicus-et-infinitum",
-      "codex_unit_title": "Liber III.A: Mathematical Separation & Potential Infinite (Phys. II.2; III.4–7)",
+      "codex_unit_title": "Book III.A: Mathematical Separation & Potential Infinite (Phys. II.2; III.4–7)",
       "codex_anchor": "bekker-206a15",
       "repos": [
         "euclid"
@@ -2949,7 +2949,7 @@
       "chapter_display": "III.7",
       "in_codex": true,
       "codex_unit": "liber-3a-mathematicus-et-infinitum",
-      "codex_unit_title": "Liber III.A: Mathematical Separation & Potential Infinite (Phys. II.2; III.4–7)",
+      "codex_unit_title": "Book III.A: Mathematical Separation & Potential Infinite (Phys. II.2; III.4–7)",
       "codex_anchor": "bekker-207b7",
       "repos": [
         "euclid"
@@ -2986,7 +2986,7 @@
       "chapter_display": "IV.1",
       "in_codex": true,
       "codex_unit": "liber-3b-topos-continuum-dimensio",
-      "codex_unit_title": "Liber III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
+      "codex_unit_title": "Book III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
       "codex_anchor": "bekker-208a-physica-iv-1",
       "repos": [
         "hoenen"
@@ -3043,7 +3043,7 @@
       "chapter_display": "IV.1",
       "in_codex": true,
       "codex_unit": "liber-3b-topos-continuum-dimensio",
-      "codex_unit_title": "Liber III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
+      "codex_unit_title": "Book III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
       "codex_anchor": "bekker-208b1",
       "repos": [
         "hoenen"
@@ -3080,7 +3080,7 @@
       "chapter_display": "IV.1",
       "in_codex": true,
       "codex_unit": "liber-3b-topos-continuum-dimensio",
-      "codex_unit_title": "Liber III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
+      "codex_unit_title": "Book III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
       "codex_anchor": "bekker-209a4",
       "repos": [
         "euclid"
@@ -3117,7 +3117,7 @@
       "chapter_display": "IV.1",
       "in_codex": true,
       "codex_unit": "liber-3b-topos-continuum-dimensio",
-      "codex_unit_title": "Liber III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
+      "codex_unit_title": "Book III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
       "codex_anchor": "bekker-209a11",
       "repos": [
         "euclid"
@@ -3154,7 +3154,7 @@
       "chapter_display": "IV.2",
       "in_codex": true,
       "codex_unit": "liber-3b-topos-continuum-dimensio",
-      "codex_unit_title": "Liber III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
+      "codex_unit_title": "Book III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
       "codex_anchor": "bekker-209b24",
       "repos": [
         "hoenen"
@@ -3191,7 +3191,7 @@
       "chapter_display": "IV.2",
       "in_codex": true,
       "codex_unit": "liber-3b-topos-continuum-dimensio",
-      "codex_unit_title": "Liber III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
+      "codex_unit_title": "Book III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
       "codex_anchor": "bekker-210a12",
       "repos": [
         "hoenen"
@@ -3228,7 +3228,7 @@
       "chapter_display": "IV.4",
       "in_codex": true,
       "codex_unit": "liber-3b-topos-continuum-dimensio",
-      "codex_unit_title": "Liber III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
+      "codex_unit_title": "Book III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
       "codex_anchor": "bekker-211a12",
       "repos": [
         "hoenen"
@@ -3265,7 +3265,7 @@
       "chapter_display": "IV.5",
       "in_codex": true,
       "codex_unit": "liber-3b-topos-continuum-dimensio",
-      "codex_unit_title": "Liber III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
+      "codex_unit_title": "Book III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
       "codex_anchor": "bekker-212a31",
       "repos": [
         "hoenen"
@@ -3302,7 +3302,7 @@
       "chapter_display": "IV.5",
       "in_codex": true,
       "codex_unit": "liber-3b-topos-continuum-dimensio",
-      "codex_unit_title": "Liber III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
+      "codex_unit_title": "Book III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
       "codex_anchor": "bekker-212b14",
       "repos": [
         "hoenen"
@@ -3729,7 +3729,7 @@
       "chapter_display": "VI.1",
       "in_codex": true,
       "codex_unit": "liber-3b-topos-continuum-dimensio",
-      "codex_unit_title": "Liber III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
+      "codex_unit_title": "Book III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
       "codex_anchor": "bekker-231a21",
       "repos": [
         "euclid"
@@ -3766,7 +3766,7 @@
       "chapter_display": "VI.1",
       "in_codex": true,
       "codex_unit": "liber-3b-topos-continuum-dimensio",
-      "codex_unit_title": "Liber III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
+      "codex_unit_title": "Book III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
       "codex_anchor": "bekker-231b8",
       "repos": [
         "euclid"
@@ -3988,7 +3988,7 @@
       "chapter_display": "I.1",
       "in_codex": true,
       "codex_unit": "liber-3b-topos-continuum-dimensio",
-      "codex_unit_title": "Liber III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
+      "codex_unit_title": "Book III.B: Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1)",
       "codex_anchor": "bekker-268b6",
       "repos": [
         "euclid"
@@ -5070,7 +5070,7 @@
       "chapter_display": "III.6",
       "in_codex": true,
       "codex_unit": "liber-4-de-anima-phantasia",
-      "codex_unit_title": "Liber IV: Phantasia, Phantasma & Ta ex Aphaireseos (De Anima III.3–8)",
+      "codex_unit_title": "Book IV: Phantasia, Phantasma & Ta ex Aphaireseos (De Anima III.3–8)",
       "codex_anchor": "bekker-430b20",
       "repos": [
         "euclid"
@@ -5107,7 +5107,7 @@
       "chapter_display": "III.6",
       "in_codex": true,
       "codex_unit": "liber-4-de-anima-phantasia",
-      "codex_unit_title": "Liber IV: Phantasia, Phantasma & Ta ex Aphaireseos (De Anima III.3–8)",
+      "codex_unit_title": "Book IV: Phantasia, Phantasma & Ta ex Aphaireseos (De Anima III.3–8)",
       "codex_anchor": "bekker-431a14",
       "repos": [
         "hoenen"
@@ -5154,7 +5154,7 @@
       "chapter_display": "III.7",
       "in_codex": true,
       "codex_unit": "liber-4-de-anima-phantasia",
-      "codex_unit_title": "Liber IV: Phantasia, Phantasma & Ta ex Aphaireseos (De Anima III.3–8)",
+      "codex_unit_title": "Book IV: Phantasia, Phantasma & Ta ex Aphaireseos (De Anima III.3–8)",
       "codex_anchor": "bekker-431b2",
       "repos": [
         "hoenen"
@@ -5201,7 +5201,7 @@
       "chapter_display": "III.8",
       "in_codex": true,
       "codex_unit": "liber-4-de-anima-phantasia",
-      "codex_unit_title": "Liber IV: Phantasia, Phantasma & Ta ex Aphaireseos (De Anima III.3–8)",
+      "codex_unit_title": "Book IV: Phantasia, Phantasma & Ta ex Aphaireseos (De Anima III.3–8)",
       "codex_anchor": "bekker-432a5",
       "repos": [
         "hoenen"
@@ -5510,7 +5510,7 @@
       "chapter_display": "III.2",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-996b21",
       "repos": [
         "euclid"
@@ -5547,7 +5547,7 @@
       "chapter_display": "III.2",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-996b26",
       "repos": [
         "euclid"
@@ -5584,7 +5584,7 @@
       "chapter_display": "III.2",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-997a10",
       "repos": [
         "euclid"
@@ -5621,7 +5621,7 @@
       "chapter_display": "III.2",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-997a20",
       "repos": [
         "euclid"
@@ -5658,7 +5658,7 @@
       "chapter_display": "III.2",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-997b35",
       "repos": [
         "hoenen"
@@ -5695,7 +5695,7 @@
       "chapter_display": "III.2",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-998a25",
       "repos": [
         "euclid"
@@ -5769,7 +5769,7 @@
       "chapter_display": "V.6",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-1016a2",
       "repos": [
         "euclid"
@@ -5806,7 +5806,7 @@
       "chapter_display": "V.6",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-1016a13",
       "repos": [
         "euclid"
@@ -5843,7 +5843,7 @@
       "chapter_display": "V.6",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-1016b24",
       "repos": [
         "euclid"
@@ -5880,7 +5880,7 @@
       "chapter_display": "V.6",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-1016b25",
       "repos": [
         "euclid"
@@ -5964,7 +5964,7 @@
       "chapter_display": "V.12",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-1020a11",
       "repos": [
         "euclid"
@@ -6001,7 +6001,7 @@
       "chapter_display": "V.12",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-1020a12",
       "repos": [
         "euclid"
@@ -6038,7 +6038,7 @@
       "chapter_display": "V.12",
       "in_codex": true,
       "codex_unit": "liber-5a-scientiae-et-quantitas",
-      "codex_unit_title": "Liber V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
+      "codex_unit_title": "Book V.A: Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1)",
       "codex_anchor": "bekker-1020a13",
       "repos": [
         "euclid"
@@ -6169,7 +6169,7 @@
       "chapter_display": "VII.10",
       "in_codex": true,
       "codex_unit": "liber-5b-hyle-noete-energeia-pulchritudo",
-      "codex_unit_title": "Liber V.B: Intelligible Matter, Diagrammatic Actuality & Beauty (Metaph. Z.10–11; Θ.9; M.1–3)",
+      "codex_unit_title": "Book V.B: Intelligible Matter, Diagrammatic Actuality & Beauty (Metaph. Z.10–11; Θ.9; M.1–3)",
       "codex_anchor": "bekker-1035b6",
       "repos": [
         "euclid"
@@ -6206,7 +6206,7 @@
       "chapter_display": "VII.10",
       "in_codex": true,
       "codex_unit": "liber-5b-hyle-noete-energeia-pulchritudo",
-      "codex_unit_title": "Liber V.B: Intelligible Matter, Diagrammatic Actuality & Beauty (Metaph. Z.10–11; Θ.9; M.1–3)",
+      "codex_unit_title": "Book V.B: Intelligible Matter, Diagrammatic Actuality & Beauty (Metaph. Z.10–11; Θ.9; M.1–3)",
       "codex_anchor": "bekker-1035b32",
       "repos": [
         "euclid"
@@ -6502,7 +6502,7 @@
       "chapter_display": "IX.8",
       "in_codex": true,
       "codex_unit": "liber-5b-hyle-noete-energeia-pulchritudo",
-      "codex_unit_title": "Liber V.B: Intelligible Matter, Diagrammatic Actuality & Beauty (Metaph. Z.10–11; Θ.9; M.1–3)",
+      "codex_unit_title": "Book V.B: Intelligible Matter, Diagrammatic Actuality & Beauty (Metaph. Z.10–11; Θ.9; M.1–3)",
       "codex_anchor": "bekker-1051a24",
       "repos": [
         "euclid"
@@ -6539,7 +6539,7 @@
       "chapter_display": "IX.8",
       "in_codex": true,
       "codex_unit": "liber-5b-hyle-noete-energeia-pulchritudo",
-      "codex_unit_title": "Liber V.B: Intelligible Matter, Diagrammatic Actuality & Beauty (Metaph. Z.10–11; Θ.9; M.1–3)",
+      "codex_unit_title": "Book V.B: Intelligible Matter, Diagrammatic Actuality & Beauty (Metaph. Z.10–11; Θ.9; M.1–3)",
       "codex_anchor": "bekker-1051a26",
       "repos": [
         "euclid"
@@ -6576,7 +6576,7 @@
       "chapter_display": "IX.8",
       "in_codex": true,
       "codex_unit": "liber-5b-hyle-noete-energeia-pulchritudo",
-      "codex_unit_title": "Liber V.B: Intelligible Matter, Diagrammatic Actuality & Beauty (Metaph. Z.10–11; Θ.9; M.1–3)",
+      "codex_unit_title": "Book V.B: Intelligible Matter, Diagrammatic Actuality & Beauty (Metaph. Z.10–11; Θ.9; M.1–3)",
       "codex_anchor": "bekker-1051a32",
       "repos": [
         "hoenen"

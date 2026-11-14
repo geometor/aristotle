@@ -17,30 +17,30 @@ Every treatise unit is presented across **four synchronized tracks** powered by 
 
 ----
 
-Codex (*Loci Geometrici et Noetici*)
-------------------------------------
+Codex: Aristotle on Geometry, Episteme & Nous
+-----------------------------------------------
 
-:doc:`Enter the Multi-Track Book Codex <loci_geometrici/index>`
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+:doc:`Enter the Multi-Track Book Codex (Geometric Passages) <loci_geometrici/index>`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* **Liber I — Analytica Posteriora: Demonstrative Science, Axioms & Nous**:
+* **Book I — Analytica Posteriora: Demonstrative Science, Axioms & Nous**:
   :doc:`I.A. Apodeixis, Axioms & Intellectual Vision (Anal. Post. I.1–13) <loci_geometrici/liber-1a-apodeixis/liber-1a-apodeixis-en>` ·
   :doc:`I.B. Universal Proof, Exactitude & Intuitive Nous (Anal. Post. I.24, 27, 31; II.19) <loci_geometrici/liber-1b-universale-et-nous/liber-1b-universale-et-nous-en>`
-* **Liber II — Organon Geometricum: Quantity, Syllogism & Definitions**:
+* **Book II — Organon Geometricum: Quantity, Syllogism & Definitions**:
   :doc:`II.A. Discrete & Continuous Quantity and Geometric Syllogism (Cat. 6; Anal. Prior. I.4, 23–24; II.16) <loci_geometrici/liber-2a-quantitas-et-syllogismus/liber-2a-quantitas-et-syllogismus-en>` ·
   :doc:`II.B. Intelligible Priority in Definitions & Antanairesis (Topics VI.4; VIII.3) <loci_geometrici/liber-2b-topica-definitiones/liber-2b-topica-definitiones-en>`
-* **Liber III — Physica & De Caelo: Abstraction, Infinite, Place & Continuum**:
+* **Book III — Physica & De Caelo: Abstraction, Infinite, Place & Continuum**:
   :doc:`III.A. Mathematical Separation & Potential Infinite (Phys. II.2; III.4–7) <loci_geometrici/liber-3a-mathematicus-et-infinitum/liber-3a-mathematicus-et-infinitum-en>` ·
   :doc:`III.B. Place, Continuum, Zeno & Threefold Dimension (Phys. IV.1–5; VI.1–2, 9; De Caelo I.1) <loci_geometrici/liber-3b-topos-continuum-dimensio/liber-3b-topos-continuum-dimensio-en>`
-* **Liber IV — De Anima: Imagination, Phantasma & Noetic Abstraction**:
+* **Book IV — De Anima: Imagination, Phantasma & Noetic Abstraction**:
   :doc:`IV. Phantasia, Phantasma & Ta ex Aphaireseos (De Anima III.3–8) <loci_geometrici/liber-4-de-anima-phantasia/liber-4-de-anima-phantasia-en>`
-* **Liber V — Metaphysica: Mathematical Sciences, Intelligible Matter, Actuality & Beauty**:
+* **Book V — Metaphysica: Mathematical Sciences, Intelligible Matter, Actuality & Beauty**:
   :doc:`V.A. Unity, Quantity & Theoretical Sciences (Metaph. B.2; Δ.6, 13; E.1) <loci_geometrici/liber-5a-scientiae-et-quantitas/liber-5a-scientiae-et-quantitas-en>` ·
   :doc:`V.B. Intelligible Matter, Diagrammatic Actuality & Beauty (Metaph. Z.10–11; Θ.9; M.1–3) <loci_geometrici/liber-5b-hyle-noete-energeia-pulchritudo/liber-5b-hyle-noete-energeia-pulchritudo-en>`
-* **Critical Apparatus**:
+* **Scholarly Apparatus**:
+  :doc:`People (Biographical Register) <loci_geometrici/persons>` ·
+  :doc:`Bibliography <loci_geometrici/bibliography>` ·
   :doc:`Master Bekker Concordance (199 Loci Across Euclid, Hoenen & Pacioli) <loci_geometrici/concordance>` ·
-  :doc:`Bibliography & Editions <loci_geometrici/bibliography>` ·
-  :doc:`Index of Persons & Commentators <loci_geometrici/persons>` ·
   :doc:`Glossary of Noetic & Geometric Terms <loci_geometrici/glossary>`
 
 ----
@@ -48,6 +48,9 @@ Codex (*Loci Geometrici et Noetici*)
 Editorial Context & Architecture
 --------------------------------
 
+* :doc:`Using This Edition (Reader's Guide) <usage/index>`
+* :doc:`People (Biographical Register) <loci_geometrici/persons>`
+* :doc:`Bibliography <loci_geometrici/bibliography>`
 * :doc:`Mission — Why Aristotle Anchors the GEOMETOR Canon <mission/index>`
 * :doc:`The Bekker Edition (1831) & the Oxford Translation <about/bekker-edition>`
 * :doc:`Aristotle's Four Pillars of Geometric Cognition <about/aristotle-and-geometor>`
@@ -59,3 +62,4 @@ Editorial Context & Architecture
    :hidden:
 
    loci_geometrici/index
+   usage/index

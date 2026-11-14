@@ -1,5 +1,6 @@
-:order: 93
-:layout: book
+:navigation: footer
+:order: 60
+:nav_title: Glossary
 :type: apparatus
 :title: Glossary of Noetic & Geometric Terms
 
@@ -9,7 +10,7 @@
 Glossary of Noetic & Geometric Terms
 ======================================
 
-.. rubric:: Greek, Scholastic Latin & Mathematical Lexicon of *Loci Geometrici et Noetici*
+.. rubric:: Greek, Scholastic Latin & Mathematical Lexicon of *Aristotle on Geometry, Episteme & Nous*
 
 Systematic lexicon of thirty-six foundational Aristotelian concepts governing demonstrative science (*epistēmē*), syllogistic necessity, continuous vs. discrete quantity, potential infinity, imaginative presentation (*phantasma*), and abstraction in intelligible matter (*hylē noētē*).
 

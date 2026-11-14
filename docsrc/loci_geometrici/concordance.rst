@@ -1,5 +1,6 @@
-:order: 90
-:layout: book
+:navigation: footer
+:order: 50
+:nav_title: Concordance
 :type: apparatus
 :title: Bekker Concordance Across GEOMETOR
 
@@ -17,7 +18,7 @@ This concordance indexes **199 distinct Aristotelian Bekker loci** (representing
 - **geometor/hoenen** (:cite:`Hoenen, De Noetica Geometriae <hoenen:noetica:1952>`): **64** Aristotle citation keys across Capita I–VII & Appendix.
 - **geometor/pacioli** (:cite:`Pacioli, De Divina Proportione <pacioli:divina:1509>`): **17** Aristotle citation & folio entries across the 1509 *Compendio* and *Architectura*.
 
-Of the 199 distinct Bekker loci cited across the sister repositories, **84 foundational geometric and noetic loci** fall directly within the fifty-four full chapters edited in Libri I–V of *Loci Geometrici et Noetici* and link directly to their exact Bekker passage in this Codex.
+Of the 199 distinct Bekker loci cited across the sister repositories, **84 foundational geometric and noetic loci** fall directly within the fifty-four full chapters edited in Books I–V of *Aristotle on Geometry, Episteme & Nous* and link directly to their exact Bekker passage in this Codex.
 
 .. _concordance-perihermeneias:
 

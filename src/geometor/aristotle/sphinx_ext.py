@@ -34,8 +34,15 @@ def register_greek_track(book_mod: ModuleType | object | None = None) -> bool:
         return True
 
     suffix_patterns = getattr(book_mod, "_TRACK_SUFFIX_PATTERNS", None)
-    if isinstance(suffix_patterns, list) and not any(k == "el" for _, k, _ in suffix_patterns):
-        suffix_patterns.append(_EL_SUFFIX_ENTRY)
+    if isinstance(suffix_patterns, list):
+        updated = False
+        for i, (pat, k, _lbl) in enumerate(suffix_patterns):
+            if k == "el" and pat == r"^(.+)[._-]el$":
+                suffix_patterns[i] = _EL_SUFFIX_ENTRY
+                updated = True
+                break
+        if not updated and not any(k == "el" for _, k, _ in suffix_patterns):
+            suffix_patterns.append(_EL_SUFFIX_ENTRY)
 
     aux_basenames = getattr(book_mod, "_AUX_TRACK_BASENAMES", None)
     if isinstance(aux_basenames, set):
@@ -94,6 +101,9 @@ def register_greek_track(book_mod: ModuleType | object | None = None) -> bool:
             return []
 
         if any(tr.get("docname") == el_doc for tr in tracks):
+            for tr in tracks:
+                if tr.get("docname") == el_doc:
+                    tr["label"] = "Greek (Bekker)"
             return tracks
 
         el_entry: dict[str, Any] = {
