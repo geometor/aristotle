@@ -785,8 +785,9 @@ def write_apparatus_jsons(repo_root: Path) -> None:
 def render_glossary_rst() -> str:
     """Render ``docsrc/loci_geometrici/glossary.rst`` with ``.. _term-<slug>:`` anchors."""
     lines = [
-        ":order: 93",
-        ":layout: book",
+        ":navigation: footer",
+        ":order: 60",
+        ":nav_title: Glossary",
         ":type: apparatus",
         ":title: Glossary of Noetic & Geometric Terms",
         "",
@@ -796,7 +797,7 @@ def render_glossary_rst() -> str:
         "Glossary of Noetic & Geometric Terms",
         "======================================",
         "",
-        ".. rubric:: Greek, Scholastic Latin & Mathematical Lexicon of *Loci Geometrici et Noetici*",
+        ".. rubric:: Greek, Scholastic Latin & Mathematical Lexicon of *Aristotle on Geometry, Episteme & Nous*",
         "",
         "Systematic lexicon of thirty-six foundational Aristotelian concepts governing demonstrative science (*epistēmē*), syllogistic necessity, continuous vs. discrete quantity, potential infinity, imaginative presentation (*phantasma*), and abstraction in intelligible matter (*hylē noētē*).",
         "",
@@ -824,23 +825,30 @@ def render_glossary_rst() -> str:
 def render_persons_rst() -> str:
     """Render ``docsrc/loci_geometrici/persons.rst`` with ``.. _person-<slug>:`` anchors."""
     lines = [
-        ":order: 92",
-        ":layout: book",
+        ":navigation: header",
+        ":order: 5",
+        ":nav_title: People",
         ":type: apparatus",
-        ":title: Index of Persons & Commentators",
+        ":title: People",
         "",
         ".. _persons:",
         "",
-        "===============================",
-        "Index of Persons & Commentators",
-        "===============================",
+        "People",
+        "======",
         "",
         ".. rubric:: Ancient Geometers, Peripatetic Exegetes, Scholastics & Modern Editors",
         "",
-        "Biographical register of philosophers, mathematicians, ancient commentators, Scholastic doctors, and modern philologists engaged across *Loci Geometrici et Noetici* and the GEOMETOR canon.",
+        "Biographical register of philosophers, mathematicians, ancient commentators, Scholastic doctors, and modern philologists engaged across *Aristotle on Geometry, Episteme & Nous* and the GEOMETOR canon.",
+        "",
+        "Authors, Translators & Editors",
+        "------------------------------",
         "",
     ]
-    for key, entry in PERSONS_DATA.items():
+    top_keys = ["aristotle", "bekker", "ross"]
+    for key in top_keys:
+        entry = PERSONS_DATA.get(key)
+        if not entry:
+            continue
         slug = apparatus_slug(key)
         heading = f"{entry['name']} ({entry['dates']})"
         lines.extend(
@@ -848,7 +856,34 @@ def render_persons_rst() -> str:
                 f".. _person-{slug}:",
                 "",
                 heading,
-                "-" * len(heading),
+                "~" * len(heading),
+                "",
+                f"**{entry['role']}**",
+                "",
+                f"{entry['bio']}",
+                "",
+            ]
+        )
+
+    lines.extend(
+        [
+            "Cited Geometers, Philosophers & Scholars",
+            "----------------------------------------",
+            "",
+        ]
+    )
+
+    for key, entry in PERSONS_DATA.items():
+        if key in top_keys:
+            continue
+        slug = apparatus_slug(key)
+        heading = f"{entry['name']} ({entry['dates']})"
+        lines.extend(
+            [
+                f".. _person-{slug}:",
+                "",
+                heading,
+                "~" * len(heading),
                 "",
                 f"**{entry['role']}**",
                 "",
@@ -862,20 +897,20 @@ def render_persons_rst() -> str:
 def render_bibliography_rst() -> str:
     """Render ``docsrc/loci_geometrici/bibliography.rst`` with ``.. _cite-<slug>:`` anchors."""
     lines = [
-        ":order: 91",
-        ":layout: book",
+        ":navigation: header",
+        ":order: 6",
+        ":nav_title: Bibliography",
         ":type: apparatus",
-        ":title: Bibliography & Editions",
+        ":title: Bibliography",
         "",
         ".. _bibliography:",
         "",
-        "=======================",
-        "Bibliography & Editions",
-        "=======================",
+        "Bibliography",
+        "============",
         "",
         ".. rubric:: Critical Greek Editions, Oxford Translations, Classical Treatises & Commentaries",
         "",
-        "Authoritative editions, translations, classical mathematical propositions, and commentaries cited across the primary apparatus and analytical notes of *Loci Geometrici et Noetici*.",
+        "Authoritative editions, translations, classical mathematical propositions, and commentaries cited across the primary apparatus and analytical notes of *Aristotle on Geometry, Episteme & Nous*.",
         "",
     ]
     for key, entry in CITATIONS_DATA.items():

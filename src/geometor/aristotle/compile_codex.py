@@ -457,7 +457,7 @@ def _render_unit_summary_rst(
         title,
         bar,
         "",
-        f".. rubric:: Argumentative Architecture & Bekker Conspectus ({unit.bekker_range})",
+        f".. rubric:: Argumentative Architecture & Bekker Overview ({unit.bekker_range})",
         "",
         "Architectural Thesis",
         "--------------------",
@@ -481,8 +481,8 @@ def _render_unit_summary_rst(
 
     lines.extend(
         [
-            "Chapter & Bekker Span Conspectus",
-            "--------------------------------",
+            "Chapter & Bekker Span Overview",
+            "------------------------------",
             "",
             ".. list-table::",
             "   :header-rows: 1",
@@ -639,8 +639,9 @@ def render_concordance_rst(concordance_payload: dict[str, Any]) -> str:
     entries: list[dict[str, Any]] = concordance_payload["entries"]
 
     lines: list[str] = [
-        ":order: 90",
-        ":layout: book",
+        ":navigation: footer",
+        ":order: 50",
+        ":nav_title: Concordance",
         ":type: apparatus",
         ":title: Bekker Concordance Across GEOMETOR",
         "",
@@ -665,7 +666,7 @@ def render_concordance_rst(concordance_payload: dict[str, Any]) -> str:
         "",
         f"Of the {summary['distinct_bekker_loci']} distinct Bekker loci cited across the sister repositories, "
         f"**{summary['loci_in_codex']} foundational geometric and noetic loci** fall directly within the fifty-four "
-        "full chapters edited in Libri I–V of *Loci Geometrici et Noetici* and link directly to their exact Bekker "
+        "full chapters edited in Books I–V of *Aristotle on Geometry, Episteme & Nous* and link directly to their exact Bekker "
         "passage in this Codex.",
         "",
     ]
@@ -742,28 +743,44 @@ def render_codex_index_rst(concordance_payload: dict[str, Any]) -> str:
     """Render the Book Codex root ``docsrc/loci_geometrici/index.rst``."""
     summary = concordance_payload["summary"]
     lines: list[str] = [
+        ":navigation: header",
         ":order: 1",
+        ":nav_title: Geometric Passages",
         ":layout: book",
-        ":book_title: Loci Geometrici et Noetici",
+        ":book_title: Aristotle on Geometry, Episteme & Nous",
         ":book_subtitle: Aristotle (384–322 BC) · Bekker Greek (1831) & Oxford English Codex",
         ":author: Aristotle of Stagira",
+        ":year: c. 350 BCE / 1831, 1908–1952",
         ":book_theme: classical-serif",
         "",
         ".. _loci-geometrici:",
         "",
-        "======================================================================",
-        "Loci Geometrici et Noetici — Aristotle on Geometry, Episteme & Nous",
-        "======================================================================",
+        "======================================",
+        "Aristotle on Geometry, Episteme & Nous",
+        "======================================",
         "",
-        ".. rubric:: Synchronized Multi-Track Book Codex (English · Greek Bekker · Summary · Critical Notes)",
+        ".. rubric:: Synchronized Bekker Greek (1831) & Oxford English Codex",
         "",
-        "**Loci Geometrici et Noetici** gathers into a single critical edition the fifty-four foundational chapters across eight treatises of :person:`Aristotle <aristotle>` (*Categories*, *Prior Analytics*, *Posterior Analytics*, *Topics*, *Physics*, *De Caelo*, *De Anima*, and *Metaphysics*) that govern the deductive architecture of Euclidean geometry, continuous vs. discrete quantity, potential infinity, imaginative construction (:term:`phantasma <phantasma>`), and formal abstraction in :term:`intelligible matter <hyle-noete>`.",
+        ".. container:: title-page",
+        "",
+        "   | **ΑΡΙΣΤΟΤΕΛΟΥΣ ΤΑ ΜΕΤΑ ΤΑ ΦΥΣΙΚΑ ΚΑΙ ΦΥΣΙΚΑ ΚΑΙ ΛΟΓΙΚΑ**",
+        "   | **LOCI GEOMETRICI ET NOETICI**",
+        "   |",
+        "   | **Author**: :person:`Aristotle of Stagira <aristotle>` (384–322 BC)",
+        "   | **Critical Greek Text**: :person:`Immanuel Bekker <bekker>` (Berlin: Prussian Academy, 1831) & :person:`W. D. Ross <ross>` (Oxford, 1924)",
+        "   | **English Translation**: Oxford Translation of Aristotle (Clarendon Press, 1908–1952; ed. J. A. Smith & W. D. Ross)",
+        "   | **GEOMETOR Digital Edition**: Synchronized English, Greek (Bekker), Summary & Commentary Tracks",
+        "",
+        "**Aristotle on Geometry, Episteme & Nous** gathers into a single critical edition the fifty-four foundational chapters across eight treatises of :person:`Aristotle <aristotle>` (*Categories*, *Prior Analytics*, *Posterior Analytics*, *Topics*, *Physics*, *De Caelo*, *De Anima*, and *Metaphysics*) that govern the deductive architecture of Euclidean geometry, continuous vs. discrete quantity, potential infinity, imaginative construction (:term:`phantasma <phantasma>`), and formal abstraction in :term:`intelligible matter <hyle-noete>`.",
         "",
         f"Every unit is presented across **four synchronized tracks**—**English** (public-domain Oxford Clarendon translations), **Greek (Bekker)** (verbatim Prussian Academy 1831/1837 & Ross 1924 polytonic Greek), **Summary**, and **Critical Notes** synthesizing :person:`Sir Thomas Heath's <heath>` mathematical-historical reconstructions with :person:`Fr. Peter Hoenen S.J.'s <hoenen>` and :person:`St. Thomas Aquinas's <thomas-aquinas>` scholastic-noetic analysis—indexed to **{summary['distinct_bekker_loci']} Bekker loci** across ``geometor/euclid``, ``geometor/hoenen``, and ``geometor/pacioli``.",
         "",
+        "Table of Contents",
+        "-----------------",
+        "",
     ]
 
-    # Group units by Liber
+    # Group units by Book
     libri_groups: list[tuple[str, str, list[UnitSpec]]] = []
     for unit in CODEX_UNITS:
         if not libri_groups or libri_groups[-1][0] != unit.liber_num:
@@ -775,11 +792,11 @@ def render_codex_index_rst(concordance_payload: dict[str, Any]) -> str:
         lines.extend(
             [
                 lib_title,
-                "-" * len(lib_title),
+                "~" * len(lib_title),
                 "",
                 ".. toctree::",
                 "   :maxdepth: 1",
-                f"   :caption: Liber {lib_num}",
+                f"   :caption: Book {lib_num}",
                 "",
             ]
         )
@@ -789,16 +806,16 @@ def render_codex_index_rst(concordance_payload: dict[str, Any]) -> str:
 
     lines.extend(
         [
-            "Critical Apparatus & Bekker Concordance",
-            "---------------------------------------",
+            "Scholarly Apparatus & Bekker Concordance",
+            "----------------------------------------",
             "",
             ".. toctree::",
             "   :maxdepth: 1",
-            "   :caption: Critical Apparatus",
+            "   :caption: Scholarly Apparatus",
             "",
-            "   concordance",
-            "   bibliography",
             "   persons",
+            "   bibliography",
+            "   concordance",
             "   glossary",
             "",
             ".. toctree::",

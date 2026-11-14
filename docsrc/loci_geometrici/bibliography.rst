@@ -1,17 +1,17 @@
-:order: 91
-:layout: book
+:navigation: header
+:order: 6
+:nav_title: Bibliography
 :type: apparatus
-:title: Bibliography & Editions
+:title: Bibliography
 
 .. _bibliography:
 
-=======================
-Bibliography & Editions
-=======================
+Bibliography
+============
 
 .. rubric:: Critical Greek Editions, Oxford Translations, Classical Treatises & Commentaries
 
-Authoritative editions, translations, classical mathematical propositions, and commentaries cited across the primary apparatus and analytical notes of *Loci Geometrici et Noetici*.
+Authoritative editions, translations, classical mathematical propositions, and commentaries cited across the primary apparatus and analytical notes of *Aristotle on Geometry, Episteme & Nous*.
 
 .. _cite-bekker-1831:
 
