@@ -1,0 +1,29 @@
+:order: 9
+:layout: book
+:type: book
+:title: Proper Principles & Bryson's Quadrature of the Circle
+:canonical_id: APo I.9 (75b37)
+:folio: Bekker 75b
+:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+
+.. _liber-1a-apodeixis-en-c9:
+
+Posterior Analytics I.9 — Proper Principles & Bryson's Quadrature of the Circle (75b37–76a30)
+---------------------------------------------------------------------------------------------
+
+*Oxford Translation by G. R. G. Mure · Bekker 75b37–76a30*
+
+
+.. folio:: Bekker 75b
+
+It is clear that if the conclusion is to show an attribute inhering as such, nothing can be demonstrated except from its 'appropriate' basic truths. Consequently a proof even from true, indemonstrable, and immediate premisses does not constitute knowledge. Such proofs are like Bryson's method of squaring the circle; for they operate by taking as their middle a common character-a character, therefore, which the subject may share with another-and consequently they apply equally to subjects different in kind. They therefore afford knowledge of an attribute only as inhering accidentally, not as belonging to its subject as such: otherwise they would not have been applicable to another genus.
+
+Our knowledge of any attribute's connexion with a subject is accidental unless we know that connexion through the middle term in virtue of which it inheres, and as an inference from basic premisses essential and 'appropriate' to the subject-unless we know, e.g. the property of possessing angles equal to two right angles as belonging to that subject in which it inheres essentially, and as inferred from basic premisses essential and 'appropriate' to that subject: so that if that middle term also belongs essentially to the minor, the middle must belong to the same kind as the major and minor terms. The only exceptions to this rule are such cases as theorems in harmonics which are demonstrable by arithmetic. Such theorems are proved by the same middle terms as arithmetical properties, but with a qualification-the fact falls under a separate science (for the subject genus is separate), but the reasoned fact concerns the superior science, to which the attributes essentially belong. Thus, even these apparent exceptions show that no attribute is strictly demonstrable except from its 'appropriate' basic truths, which, however, in the case of these sciences have the requisite identity of character.
+
+.. _bekker-76a:
+
+.. folio:: Bekker 76a
+
+It is no less evident that the peculiar basic truths of each inhering attribute are indemonstrable; for basic truths from which they might be deduced would be basic truths of all that is, and the science to which they belonged would possess universal sovereignty. This is so because he knows better whose knowledge is deduced from higher causes, for his knowledge is from prior premisses when it derives from causes themselves uncaused: hence, if he knows better than others or best of all, his knowledge would be science in a higher or the highest degree. But, as things are, demonstration is not transferable to another genus, with such exceptions as we have mentioned of the application of geometrical demonstrations to theorems in mechanics or optics, or of arithmetical demonstrations to those of harmonics.
+
+It is hard to be sure whether one knows or not; for it is hard to be sure whether one's knowledge is based on the basic truths appropriate to each attribute-the differentia of true knowledge. We think we have scientific knowledge if we have reasoned from true and primary premisses. But that is not so: the conclusion must be homogeneous with the basic facts of the science.
