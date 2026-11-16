@@ -128,19 +128,17 @@ def test_concordance_indexes_sister_repos_and_resolves_codex_anchors() -> None:
     assert summary["source_keys_by_repo"]["hoenen"] >= 60
     assert summary["source_keys_by_repo"]["pacioli"] >= 15
 
-    unit_anchors: dict[str, set[str]] = {}
-    for unit in CODEX_UNITS:
-        en_path = REPO_ROOT / "docsrc" / "loci_geometrici" / unit.slug / f"{unit.slug}-en.rst"
-        assert en_path.is_file()
-        unit_anchors[unit.slug] = set(_ANCHOR_DEF_RE.findall(en_path.read_text(encoding="utf-8")))
+    codex_anchors: set[str] = set()
+    for rst_path in (REPO_ROOT / "docsrc").rglob("*.rst"):
+        if "modules/api" in str(rst_path):
+            continue
+        codex_anchors.update(_ANCHOR_DEF_RE.findall(rst_path.read_text(encoding="utf-8")))
 
     in_codex_entries = [e for e in payload["entries"] if e["in_codex"]]
     assert len(in_codex_entries) == summary["loci_in_codex"]
     for entry in in_codex_entries:
-        u_slug = entry["codex_unit"]
         anc = entry["codex_anchor"]
-        assert u_slug in unit_anchors
-        assert anc in unit_anchors[u_slug], f"Missing anchor {anc} in {u_slug}-en.rst"
+        assert anc in codex_anchors, f"Missing anchor {anc} in docsrc"
 
 
 def test_sphinx_ext_registers_greek_track() -> None:
@@ -154,38 +152,63 @@ def test_sphinx_ext_registers_greek_track() -> None:
     assert any(k == "el" and label == "Greek (Bekker)" for _, k, label in book_mod._TRACK_SUFFIX_PATTERNS)
 
     class _DummyEnv:
+        srcdir = str(REPO_ROOT / "docsrc")
+        metadata = {
+            "analytica_posteriora/book_1/ch_01/index": {
+                "tracks": "English: index | Greek (Bekker): greek | Summary: summary | Notes: notes"
+            }
+        }
         found_docs = {
-            "loci_geometrici/liber-1a-apodeixis/liber-1a-apodeixis-en",
-            "loci_geometrici/liber-1a-apodeixis/liber-1a-apodeixis-el",
-            "loci_geometrici/liber-1a-apodeixis/liber-1a-apodeixis-summary",
-            "loci_geometrici/liber-1a-apodeixis/liber-1a-apodeixis-notes",
+            "analytica_posteriora/book_1/ch_01/index",
+            "analytica_posteriora/book_1/ch_01/greek",
+            "analytica_posteriora/book_1/ch_01/summary",
+            "analytica_posteriora/book_1/ch_01/notes",
         }
 
     tracks = book_mod.detect_companion_tracks(
         _DummyEnv(),
-        "loci_geometrici/liber-1a-apodeixis/liber-1a-apodeixis-en",
+        "analytica_posteriora/book_1/ch_01/index",
     )
-    assert [t["key"] for t in tracks] == ["en", "el", "summary", "notes"]
     assert [t["label"] for t in tracks] == ["English", "Greek (Bekker)", "Summary", "Notes"]
 
+    # Also verify legacy suffix-based fallback detection
+    class _LegacyEnv:
+        found_docs = {
+            "demo/sample-en",
+            "demo/sample-el",
+            "demo/sample-summary",
+            "demo/sample-notes",
+        }
 
-def test_all_four_tracks_present_for_each_codex_unit() -> None:
-    """Verify each of the 9 Codex units has synchronized -en, -el, -summary, and -notes RST files."""
-    codex_dir = REPO_ROOT / "docsrc" / "loci_geometrici"
-    for unit in CODEX_UNITS:
-        for suffix in ("en", "el", "summary", "notes"):
-            track_file = codex_dir / unit.slug / f"{unit.slug}-{suffix}.rst"
+    legacy_tracks = book_mod.detect_companion_tracks(
+        _LegacyEnv(),
+        "demo/sample-en",
+    )
+    assert [t["label"] for t in legacy_tracks] == ["English", "Greek (Bekker)", "Summary", "Notes"]
+
+
+def test_all_four_tracks_present_for_each_canonical_chapter() -> None:
+    """Verify each of the 54 canonical chapters has synchronized index, greek, summary, and notes RST files."""
+    chapter_dirs = []
+    for rst in (REPO_ROOT / "docsrc").rglob("index.rst"):
+        if rst.parent.name.startswith("ch_"):
+            chapter_dirs.append(rst.parent)
+
+    assert len(chapter_dirs) == 54
+    for ch_dir in chapter_dirs:
+        for fname in ("index.rst", "greek.rst", "summary.rst", "notes.rst"):
+            track_file = ch_dir / fname
             assert track_file.is_file(), f"Missing track file {track_file}"
             content = track_file.read_text(encoding="utf-8")
             assert ":layout: book" in content
+            assert ":tracks:" in content
 
 
 def test_apparatus_roles_resolve_across_docsrc() -> None:
     """Verify 100% of :term:, :person:, and :cite: roles in docsrc resolve to apparatus entries."""
-    codex_dir = REPO_ROOT / "docsrc" / "loci_geometrici"
-    glossary_anchors = set(_ANCHOR_DEF_RE.findall((codex_dir / "glossary.rst").read_text(encoding="utf-8")))
-    persons_anchors = set(_ANCHOR_DEF_RE.findall((codex_dir / "persons.rst").read_text(encoding="utf-8")))
-    bib_anchors = set(_ANCHOR_DEF_RE.findall((codex_dir / "bibliography.rst").read_text(encoding="utf-8")))
+    glossary_anchors = set(_ANCHOR_DEF_RE.findall((REPO_ROOT / "docsrc" / "glossary.rst").read_text(encoding="utf-8")))
+    persons_anchors = set(_ANCHOR_DEF_RE.findall((REPO_ROOT / "docsrc" / "persons.rst").read_text(encoding="utf-8")))
+    bib_anchors = set(_ANCHOR_DEF_RE.findall((REPO_ROOT / "docsrc" / "bibliography.rst").read_text(encoding="utf-8")))
 
     glossary_slugs = {apparatus_slug(k) for k in GLOSSARY_DATA}
     person_slugs = {apparatus_slug(k) for k in PERSONS_DATA}

@@ -47,10 +47,12 @@ def register_greek_track(book_mod: ModuleType | object | None = None) -> bool:
     aux_basenames = getattr(book_mod, "_AUX_TRACK_BASENAMES", None)
     if isinstance(aux_basenames, set):
         aux_basenames.add("el")
+        aux_basenames.add("greek")
 
     aux_patterns = getattr(book_mod, "_AUX_TRACK_PATTERNS", None)
     if isinstance(aux_patterns, list):
         aux_patterns.append(_EL_AUX_PATTERN)
+        aux_patterns.append(re.compile(r"^.+[._-]greek$"))
 
     orig_detect = getattr(book_mod, "detect_companion_tracks")
     extract_stem = getattr(book_mod, "_extract_unit_stem")
@@ -68,10 +70,16 @@ def register_greek_track(book_mod: ModuleType | object | None = None) -> bool:
         def _qual(local_name: str) -> str:
             return f"{doc_dir}/{local_name}" if doc_dir else local_name
 
+        if tracks:
+            for tr in tracks:
+                if tr.get("key") in ("el", "greek") or tr.get("docname", "").endswith(("/greek", "/el", "-el")):
+                    tr["label"] = "Greek (Bekker)"
+            return tracks
+
         is_unit_dir = not doc_dir or stem == os.path.basename(doc_dir)
         el_cands = [_qual(f"{stem}.el"), _qual(f"{stem}_el"), _qual(f"{stem}-el")]
         if is_unit_dir:
-            el_cands.append(_qual("el"))
+            el_cands.extend([_qual("el"), _qual("greek")])
 
         el_doc = next((cand for cand in el_cands if cand in found_docs), None)
         if el_doc is None:
@@ -81,7 +89,7 @@ def register_greek_track(book_mod: ModuleType | object | None = None) -> bool:
         if not tracks:
             en_cands = [_qual(f"{stem}.en"), _qual(f"{stem}_en"), _qual(f"{stem}-en")]
             if is_unit_dir:
-                en_cands.append(_qual("en"))
+                en_cands.extend([_qual("en"), _qual("index")])
             en_doc = next((cand for cand in en_cands if cand in found_docs), None)
             if en_doc and en_doc != el_doc:
                 return [
@@ -115,7 +123,7 @@ def register_greek_track(book_mod: ModuleType | object | None = None) -> bool:
 
         insert_idx = len(tracks)
         for idx, tr in enumerate(tracks):
-            if tr.get("key") == "en":
+            if tr.get("key") in ("en", "index"):
                 insert_idx = idx + 1
                 break
             if tr.get("key") in {"commentary", "summary", "notes", "folio"}:

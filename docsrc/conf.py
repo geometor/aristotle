@@ -28,7 +28,9 @@ repo_name = "aristotle"
 
 setup_globals(org, org_name, repo, repo_name)  # noqa: F405
 
-project = "GEOMETOR • aristotle"
+site_title = "Aristotle of Stagira"
+project = site_title
+html_title = f"{site_title} • {org_name}"
 author = "Aristotle of Stagira • Ed. GEOMETOR"
 copyright = "2026, GEOMETOR • Bekker (1831) & Oxford Translation Critical Codex"
 
