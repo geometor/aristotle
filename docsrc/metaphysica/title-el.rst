@@ -44,4 +44,4 @@
 Κριτικὸς Μηχανισμός
 -------------------
 
-:doc:`/concordance` · :doc:`/persons` · :doc:`/glossary` · :doc:`/bibliography`
+:doc:`/concordance` · :doc:`/people/index` · :doc:`/glossary` · :doc:`/bibliography`

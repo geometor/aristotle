@@ -207,7 +207,9 @@ def test_all_four_tracks_present_for_each_canonical_chapter() -> None:
 def test_apparatus_roles_resolve_across_docsrc() -> None:
     """Verify 100% of :term:, :person:, and :cite: roles in docsrc resolve to apparatus entries."""
     glossary_anchors = set(_ANCHOR_DEF_RE.findall((REPO_ROOT / "docsrc" / "glossary.rst").read_text(encoding="utf-8")))
-    persons_anchors = set(_ANCHOR_DEF_RE.findall((REPO_ROOT / "docsrc" / "persons.rst").read_text(encoding="utf-8")))
+    persons_anchors = set()
+    for p in sorted((REPO_ROOT / "docsrc" / "people").glob("*.rst")):
+        persons_anchors.update(_ANCHOR_DEF_RE.findall(p.read_text(encoding="utf-8")))
     bib_anchors = set(_ANCHOR_DEF_RE.findall((REPO_ROOT / "docsrc" / "bibliography.rst").read_text(encoding="utf-8")))
 
     glossary_slugs = {apparatus_slug(k) for k in GLOSSARY_DATA}

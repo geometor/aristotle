@@ -48,7 +48,7 @@ Physics & On the Heavens
 
 .. rubric:: Scholarly Apparatus
 
-:doc:`Master Bekker Concordance </concordance>` · :doc:`Index of Persons </persons>` · :doc:`Philosophical Glossary </glossary>` · :doc:`Bibliography </bibliography>`
+:doc:`Master Bekker Concordance </concordance>` · :doc:`Index of Persons </people/index>` · :doc:`Philosophical Glossary </glossary>` · :doc:`Bibliography </bibliography>`
 
 .. toctree::
    :hidden:
