@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Προτέρων I.4 (25b26–26b33) — Greek (Bekker)
 :canonical_id: APr I.4 (25b26)
 :folio: Bekker 25b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2a-quantitas-et-syllogismus-el-c2:
 

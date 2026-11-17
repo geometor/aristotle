@@ -3,7 +3,7 @@
 :title: Φυσικῆς Ἀκροάσεως III.5 (204a8–206a8) — Greek (Bekker)
 :canonical_id: Phys. III.5 (204a8)
 :folio: Bekker 204a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3a-mathematicus-et-infinitum-el-c3:
 

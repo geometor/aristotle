@@ -3,7 +3,7 @@
 :title: Φυσικῆς Ἀκροάσεως IV.1 (208a27–209a30) — Greek (Bekker)
 :canonical_id: Phys. IV.1 (208a27)
 :folio: Bekker 208a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-el:
 .. _liber-3b-topos-continuum-dimensio-el-c1:

@@ -2,7 +2,7 @@
 :type: summary
 :title: Discrete vs. Continuous Quantity: Number, Line, Surface, Body, Time & Place — Summary
 :canonical_id: Cat. 6 (4b20)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2a-quantitas-et-syllogismus-summary:
 .. _liber-2a-quantitas-et-syllogismus-summary-c1:

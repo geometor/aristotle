@@ -1,24 +1,25 @@
 :navigation: header
 :order: 3
 :type: book
-:nav_title: Physics & De Caelo
-:breadcrumb_title: Physics & De Caelo
+:nav_title: Physics & On the Heavens
+:breadcrumb_title: Physics & On the Heavens
 :layout: book
-:book_title: Physica & De Caelo
+:book_title: Physics & On the Heavens
 :book_subtitle: Abstraction, the Potential Infinite, Place, the Continuum & Spatial Dimensions
 :author: Aristotle of Stagira
 :year: c. 350 BCE / 1831, 1908–1952
 :book_theme: classical-serif
+:tracks: English: index | Greek: title-el
 :excerpt: Fourteen foundational chapters on mathematical separation in thought, the impossibility of an actual infinite sensible body, the definition of place, the indivisibility of the continuum, and Zeno's paradoxes.
 
 .. _physica:
 .. _physica-index:
 
-==================
-Physica & De Caelo
-==================
+==========================
+Physics & On the Heavens
+==========================
 
-.. rubric:: *PHYSICA ET DE CAELO* — Bekker Greek (1831) & Oxford English Translation
+.. rubric:: *Φυσικὴ ἀκρόασις καὶ Περὶ οὐρανοῦ* (*Physica et De Caelo*) — Bekker Greek (1831) & Oxford English Translation
 
 .. container:: title-page
 
@@ -58,3 +59,10 @@ Physica & De Caelo
    book_4/index
    book_6/index
    de_caelo/index
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-el

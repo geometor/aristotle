@@ -2,7 +2,7 @@
 :type: notes
 :title: Eternal Validity of Demonstrative Conclusions — Notes
 :canonical_id: APo I.8 (75b21)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-notes-c8:
 

@@ -3,7 +3,7 @@
 :title: Περὶ Ψυχῆς III.7 (431a1–431b19) — Greek (Bekker)
 :canonical_id: DA III.7 (431a1)
 :folio: Bekker 431a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-4-de-anima-phantasia-el-c5:
 

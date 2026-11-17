@@ -3,7 +3,7 @@
 :title: Τοπικῶν VI.4 (141a23–142b19) — Greek (Bekker)
 :canonical_id: Top. VI.4 (141a23)
 :folio: Bekker 141a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2b-topica-definitiones-el:
 .. _liber-2b-topica-definitiones-el-c1:

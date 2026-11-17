@@ -2,7 +2,7 @@
 :type: notes
 :title: Knowledge of the Fact (To Hoti) vs. Reasoned Fact (To Dioti) in Subalternate Sciences — Notes
 :canonical_id: APo I.13 (78a22)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-notes-c13:
 

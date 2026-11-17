@@ -2,7 +2,7 @@
 :type: notes
 :title: Aporiai on Axioms, Mathematical Intermediates & Protagoras's Tangent (997b35–998a6) — Notes
 :canonical_id: Metaph. B.2 (996a18)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5a-scientiae-et-quantitas-notes:
 .. _liber-5a-scientiae-et-quantitas-notes-c1:

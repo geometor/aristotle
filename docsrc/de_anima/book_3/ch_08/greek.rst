@@ -3,7 +3,7 @@
 :title: Περὶ Ψυχῆς III.8 (431b20–432a14) — Greek (Bekker)
 :canonical_id: DA III.8 (431b20)
 :folio: Bekker 431b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-4-de-anima-phantasia-el-c6:
 

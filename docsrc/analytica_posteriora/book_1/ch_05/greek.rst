@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Ὑστέρων I.5 (74a4–74b4) — Greek (Bekker)
 :canonical_id: APo I.5 (74a4)
 :folio: Bekker 74a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-el-c5:
 

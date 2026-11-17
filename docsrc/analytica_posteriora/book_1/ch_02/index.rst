@@ -4,7 +4,7 @@
 :title: Nature of Scientific Knowledge (Episteme) & First Principles
 :canonical_id: APo I.2 (71b9)
 :folio: Bekker 71b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-en-c2:
 

@@ -2,7 +2,7 @@
 :type: summary
 :title: Distinction of Imagination (Phantasia) from Perception & Judgement — Summary
 :canonical_id: DA III.3 (427a17)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-4-de-anima-phantasia-summary:
 .. _liber-4-de-anima-phantasia-summary-c1:

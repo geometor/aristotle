@@ -3,7 +3,7 @@
 :title: Φυσικῆς Ἀκροάσεως III.6 (206a9–207a32) — Greek (Bekker)
 :canonical_id: Phys. III.6 (206a9)
 :folio: Bekker 206a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3a-mathematicus-et-infinitum-el-c4:
 

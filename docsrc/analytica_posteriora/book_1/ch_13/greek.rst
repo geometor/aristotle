@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Ὑστέρων I.13 (78a22–79a16) — Greek (Bekker)
 :canonical_id: APo I.13 (78a22)
 :folio: Bekker 78a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-el-c13:
 

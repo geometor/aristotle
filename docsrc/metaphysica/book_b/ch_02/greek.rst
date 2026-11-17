@@ -3,7 +3,7 @@
 :title: Τῶν μετὰ τὰ Φυσικά B (III).2 (996a18–998a19) — Greek (Bekker)
 :canonical_id: Metaph. B.2 (996a18)
 :folio: Bekker 996a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5a-scientiae-et-quantitas-el:
 .. _liber-5a-scientiae-et-quantitas-el-c1:

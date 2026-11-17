@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Ὑστέρων I.3 (72b5–73a20) — Greek (Bekker)
 :canonical_id: APo I.3 (72b5)
 :folio: Bekker 72b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-el-c3:
 

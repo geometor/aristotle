@@ -4,7 +4,7 @@
 :title: Predecessors on the Infinite (Apeiron) & Five Grounds for Belief in It
 :canonical_id: Phys. III.4 (202b30)
 :folio: Bekker 202b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3a-mathematicus-et-infinitum-en-c2:
 

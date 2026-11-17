@@ -2,7 +2,7 @@
 :type: notes
 :title: Impossibility of an Actual Infinite Sensible or Mathematical Body — Notes
 :canonical_id: Phys. III.5 (204a8)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3a-mathematicus-et-infinitum-notes-c3:
 

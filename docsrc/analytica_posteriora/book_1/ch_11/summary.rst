@@ -2,7 +2,7 @@
 :type: summary
 :title: Common Principles Across Distinct Sciences without Platonic Forms — Summary
 :canonical_id: APo I.11 (77a5)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-summary-c11:
 

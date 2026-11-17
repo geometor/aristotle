@@ -4,7 +4,7 @@
 :title: Place of the Heaven & Resolution of the Topos Aporiai
 :canonical_id: Phys. IV.5 (212a31)
 :folio: Bekker 212a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-en-c5:
 

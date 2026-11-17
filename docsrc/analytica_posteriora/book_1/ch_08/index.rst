@@ -4,7 +4,7 @@
 :title: Eternal Validity of Demonstrative Conclusions
 :canonical_id: APo I.8 (75b21)
 :folio: Bekker 75b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-en-c8:
 

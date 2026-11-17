@@ -4,7 +4,7 @@
 :title: Primary Hypotheses & Pre-Eudoxian Proportion by Antanairesis (158b29–35)
 :canonical_id: Top. VIII.3 (158a31)
 :folio: Bekker 158a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2b-topica-definitiones-en-c2:
 

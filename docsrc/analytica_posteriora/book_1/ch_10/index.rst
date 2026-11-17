@@ -4,7 +4,7 @@
 :title: Definitions, Axioms (Koinai Ennoiai), Hypotheses & Postulates (Aitemata)
 :canonical_id: APo I.10 (76a31)
 :folio: Bekker 76a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-en-c10:
 

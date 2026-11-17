@@ -2,7 +2,7 @@
 :type: summary
 :title: Constructive Actuality (Energeia) in Geometrical Discovery: Triangle 2R & Semicircle Angle (1051a21–33) — Summary
 :canonical_id: Metaph. Θ.9 (1051a4)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5b-hyle-noete-energeia-pulchritudo-summary-c3:
 

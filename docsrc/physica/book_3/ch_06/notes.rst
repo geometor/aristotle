@@ -2,7 +2,7 @@
 :type: notes
 :title: Potential Existence of the Infinite by Division & Addition — Notes
 :canonical_id: Phys. III.6 (206a9)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3a-mathematicus-et-infinitum-notes-c4:
 

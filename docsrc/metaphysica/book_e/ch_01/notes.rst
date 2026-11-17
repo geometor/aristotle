@@ -2,7 +2,7 @@
 :type: notes
 :title: Tripartition of Theoretical Science: Physics, Mathematics & First Philosophy — Notes
 :canonical_id: Metaph. E.1 (1025b3)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5a-scientiae-et-quantitas-notes-c4:
 

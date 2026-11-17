@@ -2,7 +2,7 @@
 :type: summary
 :title: Place Neither Form nor Matter (Critique of Plato's Timaeus Receptacle) — Summary
 :canonical_id: Phys. IV.2 (209a31)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-summary-c2:
 

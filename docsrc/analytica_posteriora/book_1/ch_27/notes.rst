@@ -2,7 +2,7 @@
 :type: notes
 :title: Comparative Exactitude (Akribeia): Unit without Position vs. Point with Position — Notes
 :canonical_id: APo I.27 (87a31)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1b-universale-et-nous-notes-c2:
 

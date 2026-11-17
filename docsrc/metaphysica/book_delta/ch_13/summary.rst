@@ -2,7 +2,7 @@
 :type: summary
 :title: Lexicon of Quantity (Poson): Numberable Multitude (Plethos) vs. Measurable Magnitude (Megethos) — Summary
 :canonical_id: Metaph. Δ.13 (1020a7)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5a-scientiae-et-quantitas-summary-c3:
 

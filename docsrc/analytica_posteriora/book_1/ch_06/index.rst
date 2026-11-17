@@ -4,7 +4,7 @@
 :title: Demonstration from Necessary & Essential Premises
 :canonical_id: APo I.6 (74b5)
 :folio: Bekker 74b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-en-c6:
 

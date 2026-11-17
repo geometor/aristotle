@@ -2,7 +2,7 @@
 :type: notes
 :title: Formal Essence vs. Sensible & Intelligible Matter of the Circle — Notes
 :canonical_id: Metaph. Z.11 (1036a26)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5b-hyle-noete-energeia-pulchritudo-notes-c2:
 

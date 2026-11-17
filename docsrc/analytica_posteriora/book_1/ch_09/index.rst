@@ -4,7 +4,7 @@
 :title: Proper Principles & Bryson's Quadrature of the Circle
 :canonical_id: APo I.9 (75b37)
 :folio: Bekker 75b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-en-c9:
 

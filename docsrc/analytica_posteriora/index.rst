@@ -9,6 +9,7 @@
 :author: Aristotle of Stagira
 :year: c. 350 BCE / 1831, 1908–1952
 :book_theme: classical-serif
+:tracks: English: index | Greek: title-el
 :excerpt: Seventeen foundational chapters across two books on deductive mathematical science (episteme), definitions, hypotheses, postulates, axioms, and the intuitive grasp of first principles (nous).
 
 .. _analytica_posteriora:
@@ -18,7 +19,7 @@
 Posterior Analytics
 ===================
 
-.. rubric:: *ANALYTICA POSTERIORA* — Bekker Greek (1831) & Oxford English Translation
+.. rubric:: *Ἀναλυτικὰ ὕστερα* (*Analytica Posteriora*) — Bekker Greek (1831) & Oxford English Translation
 
 .. container:: title-page
 
@@ -55,3 +56,10 @@ Posterior Analytics
 
    book_1/index
    book_2/index
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-el

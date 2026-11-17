@@ -3,7 +3,7 @@
 :title: Τῶν μετὰ τὰ Φυσικά M (XIII).3 (1077b17–1078b6) — Greek (Bekker)
 :canonical_id: Metaph. M.3 (1077b17)
 :folio: Bekker 1077b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5b-hyle-noete-energeia-pulchritudo-el-c6:
 

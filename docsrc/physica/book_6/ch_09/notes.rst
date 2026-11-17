@@ -2,7 +2,7 @@
 :type: notes
 :title: Zeno's Four Arguments Against Motion (Dichotomy, Achilles, Arrow & Stadium) — Notes
 :canonical_id: Phys. VI.9 (239b5)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-notes-c8:
 

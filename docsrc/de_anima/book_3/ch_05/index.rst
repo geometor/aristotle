@@ -4,7 +4,7 @@
 :title: Active & Productive Intellect (Nous Poietikos) as Light
 :canonical_id: DA III.5 (430a10)
 :folio: Bekker 430a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-4-de-anima-phantasia-en-c3:
 

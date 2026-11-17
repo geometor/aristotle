@@ -4,7 +4,7 @@
 :title: Programmatic Inquiry into the Mode of Existence of Mathematical Objects
 :canonical_id: Metaph. M.1 (1076a8)
 :folio: Bekker 1076a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5b-hyle-noete-energeia-pulchritudo-en-c4:
 

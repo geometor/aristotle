@@ -13,11 +13,11 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`Organon Geometricum <https://geometor.github.io/aristotle/organon/>`_** — Foundational logical treatises from the *Categories*, *Prior Analytics*, and *Topics* establishing geometric definition, continuous quantity, and deductive syllogisms.
+- **`Organon <https://geometor.github.io/aristotle/organon/>`_** — Foundational logical treatises from the *Categories*, *Prior Analytics*, and *Topics* establishing geometric definition, continuous quantity, and deductive syllogisms.
 - **`Posterior Analytics <https://geometor.github.io/aristotle/analytica_posteriora/>`_** — Demonstrative science (*episteme*), indemonstrable first principles, Euclidean axioms, and the emergence of *nous*.
-- **`Physica & De Caelo <https://geometor.github.io/aristotle/physica/>`_** — Mathematical abstraction without falsehood (*abstrahentium non est mendacium*), the potential infinite, place (*topos*), and the non-atomism of the continuum.
-- **`De Anima <https://geometor.github.io/aristotle/de_anima/>`_** — Intellectual vision in geometry, imaginative phantasms (*phantasmata*), and the hand as the tool of tools.
-- **`Metaphysica <https://geometor.github.io/aristotle/metaphysica/>`_** — Mathematical intermediates, intelligible matter (*hyle noete*), actuality (*energeia*), and the discovery of geometric truth by division in act.
+- **`Physics & On the Heavens <https://geometor.github.io/aristotle/physica/>`_** — Mathematical abstraction without falsehood (*abstrahentium non est mendacium*), the potential infinite, place (*topos*), and the non-atomism of the continuum.
+- **`On the Soul <https://geometor.github.io/aristotle/de_anima/>`_** — Intellectual vision in geometry, imaginative phantasms (*phantasmata*), and the hand as the tool of tools.
+- **`Metaphysics <https://geometor.github.io/aristotle/metaphysica/>`_** — Mathematical intermediates, intelligible matter (*hyle noete*), actuality (*energeia*), and the discovery of geometric truth by division in act.
 
 Repository Contents
 -------------------

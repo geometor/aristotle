@@ -2,7 +2,7 @@
 :type: summary
 :title: Isomorphic Divisibility of Magnitude & Time; First Refutation of Zeno — Summary
 :canonical_id: Phys. VI.2 (232a23)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-summary-c7:
 

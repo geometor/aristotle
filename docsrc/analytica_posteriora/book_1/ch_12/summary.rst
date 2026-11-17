@@ -2,7 +2,7 @@
 :type: summary
 :title: Geometrical Interrogation, Pseudographema & Intellectual Vision (77b30) — Summary
 :canonical_id: APo I.12 (77a36)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-summary-c12:
 

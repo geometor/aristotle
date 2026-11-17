@@ -2,7 +2,7 @@
 :type: summary
 :title: Asymmetry of Number & Magnitude; Why Geometers Need Only Arbitrary Finite Lengths — Summary
 :canonical_id: Phys. III.7 (207a33)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3a-mathematicus-et-infinitum-summary-c5:
 

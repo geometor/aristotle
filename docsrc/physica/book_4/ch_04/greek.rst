@@ -3,7 +3,7 @@
 :title: Φυσικῆς Ἀκροάσεως IV.4 (210b32–212a30) — Greek (Bekker)
 :canonical_id: Phys. IV.4 (210b32)
 :folio: Bekker 210b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-el-c4:
 

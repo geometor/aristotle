@@ -4,7 +4,7 @@
 :title: Qua-Theory of Mathematical Objects & Mathematical Beauty: Order, Symmetry & Definiteness (1078a31–b6)
 :canonical_id: Metaph. M.3 (1077b17)
 :folio: Bekker 1077b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5b-hyle-noete-energeia-pulchritudo-en-c6:
 

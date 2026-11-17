@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Ὑστέρων I.7 (75a38–75b20) — Greek (Bekker)
 :canonical_id: APo I.7 (75a38)
 :folio: Bekker 75a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-el-c7:
 

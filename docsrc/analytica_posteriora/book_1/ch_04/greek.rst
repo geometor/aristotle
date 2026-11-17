@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Ὑστέρων I.4 (73a21–74a3) — Greek (Bekker)
 :canonical_id: APo I.4 (73a21)
 :folio: Bekker 73a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-el-c4:
 

@@ -2,7 +2,7 @@
 :type: notes
 :title: The Soul as Place of Forms & Intrinsic Dependence of Noesis upon Phantasmata — Notes
 :canonical_id: DA III.8 (431b20)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-4-de-anima-phantasia-notes-c6:
 

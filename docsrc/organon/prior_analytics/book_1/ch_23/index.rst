@@ -4,7 +4,7 @@
 :title: Syllogistic Reduction & Proof of Incommensurability of the Diagonal (41a23–30)
 :canonical_id: APr I.23 (40b17)
 :folio: Bekker 40b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2a-quantitas-et-syllogismus-en-c3:
 

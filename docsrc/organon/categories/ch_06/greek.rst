@@ -3,7 +3,7 @@
 :title: Κατηγορίαι Κεφ. 6 (4b20–6a35) — Greek (Bekker)
 :canonical_id: Cat. 6 (4b20)
 :folio: Bekker 4b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2a-quantitas-et-syllogismus-el:
 .. _liber-2a-quantitas-et-syllogismus-el-c1:

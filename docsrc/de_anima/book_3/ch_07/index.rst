@@ -4,7 +4,7 @@
 :title: Thinking in Phantasmata & Grasping Mathematicals (Ta ex Aphaireseos, 431b12–17)
 :canonical_id: DA III.7 (431a1)
 :folio: Bekker 431a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-4-de-anima-phantasia-en-c5:
 
