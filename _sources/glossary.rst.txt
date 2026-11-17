@@ -1,5 +1,5 @@
-:navigation: footer
-:order: 60
+:navigation: header
+:order: 16
 :nav_title: Glossary
 :type: apparatus
 :title: Glossary of Noetic & Geometric Terms

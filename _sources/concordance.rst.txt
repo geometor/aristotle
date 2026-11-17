@@ -1,5 +1,5 @@
-:navigation: footer
-:order: 50
+:navigation: header
+:order: 14
 :nav_title: Concordance
 :type: apparatus
 :title: Bekker Concordance Across GEOMETOR
