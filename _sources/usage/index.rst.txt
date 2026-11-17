@@ -61,7 +61,7 @@ Document collections throughout the site (such as the :doc:`Development & Curati
 6. People, Bibliography & Glossary Tooltips
 -------------------------------------------
 
-* **People (``:person:``)**: Historical figures (such as :person:`Aristotle of Stagira <aristotle>`, :person:`Immanuel Bekker <bekker>`, :person:`W. D. Ross <ross>`, :person:`Plato <plato>`, :person:`Zeno <zeno>`, and :person:`Peter Hoenen <hoenen>`) display rich biographical hover cards linking to the :doc:`People Register <../persons>`.
+* **People (``:person:``)**: Historical figures (such as :person:`Aristotle of Stagira <aristotle>`, :person:`Immanuel Bekker <bekker>`, :person:`W. D. Ross <ross>`, :person:`Plato <plato>`, :person:`Zeno <zeno>`, and :person:`Peter Hoenen <hoenen>`) display rich biographical hover cards linking to the :doc:`People Register <../people/index>`.
 * **Citations (``:cite:``)**: Inline citations link directly to primary sources in the :doc:`Bibliography <../bibliography>`.
 * **Technical Terms (``:term:``)**: Thirty-six Greek and Scholastic Latin philosophical terms link to definitions in the :doc:`Glossary <../glossary>`.
 * **Theme Switching**: Toggle between Light and Dark themes via the header button to suit your reading environment.
