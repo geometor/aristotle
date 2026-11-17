@@ -19,6 +19,21 @@ Books in This Archive
 - `On the Soul <https://geometor.github.io/aristotle/de_anima/>`_ — Intellectual vision in geometry, imaginative phantasms (*phantasmata*), and the hand as the tool of tools.
 - `Metaphysics <https://geometor.github.io/aristotle/metaphysica/>`_ — Mathematical intermediates, intelligible matter (*hyle noete*), actuality (*energeia*), and the discovery of geometric truth by division in act.
 
+Python Package & Modules
+------------------------
+
+The ``geometor-aristotle`` Python package (``import geometor.aristotle``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
+
+- ``apparatus.py`` — Scholarly apparatus registries (Glossary, Persons, Bibliography) and RST generators.
+- ``commentary.py`` — Scholarly summaries and dual-tradition critical commentary (Heath & Hoenen) for Libri I–V.
+- ``compile_codex.py`` — Primary source parser and Multi-Track Book Codex RST compiler for ``geometor-aristotle``.
+- ``concordance.py`` — Bekker coordinate parser and cross-corpus Aristotle concordance builder.
+- ``units.py`` — Canonical specification of the 5 Libri and 9 multi-track Book Codex units.
+- ``cli.py`` — Command-line interface for building and verifying the ``geometor-aristotle`` Codex.
+- ``sphinx_ext.py`` — Sphinx extension registering the Bekker Greek (``-el``) companion track in ``publish``.
+
+See the `API Reference <https://geometor.github.io/aristotle/modules/>`_ for full module documentation.
+
 Repository Contents
 -------------------
 
