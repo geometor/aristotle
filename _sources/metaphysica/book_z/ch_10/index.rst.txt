@@ -4,7 +4,7 @@
 :title: Parts of Definition vs. Parts of Matter & Introduction of Intelligible Matter (Hyle Noete, 1036a9)
 :canonical_id: Metaph. Z.10 (1034b20)
 :folio: Bekker 1034b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5b-hyle-noete-energeia-pulchritudo:
 .. _liber-5b-hyle-noete-energeia-pulchritudo-en:

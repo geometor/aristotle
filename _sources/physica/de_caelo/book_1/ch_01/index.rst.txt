@@ -4,7 +4,7 @@
 :title: Completeness of Three Spatial Dimensions: Line, Surface & Solid Body
 :canonical_id: Cael. I.1 (268a1)
 :folio: Bekker 268a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-en-c9:
 

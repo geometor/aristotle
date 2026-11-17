@@ -3,7 +3,7 @@
 :title: Φυσικῆς Ἀκροάσεως III.4 (202b30–204a7) — Greek (Bekker)
 :canonical_id: Phys. III.4 (202b30)
 :folio: Bekker 202b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3a-mathematicus-et-infinitum-el-c2:
 

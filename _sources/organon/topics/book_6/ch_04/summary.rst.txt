@@ -2,7 +2,7 @@
 :type: summary
 :title: Prior by Nature vs. Prior to Us: Defining Point, Line, Plane & Solid — Summary
 :canonical_id: Top. VI.4 (141a23)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2b-topica-definitiones-summary:
 .. _liber-2b-topica-definitiones-summary-c1:

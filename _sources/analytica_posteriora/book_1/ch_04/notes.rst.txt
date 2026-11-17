@@ -2,7 +2,7 @@
 :type: notes
 :title: Predication 'Of All', Essential (Kath' Hauto) & Universal (Katholou) — Notes
 :canonical_id: APo I.4 (73a21)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-notes-c4:
 

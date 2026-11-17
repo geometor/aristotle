@@ -4,7 +4,7 @@
 :title: Thinking of Indivisibles: Undivided Length & Point/Division
 :canonical_id: DA III.6 (430a26)
 :folio: Bekker 430a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-4-de-anima-phantasia-en-c4:
 

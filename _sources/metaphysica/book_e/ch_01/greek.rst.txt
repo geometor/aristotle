@@ -3,7 +3,7 @@
 :title: Τῶν μετὰ τὰ Φυσικά E (VI).1 (1025b3–1026a32) — Greek (Bekker)
 :canonical_id: Metaph. E.1 (1025b3)
 :folio: Bekker 1025b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5a-scientiae-et-quantitas-el-c4:
 

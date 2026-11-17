@@ -3,7 +3,7 @@
 :title: Φυσικῆς Ἀκροάσεως II.2 (193b22–194b15) — Greek (Bekker)
 :canonical_id: Phys. II.2 (193b22)
 :folio: Bekker 193b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3a-mathematicus-et-infinitum-el:
 .. _liber-3a-mathematicus-et-infinitum-el-c1:

@@ -2,7 +2,7 @@
 :type: summary
 :title: Genetic Ascent from Perception via Epagoge to Nous of First Principles — Summary
 :canonical_id: APo II.19 (99b15)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1b-universale-et-nous-summary-c4:
 

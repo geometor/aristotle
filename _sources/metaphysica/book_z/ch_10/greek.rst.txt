@@ -3,7 +3,7 @@
 :title: Τῶν μετὰ τὰ Φυσικά Z (VII).10 (1034b20–1036a25) — Greek (Bekker)
 :canonical_id: Metaph. Z.10 (1034b20)
 :folio: Bekker 1034b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5b-hyle-noete-energeia-pulchritudo-el:
 .. _liber-5b-hyle-noete-energeia-pulchritudo-el-c1:

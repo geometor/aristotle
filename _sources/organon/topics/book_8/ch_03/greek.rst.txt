@@ -3,7 +3,7 @@
 :title: Τοπικῶν VIII.3 (158a31–159a14) — Greek (Bekker)
 :canonical_id: Top. VIII.3 (158a31)
 :folio: Bekker 158a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2b-topica-definitiones-el-c2:
 

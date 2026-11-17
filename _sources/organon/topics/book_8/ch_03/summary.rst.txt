@@ -2,7 +2,7 @@
 :type: summary
 :title: Primary Hypotheses & Pre-Eudoxian Proportion by Antanairesis (158b29–35) — Summary
 :canonical_id: Top. VIII.3 (158a31)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2b-topica-definitiones-summary-c2:
 

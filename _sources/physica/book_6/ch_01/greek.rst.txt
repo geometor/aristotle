@@ -3,7 +3,7 @@
 :title: Φυσικῆς Ἀκροάσεως VI.1 (231a21–232a22) — Greek (Bekker)
 :canonical_id: Phys. VI.1 (231a21)
 :folio: Bekker 231a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-el-c6:
 

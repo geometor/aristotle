@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Προτέρων II.16 (64b28–65a37) — Greek (Bekker)
 :canonical_id: APr II.16 (64b28)
 :folio: Bekker 64b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2a-quantitas-et-syllogismus-el-c5:
 

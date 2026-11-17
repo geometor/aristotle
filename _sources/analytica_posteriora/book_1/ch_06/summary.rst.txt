@@ -2,7 +2,7 @@
 :type: summary
 :title: Demonstration from Necessary & Essential Premises — Summary
 :canonical_id: APo I.6 (74b5)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-summary-c6:
 

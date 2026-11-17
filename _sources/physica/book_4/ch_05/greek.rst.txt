@@ -3,7 +3,7 @@
 :title: Φυσικῆς Ἀκροάσεως IV.5 (212a31–213a11) — Greek (Bekker)
 :canonical_id: Phys. IV.5 (212a31)
 :folio: Bekker 212a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-el-c5:
 

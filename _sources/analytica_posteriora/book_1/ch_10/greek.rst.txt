@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Ὑστέρων I.10 (76a31–77a4) — Greek (Bekker)
 :canonical_id: APo I.10 (76a31)
 :folio: Bekker 76a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-el-c10:
 

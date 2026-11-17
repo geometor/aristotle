@@ -2,7 +2,7 @@
 :type: summary
 :title: Refutation of Immanent & Separate Mathematical Solids: Priority in Formula vs. Substance — Summary
 :canonical_id: Metaph. M.2 (1076a38)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5b-hyle-noete-energeia-pulchritudo-summary-c5:
 

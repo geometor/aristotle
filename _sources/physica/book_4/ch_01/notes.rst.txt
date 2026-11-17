@@ -2,7 +2,7 @@
 :type: notes
 :title: Existence & Aporiai of Place (Topos) & the Six Directions — Notes
 :canonical_id: Phys. IV.1 (208a27)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-notes:
 .. _liber-3b-topos-continuum-dimensio-notes-c1:

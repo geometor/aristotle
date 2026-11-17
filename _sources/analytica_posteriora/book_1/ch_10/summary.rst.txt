@@ -2,7 +2,7 @@
 :type: summary
 :title: Definitions, Axioms (Koinai Ennoiai), Hypotheses & Postulates (Aitemata) — Summary
 :canonical_id: APo I.10 (76a31)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-summary-c10:
 

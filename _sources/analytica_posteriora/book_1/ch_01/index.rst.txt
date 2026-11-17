@@ -4,7 +4,7 @@
 :title: Pre-existent Knowledge & Mathematical Learning
 :canonical_id: APo I.1 (71a1)
 :folio: Bekker 71a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis:
 .. _liber-1a-apodeixis-en:

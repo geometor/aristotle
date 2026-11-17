@@ -4,7 +4,7 @@
 :title: Receptive Intellect, Flesh vs. Snub, & Continuum vs. Essence of Straight
 :canonical_id: DA III.4 (429a10)
 :folio: Bekker 429a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-4-de-anima-phantasia-en-c2:
 

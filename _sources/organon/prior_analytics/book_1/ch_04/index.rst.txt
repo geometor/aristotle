@@ -4,7 +4,7 @@
 :title: First-Figure Syllogism (Barbara) & Universal Necessity (25b37–39)
 :canonical_id: APr I.4 (25b26)
 :folio: Bekker 25b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2a-quantitas-et-syllogismus-en-c2:
 

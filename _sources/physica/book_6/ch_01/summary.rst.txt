@@ -2,7 +2,7 @@
 :type: summary
 :title: Structure of the Continuum: Why Lines Cannot Be Composed of Indivisible Points — Summary
 :canonical_id: Phys. VI.1 (231a21)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-summary-c6:
 

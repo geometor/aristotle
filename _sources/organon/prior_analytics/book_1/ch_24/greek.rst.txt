@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Προτέρων I.24 (41b6–41b35) — Greek (Bekker)
 :canonical_id: APr I.24 (41b6)
 :folio: Bekker 41b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2a-quantitas-et-syllogismus-el-c4:
 

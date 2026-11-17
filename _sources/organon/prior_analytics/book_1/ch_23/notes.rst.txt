@@ -2,7 +2,7 @@
 :type: notes
 :title: Syllogistic Reduction & Proof of Incommensurability of the Diagonal (41a23–30) — Notes
 :canonical_id: APr I.23 (40b17)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2a-quantitas-et-syllogismus-notes-c3:
 

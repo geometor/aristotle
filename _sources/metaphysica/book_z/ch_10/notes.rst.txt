@@ -2,7 +2,7 @@
 :type: notes
 :title: Parts of Definition vs. Parts of Matter & Introduction of Intelligible Matter (Hyle Noete, 1036a9) — Notes
 :canonical_id: Metaph. Z.10 (1034b20)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5b-hyle-noete-energeia-pulchritudo-notes:
 .. _liber-5b-hyle-noete-energeia-pulchritudo-notes-c1:

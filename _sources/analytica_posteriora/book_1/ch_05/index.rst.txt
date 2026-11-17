@@ -4,7 +4,7 @@
 :title: Errors in Attaining the Commensurate Universal (Triangle 2R & Alternating Proportion)
 :canonical_id: APo I.5 (74a4)
 :folio: Bekker 74a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-en-c5:
 

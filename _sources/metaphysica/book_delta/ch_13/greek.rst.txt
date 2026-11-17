@@ -3,7 +3,7 @@
 :title: Τῶν μετὰ τὰ Φυσικά Δ (V).13 (1020a7–1020a32) — Greek (Bekker)
 :canonical_id: Metaph. Δ.13 (1020a7)
 :folio: Bekker 1020a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5a-scientiae-et-quantitas-el-c3:
 

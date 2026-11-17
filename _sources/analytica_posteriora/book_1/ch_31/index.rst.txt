@@ -4,7 +4,7 @@
 :title: Insufficiency of Sense-Perception (Aisthesis) for Geometric Science
 :canonical_id: APo I.31 (87b28)
 :folio: Bekker 87b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1b-universale-et-nous-en-c3:
 

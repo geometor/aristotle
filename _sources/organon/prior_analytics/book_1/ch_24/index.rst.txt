@@ -4,7 +4,7 @@
 :title: Universal Premiss in Proof & Pre-Euclidean Proof of Isosceles Base Angles (41b13–22)
 :canonical_id: APr I.24 (41b6)
 :folio: Bekker 41b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2a-quantitas-et-syllogismus-en-c4:
 

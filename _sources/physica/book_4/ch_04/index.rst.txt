@@ -4,7 +4,7 @@
 :title: Definition of Place as the Innermost Motionless Boundary of the Containing Body
 :canonical_id: Phys. IV.4 (210b32)
 :folio: Bekker 210b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-en-c4:
 

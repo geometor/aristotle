@@ -3,7 +3,7 @@
 :title: Περὶ Ψυχῆς III.3 (427a17–429a9) — Greek (Bekker)
 :canonical_id: DA III.3 (427a17)
 :folio: Bekker 427a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-4-de-anima-phantasia-el:
 .. _liber-4-de-anima-phantasia-el-c1:

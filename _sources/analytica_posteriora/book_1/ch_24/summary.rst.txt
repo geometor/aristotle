@@ -2,7 +2,7 @@
 :type: summary
 :title: Superiority of Universal over Particular Demonstration — Summary
 :canonical_id: APo I.24 (85a13)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1b-universale-et-nous-summary:
 .. _liber-1b-universale-et-nous-summary-c1:

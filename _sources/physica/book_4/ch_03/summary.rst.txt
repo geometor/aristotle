@@ -2,7 +2,7 @@
 :type: summary
 :title: Senses of Being 'In' Something & Whether a Thing Can Be in Itself — Summary
 :canonical_id: Phys. IV.3 (210a14)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-summary-c3:
 

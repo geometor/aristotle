@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Ὑστέρων I.24 (85a13–86a30) — Greek (Bekker)
 :canonical_id: APo I.24 (85a13)
 :folio: Bekker 85a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1b-universale-et-nous-el:
 .. _liber-1b-universale-et-nous-el-c1:

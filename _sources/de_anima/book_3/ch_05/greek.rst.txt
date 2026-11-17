@@ -3,7 +3,7 @@
 :title: Περὶ Ψυχῆς III.5 (430a10–430a25) — Greek (Bekker)
 :canonical_id: DA III.5 (430a10)
 :folio: Bekker 430a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-4-de-anima-phantasia-el-c3:
 

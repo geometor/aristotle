@@ -4,21 +4,22 @@
 :nav_title: Metaphysics
 :breadcrumb_title: Metaphysics
 :layout: book
-:book_title: Metaphysica
+:book_title: Metaphysics
 :book_subtitle: Mathematical Intermediates, Intelligible Matter, Actuality & Beauty
 :author: Aristotle of Stagira
 :year: c. 350 BCE / 1831, 1908–1952
 :book_theme: classical-serif
+:tracks: English: index | Greek: title-el
 :excerpt: Ten foundational chapters across six books on mathematical intermediates, continuous quantity, intelligible matter (hyle noete), constructive actuality (energeia) in geometric discovery, and the beauty of mathematics.
 
 .. _metaphysica:
 .. _metaphysica-index:
 
 ===========
-Metaphysica
+Metaphysics
 ===========
 
-.. rubric:: *METAPHYSICA* — Bekker Greek (1831) & Oxford English Translation
+.. rubric:: *Τὰ μετὰ τὰ φυσικά* (*Metaphysica*) — Bekker Greek (1831) & Oxford English Translation
 
 .. container:: title-page
 
@@ -59,3 +60,10 @@ Metaphysica
    book_z/index
    book_theta/index
    book_m/index
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-el

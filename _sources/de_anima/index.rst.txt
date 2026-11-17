@@ -1,24 +1,25 @@
 :navigation: header
 :order: 4
 :type: book
-:nav_title: De Anima
-:breadcrumb_title: De Anima
+:nav_title: On the Soul
+:breadcrumb_title: On the Soul
 :layout: book
-:book_title: De Anima
+:book_title: On the Soul
 :book_subtitle: Imagination, Phantasma & Noetic Abstraction
 :author: Aristotle of Stagira
 :year: c. 350 BCE / 1831, 1908–1952
 :book_theme: classical-serif
+:tracks: English: index | Greek: title-el
 :excerpt: Six foundational chapters on imagination (phantasia), phantasms in mathematical thinking, the active and receptive intellect, and thinking indivisibles.
 
 .. _de_anima:
 .. _de_anima-index:
 
-========
-De Anima
-========
+===========
+On the Soul
+===========
 
-.. rubric:: *DE ANIMA* — Bekker Greek (1831) & Oxford English Translation
+.. rubric:: *Περὶ ψυχῆς* (*De Anima*) — Bekker Greek (1831) & Oxford English Translation
 
 .. container:: title-page
 
@@ -54,3 +55,10 @@ De Anima
    :maxdepth: 2
 
    book_3/index
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-el

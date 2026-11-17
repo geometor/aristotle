@@ -3,7 +3,7 @@
 :title: Φυσικῆς Ἀκροάσεως IV.2 (209a31–210a13) — Greek (Bekker)
 :canonical_id: Phys. IV.2 (209a31)
 :folio: Bekker 209a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3b-topos-continuum-dimensio-el-c2:
 

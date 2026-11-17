@@ -2,7 +2,7 @@
 :type: notes
 :title: Thinking of Indivisibles: Undivided Length & Point/Division — Notes
 :canonical_id: DA III.6 (430a26)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-4-de-anima-phantasia-notes-c4:
 

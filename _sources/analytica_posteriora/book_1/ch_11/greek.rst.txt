@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Ὑστέρων I.11 (77a5–77a35) — Greek (Bekker)
 :canonical_id: APo I.11 (77a5)
 :folio: Bekker 77a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-el-c11:
 

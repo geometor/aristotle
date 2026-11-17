@@ -2,7 +2,7 @@
 :type: notes
 :title: Lexicon of Unity (To Hen): Continuity, Indivisible Measure, Point & Monad (1016b24–31) — Notes
 :canonical_id: Metaph. Δ.6 (1015b16)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5a-scientiae-et-quantitas-notes-c2:
 

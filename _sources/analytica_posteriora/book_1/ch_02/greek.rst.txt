@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Ὑστέρων I.2 (71b9–72b4) — Greek (Bekker)
 :canonical_id: APo I.2 (71b9)
 :folio: Bekker 71b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-el-c2:
 

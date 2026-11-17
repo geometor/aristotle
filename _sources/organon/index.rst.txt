@@ -4,21 +4,22 @@
 :nav_title: Organon
 :breadcrumb_title: Organon
 :layout: book
-:book_title: Organon Geometricum
+:book_title: Organon
 :book_subtitle: Categories, Prior Analytics & Topics
 :author: Aristotle of Stagira
 :year: c. 350 BCE / 1831, 1908–1952
 :book_theme: classical-serif
+:tracks: English: index | Greek: title-el
 :excerpt: Seven foundational chapters across Categories, Prior Analytics, and Topics on discrete vs. continuous quantity, syllogistic reduction of mathematical incommensurability, and proportion by antanairesis.
 
 .. _organon:
 .. _organon-index:
 
-===================
-Organon Geometricum
-===================
+=======
+Organon
+=======
 
-.. rubric:: *ORGANON GEOMETRICUM* — Bekker Greek (1831) & Oxford English Translation
+.. rubric:: *Ὄργανον* (*Organon Geometricum*) — Bekker Greek (1831) & Oxford English Translation
 
 .. container:: title-page
 
@@ -56,3 +57,10 @@ Organon Geometricum
    categories/index
    prior_analytics/index
    topics/index
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-el

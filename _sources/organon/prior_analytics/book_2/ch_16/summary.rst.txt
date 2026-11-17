@@ -2,7 +2,7 @@
 :type: summary
 :title: Petitio Principii & Circularity in Pre-Euclidean Parallel-Line Proofs (65a4–9) — Summary
 :canonical_id: APr II.16 (64b28)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-2a-quantitas-et-syllogismus-summary-c5:
 

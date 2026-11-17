@@ -2,7 +2,7 @@
 :type: summary
 :title: Pre-existent Knowledge & Mathematical Learning — Summary
 :canonical_id: APo I.1 (71a1)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-summary:
 .. _liber-1a-apodeixis-summary-c1:

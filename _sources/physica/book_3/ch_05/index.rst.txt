@@ -4,7 +4,7 @@
 :title: Impossibility of an Actual Infinite Sensible or Mathematical Body
 :canonical_id: Phys. III.5 (204a8)
 :folio: Bekker 204a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3a-mathematicus-et-infinitum-en-c3:
 

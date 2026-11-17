@@ -2,7 +2,7 @@
 :type: summary
 :title: Distinction Between Natural Philosophy & Mathematics: Separation in Thought — Summary
 :canonical_id: Phys. II.2 (193b22)
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-3a-mathematicus-et-infinitum-summary:
 .. _liber-3a-mathematicus-et-infinitum-summary-c1:

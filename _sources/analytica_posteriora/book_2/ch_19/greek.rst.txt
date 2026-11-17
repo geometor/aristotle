@@ -3,7 +3,7 @@
 :title: Ἀναλυτικῶν Ὑστέρων II.19 (99b15–100b17) — Greek (Bekker)
 :canonical_id: APo II.19 (99b15)
 :folio: Bekker 99b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1b-universale-et-nous-el-c4:
 

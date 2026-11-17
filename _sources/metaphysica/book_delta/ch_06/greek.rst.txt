@@ -3,7 +3,7 @@
 :title: Τῶν μετὰ τὰ Φυσικά Δ (V).6 (1015b16–1017a6) — Greek (Bekker)
 :canonical_id: Metaph. Δ.6 (1015b16)
 :folio: Bekker 1015b
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-5a-scientiae-et-quantitas-el-c2:
 

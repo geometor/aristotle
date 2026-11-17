@@ -4,7 +4,7 @@
 :title: Prohibition of Genus-Crossing (Metabasis eis allo genos)
 :canonical_id: APo I.7 (75a38)
 :folio: Bekker 75a
-:tracks: English: index | Greek (Bekker): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. _liber-1a-apodeixis-en-c7:
 
