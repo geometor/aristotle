@@ -1,0 +1,23 @@
+{
+  "repository": "geometor/aristotle",
+  "rights_category": "public-domain",
+  "sources": [
+    {
+      "id": "perseus-bekker-aristotle",
+      "title": "Aristotelis Opera (Bekker 1831 / Ross 1924 TEI-XML & Oxford English)",
+      "author": "Immanuel Bekker / W. D. Ross (eds.)",
+      "year": "1831",
+      "era": "Perseus Digital Library",
+      "languages": [
+        "Greek",
+        "English"
+      ],
+      "site_url": "https://www.perseus.tufts.edu/hopper/collection?collection=Perseus:collection:Greco-Roman",
+      "local_path": "resources/",
+      "pages": null,
+      "publisher": "Perseus / First1KGreek / Oxford Clarendon Press",
+      "rights": "Public Domain (Bekker 1831 & Oxford Translations)",
+      "excerpt": "5 Perseus TEI-XML files (tlg0086.*) paired with Bekker Greek and Oxford English texts."
+    }
+  ]
+}
