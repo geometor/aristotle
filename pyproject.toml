@@ -5,7 +5,7 @@ authors = [
   { name = "phi ARCHITECT", email = "phi@geometor.com" },
 ]
 description = "Aristotle's Foundational Texts on Geometry, Demonstrative Science (Episteme), Abstraction, and the Continuum (Loci Geometrici et Noetici) — Synchronized Bekker Greek & Oxford English Book Codex."
-readme = "README.rst"
+readme = "README.md"
 requires-python = ">=3.13"
 classifiers = [
     "Programming Language :: Python :: 3",
