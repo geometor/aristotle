@@ -3,6 +3,17 @@ GEOMETOR • aristotle
 
 **Visit the Online Archive:** https://geometor.github.io/aristotle/
 
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • aristotle Medallion
+   :target: https://geometor.github.io/aristotle/
+   :width: 180px
+   :align: center
+
+.. image:: docsrc/_static/social/banner.png
+   :alt: GEOMETOR • aristotle featured graphic
+   :target: https://geometor.github.io/aristotle/
+   :align: center
+
 **Aristotle • Organon, Posterior Analytics, Physics, De Anima, Metaphysics • semantic digital archive**
 
 Mission
