@@ -7,7 +7,9 @@
 :book_title: Physics & On the Heavens
 :book_subtitle: Abstraction, the Potential Infinite, Place, the Continuum & Spatial Dimensions
 :author: Aristotle of Stagira
-:year: c. 350 BCE / 1831, 1908–1952
+:year: -350
+:year_label: ca. 350 BCE
+:edition_year: 1831
 :book_theme: classical-serif
 :tracks: English: index | Greek: title-el
 :excerpt: Fourteen foundational chapters on mathematical separation in thought, the impossibility of an actual infinite sensible body, the definition of place, the indivisibility of the continuum, and Zeno's paradoxes.

@@ -7,7 +7,9 @@
 :book_title: On the Soul
 :book_subtitle: Imagination, Phantasma & Noetic Abstraction
 :author: Aristotle of Stagira
-:year: c. 350 BCE / 1831, 1908–1952
+:year: -350
+:year_label: ca. 350 BCE
+:edition_year: 1831
 :book_theme: classical-serif
 :tracks: English: index | Greek: title-el
 :excerpt: Six foundational chapters on imagination (phantasia), phantasms in mathematical thinking, the active and receptive intellect, and thinking indivisibles.

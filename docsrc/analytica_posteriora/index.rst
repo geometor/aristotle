@@ -7,7 +7,9 @@
 :book_title: Posterior Analytics
 :book_subtitle: Demonstrative Science, Axioms & Nous (Analytica Posteriora)
 :author: Aristotle of Stagira
-:year: c. 350 BCE / 1831, 1908–1952
+:year: -350
+:year_label: ca. 350 BCE
+:edition_year: 1831
 :book_theme: classical-serif
 :tracks: English: index | Greek: title-el
 :excerpt: Seventeen foundational chapters across two books on deductive mathematical science (episteme), definitions, hypotheses, postulates, axioms, and the intuitive grasp of first principles (nous).
