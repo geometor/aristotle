@@ -7,7 +7,9 @@
 :book_title: Organon
 :book_subtitle: Categories, Prior Analytics & Topics
 :author: Aristotle of Stagira
-:year: c. 350 BCE / 1831, 1908–1952
+:year: -350
+:year_label: ca. 350 BCE
+:edition_year: 1831
 :book_theme: classical-serif
 :tracks: English: index | Greek: title-el
 :excerpt: Seven foundational chapters across Categories, Prior Analytics, and Topics on discrete vs. continuous quantity, syllogistic reduction of mathematical incommensurability, and proportion by antanairesis.
