@@ -14,14 +14,3 @@ Six chapters on imagination (phantasia), phantasms in mathematical reasoning, th
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_03/index
-   ch_04/index
-   ch_05/index
-   ch_06/index
-   ch_07/index
-   ch_08/index

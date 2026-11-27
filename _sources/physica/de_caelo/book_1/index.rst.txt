@@ -14,9 +14,3 @@ Why magnitude in one dimension is a line, in two a surface, in three a body, and
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_01/index

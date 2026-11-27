@@ -14,9 +14,3 @@ On the Heavens: spatial magnitude and the three-dimensional completeness of soli
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   book_1/index

@@ -14,10 +14,3 @@ The master philosophical lexicon defining continuous unity (to hen), the indivis
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_06/index
-   ch_13/index

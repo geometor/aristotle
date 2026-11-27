@@ -14,11 +14,3 @@ First-figure necessity in mathematical demonstration, the pre-Euclidean proof of
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_04/index
-   ch_23/index
-   ch_24/index

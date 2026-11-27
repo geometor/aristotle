@@ -14,9 +14,3 @@ Prior by nature vs. prior to us: defining point, line, plane, and solid without 
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_04/index

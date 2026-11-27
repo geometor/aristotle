@@ -14,9 +14,3 @@ The second book of aporiai: whether one science studies all substances, axioms, 
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_02/index

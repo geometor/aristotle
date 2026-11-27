@@ -20,9 +20,3 @@ Classification of theoretical sciences into physics (separable but unmovable? no
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_01/index

@@ -53,16 +53,6 @@ Physics & On the Heavens
 :doc:`Master Bekker Concordance </concordance>` · :doc:`Index of Persons </people/index>` · :doc:`Philosophical Glossary </glossary>` · :doc:`Bibliography </bibliography>`
 
 .. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   book_2/index
-   book_3/index
-   book_4/index
-   book_6/index
-   de_caelo/index
-
-.. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Title Pages

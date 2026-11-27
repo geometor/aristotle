@@ -20,9 +20,3 @@ The crowning chapter on the genetic ascent from sense-perception and memory via 
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_19/index

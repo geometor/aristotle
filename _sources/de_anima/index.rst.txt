@@ -53,12 +53,6 @@ On the Soul
 :doc:`Master Bekker Concordance </concordance>` · :doc:`Index of Persons </people/index>` · :doc:`Philosophical Glossary </glossary>` · :doc:`Bibliography </bibliography>`
 
 .. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   book_3/index
-
-.. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Title Pages

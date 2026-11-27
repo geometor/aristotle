@@ -14,9 +14,3 @@ Begging the question in pre-Euclidean attempts to demonstrate parallel lines, re
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_16/index
