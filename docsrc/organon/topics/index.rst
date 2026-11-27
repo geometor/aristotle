@@ -20,10 +20,3 @@ Intelligible priority in geometric definitions and the pre-Eudoxian definition o
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   book_6/index
-   book_8/index

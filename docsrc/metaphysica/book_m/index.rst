@@ -14,11 +14,3 @@ Three chapters examining the ontological mode of existence of mathematical objec
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_01/index
-   ch_02/index
-   ch_03/index

@@ -20,9 +20,3 @@ The crucial distinction between the natural philosopher and the geometer: how th
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_02/index

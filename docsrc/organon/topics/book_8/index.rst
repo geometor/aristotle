@@ -14,9 +14,3 @@ Primary geometric hypotheses and reciprocal subtraction (antanairesis / anthypha
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_03/index

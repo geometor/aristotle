@@ -14,9 +14,3 @@ Foundational taxonomy of discrete quantity (number, speech) vs. continuous quant
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_06/index

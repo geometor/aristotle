@@ -14,9 +14,3 @@ The profound doctrine that geometrical constructions are discovered in actuality
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_09/index

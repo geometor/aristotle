@@ -53,14 +53,6 @@ Organon
 :doc:`Master Bekker Concordance </concordance>` · :doc:`Index of Persons </people/index>` · :doc:`Philosophical Glossary </glossary>` · :doc:`Bibliography </bibliography>`
 
 .. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   categories/index
-   prior_analytics/index
-   topics/index
-
-.. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Title Pages

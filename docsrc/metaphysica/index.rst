@@ -53,17 +53,6 @@ Metaphysics
 :doc:`Master Bekker Concordance </concordance>` · :doc:`Index of Persons </people/index>` · :doc:`Philosophical Glossary </glossary>` · :doc:`Bibliography </bibliography>`
 
 .. toctree::
-   :hidden:
-   :maxdepth: 2
-
-   book_b/index
-   book_delta/index
-   book_e/index
-   book_z/index
-   book_theta/index
-   book_m/index
-
-.. toctree::
    :maxdepth: 1
    :hidden:
    :caption: Title Pages

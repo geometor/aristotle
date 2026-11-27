@@ -14,12 +14,3 @@ Four chapters refuting an actual infinite sensible body, establishing the potent
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_04/index
-   ch_05/index
-   ch_06/index
-   ch_07/index

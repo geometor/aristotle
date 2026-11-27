@@ -14,10 +14,3 @@ Four chapters on first-figure universal syllogism, the reduction per impossibile
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   book_1/index
-   book_2/index

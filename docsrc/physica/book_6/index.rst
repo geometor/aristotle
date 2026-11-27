@@ -20,11 +20,3 @@ Three chapters proving that lines cannot consist of points, establishing the iso
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_01/index
-   ch_02/index
-   ch_09/index

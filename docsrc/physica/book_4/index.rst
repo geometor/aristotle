@@ -14,13 +14,3 @@ Five chapters on the nature and aporiai of place, refuting the Platonic receptac
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   ch_01/index
-   ch_02/index
-   ch_03/index
-   ch_04/index
-   ch_05/index
