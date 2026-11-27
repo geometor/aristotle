@@ -15,7 +15,7 @@ Metaphysics Z (VII).11 — Structural Synopsis
 Architectural Thesis
 --------------------
 
-Liber V.B crowns the entire *Loci Geometrici et Noetici* Codex with the three supreme peaks of Aristotelian philosophy of mathematics: *Metaphysics* Z.10–11 (`1034b20–1037a20`) introducing **intelligible matter** (:term:`hylē noētē <hyle-noete>`, `1036a9–12`), *Metaphysics* $\Theta$.9 (`1051a4–33`) revealing that geometrical theorems are discovered by **actualizing** (:term:`energeia <energeia>`, `1051a21–33`) latent divisions in construction, and *Metaphysics* M.1–3 (`1076a8–1078b6`) articulating the *qua*-ontology of mathematicals and celebrating **mathematical beauty** (:term:`to kalon <kalon>`: order, symmetry, and definiteness, `1078a31–b6`).
+Liber V.B crowns the entire *Loci Geometrici et Noetici* Codex with the three supreme peaks of Aristotelian philosophy of mathematics: *Metaphysics* Z.10–11 (`1034b20–1037a20`) introducing **intelligible matter** (:term:`hylē noētē <hyle-noete>`, `1036a9–12`), *Metaphysics* :math:`\Theta`.9 (`1051a4–33`) revealing that geometrical theorems are discovered by **actualizing** (:term:`energeia <energeia>`, `1051a21–33`) latent divisions in construction, and *Metaphysics* M.1–3 (`1076a8–1078b6`) articulating the *qua*-ontology of mathematicals and celebrating **mathematical beauty** (:term:`to kalon <kalon>`: order, symmetry, and definiteness, `1078a31–b6`).
 
 Logical & Noetic Progression
 ----------------------------

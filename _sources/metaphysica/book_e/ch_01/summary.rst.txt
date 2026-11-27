@@ -15,7 +15,7 @@ Metaphysics E (VI).1 — Structural Synopsis
 Architectural Thesis
 --------------------
 
-Liber V.A gathers the architectonic chapters of :person:`Aristotle's <aristotle>` *Metaphysics* on axioms, mathematical objects, unity, quantity, and the classification of the sciences: Book B.2 (`996a18–998a19`) raising the sharp aporiai of sensible vs. ideal geometry (:person:`Protagoras's <protagoras>` circle-tangent objection, `998a2–4`), Book $\Delta$.6 & 13 (`1015b16–1017a6`, `1020a7–32`) defining the indivisible measure and :term:`quantity <poson>`, and Book E.1 (`1025b3–1026a32`) establishing the canonical tripartition of theoretical philosophy into physics, mathematics, and theology/first philosophy.
+Liber V.A gathers the architectonic chapters of :person:`Aristotle's <aristotle>` *Metaphysics* on axioms, mathematical objects, unity, quantity, and the classification of the sciences: Book B.2 (`996a18–998a19`) raising the sharp aporiai of sensible vs. ideal geometry (:person:`Protagoras's <protagoras>` circle-tangent objection, `998a2–4`), Book :math:`\Delta`.6 & 13 (`1015b16–1017a6`, `1020a7–32`) defining the indivisible measure and :term:`quantity <poson>`, and Book E.1 (`1025b3–1026a32`) establishing the canonical tripartition of theoretical philosophy into physics, mathematics, and theology/first philosophy.
 
 Logical & Noetic Progression
 ----------------------------

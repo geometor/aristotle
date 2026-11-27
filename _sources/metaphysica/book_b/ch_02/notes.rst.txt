@@ -16,7 +16,7 @@ Metaphysics B (III).2 — Critical Commentary & Notes
 I. Mathematical-Historical Commentary (*Secundum Heath & Euclidem*)
 -------------------------------------------------------------------
 
-In :cite:`The Thirteen Books of Euclid's Elements <heath:euclid:1926>` (Vol. I, pp. 155–166; Vol. II, p. 113; Vol. III, p. 260), *Metaphysics* $\Delta$.6 and $\Delta$.13 are among :person:`Heath's <heath>` most heavily cited Aristotelian texts (`1016a2`, `1016a13`, `1016b24–27`, `1020a11–13`). Together they supply the complete philosophical lexicon behind Book I (points, lines, planes), Book V (magnitudes), Book VII (units and numbers), and Book XI (solids) of the *Elements*.
+In :cite:`The Thirteen Books of Euclid's Elements <heath:euclid:1926>` (Vol. I, pp. 155–166; Vol. II, p. 113; Vol. III, p. 260), *Metaphysics* :math:`\Delta`.6 and :math:`\Delta`.13 are among :person:`Heath's <heath>` most heavily cited Aristotelian texts (`1016a2`, `1016a13`, `1016b24–27`, `1020a11–13`). Together they supply the complete philosophical lexicon behind Book I (points, lines, planes), Book V (magnitudes), Book VII (units and numbers), and Book XI (solids) of the *Elements*.
 
 In *Metaphysics* B.2 (`997b35–998a6`), Aristotle preserves two vivid fourth-century mathematical illustrations against naive physicalism: (1) :person:`Protagoras's <protagoras>` empirical attack claiming a bronze hoop touches a straightedge along a finite segment rather than at a single point (compare :cite:`Elements III.2 & III.16 <euclid:elements>`), and (2) astronomy's treatment of stars—visibly larger than points—as mathematical point-centers on celestial spheres (`998a4–6`). As Heath (:cite:`Mathematics in Aristotle <heath:math-aristotle:1949>`, pp. 201–203) observes, Book B stages the dialectical knot that Book M.1–3 will untie.
 
@@ -32,7 +32,7 @@ III. Locus-by-Locus Philological & Geometrical Notes
 
 **996b26–33 — Who Investigates the Common Axioms?**
 
-Aristotle poses the aporia solved in Book $\Gamma$ (IV).3: although geometers and arithmeticians *use* the common axioms restricted to their own genus (magnitudes or numbers), it belongs to First Philosophy to investigate them universally *qua* being.
+Aristotle poses the aporia solved in Book :math:`\Gamma` (IV).3: although geometers and arithmeticians *use* the common axioms restricted to their own genus (magnitudes or numbers), it belongs to First Philosophy to investigate them universally *qua* being.
 
 **997b35–998a6 — Protagoras's Tangent to the Circle**
 
